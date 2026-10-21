@@ -84,6 +84,7 @@ class WebhookHandler:
             payload (dict): Datos del lead
         """
         from app.database.models import Lead
+        from app.services.lead_qualifier import LeadQualifier
         try:
             lead = Lead(
                 nombre=payload.get('name', ''),
