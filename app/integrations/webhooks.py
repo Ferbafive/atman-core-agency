@@ -79,19 +79,21 @@ class WebhookHandler:
     def save_lead(self, payload):
         """
         Guarda un lead en la base de datos.
-        
+    
         Args:
             payload (dict): Datos del lead
         """
         from app.database.models import Lead
         from app.services.lead_qualifier import LeadQualifier
+        lead_qualifier = LeadQualifier()
+        qualified_lead = lead_qualifier.qualify_lead(payload)
         try:
             lead = Lead(
-                nombre=payload.get('name', ''),
-                email=payload.get('email', ''),
-                score=payload.get('score', 0.0),
-                qualified=payload.get('qualified', False),
-                status=payload.get('status', '')
+                nombre=qualified_lead.get('name', ''),
+                email=qualified_lead.get('email', ''),
+                score=qualified_lead.get('score', 0.0),
+                qualified=qualified_lead.get('qualified', False),
+                status=qualified_lead.get('status', '')
             )
             self.session.add(lead)
             self.session.commit()
