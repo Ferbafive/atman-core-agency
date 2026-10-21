@@ -16,15 +16,15 @@ class LeadQualifier:
             'required_fields': []
         }
     
-    def qualify_lead(self, lead_data):
+    def calculate_score(self, lead_data):
         """
-        Evalúa si un lead cumple con los criterios de calificación.
+        Calcula el score de un lead basándose en los criterios de calificación.
         
         Args:
             lead_data (dict): Datos del lead a evaluar
             
         Returns:
-            dict: Resultado de la calificación con score y estado
+            float: Score del lead
         """
         score = 0
         max_possible_score = 0
@@ -38,12 +38,26 @@ class LeadQualifier:
         # Calcular score normalizado
         normalized_score = min(100, (score / max_possible_score * 100) if max_possible_score > 0 else 0)
         
+        return normalized_score
+    
+    def qualify_lead(self, lead_data):
+        """
+        Evalúa si un lead cumple con los criterios de calificación.
+        
+        Args:
+            lead_data (dict): Datos del lead a evaluar
+            
+        Returns:
+            dict: Resultado de la calificación con score y estado
+        """
+        score = self.calculate_score(lead_data)
+        
         # Determinar estado
-        status = self._determine_status(normalized_score)
+        status = self._determine_status(score)
         
         return {
             'lead_id': lead_data.get('id', 'unknown'),
-            'score': normalized_score,
+            'score': score,
             'status': status,
             'qualified': status == 'qualified',
             'criteria_met': self._check_criteria_met(lead_data)
