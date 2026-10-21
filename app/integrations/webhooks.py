@@ -1,3 +1,4 @@
+import json
 class WebhookHandler:
     """
     Clase para manejar webhooks de integración.
@@ -72,11 +73,12 @@ class WebhookHandler:
             dict: Resultado del envío
         """
         import requests
+        import json
         
         try:
             response = requests.post(
                 self.endpoint_url,
-                json=payload,
+                json=json.dumps(payload),
                 timeout=self.timeout
             )
             return {
