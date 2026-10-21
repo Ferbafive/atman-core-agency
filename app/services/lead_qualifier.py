@@ -104,3 +104,7 @@ class LeadQualifier:
             list: Lista de reportes de calificación
         """
         return [self.qualify_lead(lead) for lead in leads]
+
+    def get_calified_leads(self, session):
+        from app.database.models import Lead
+        return Lead.get_calified_leads(session)
