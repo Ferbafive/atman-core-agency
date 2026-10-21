@@ -4,19 +4,6 @@ class WebhookHandler:
     Clase para manejar webhooks de integración.
     """
     
-    def __init__(self, endpoint_url=None, timeout=30):
-        """
-        Inicializa el WebhookHandler con configuración de endpoint.
-        
-        Args:
-            endpoint_url (str): URL del endpoint para recibir webhooks
-            timeout (int): Tiempo de espera en segundos
-        """
-        self.endpoint_url = endpoint_url
-        self.timeout = timeout
-        self.handlers = {}
-        from app.database.init_db import init_db
-        self.session = init_db()
     
     def register_handler(self, event_type, handler_func):
         """
