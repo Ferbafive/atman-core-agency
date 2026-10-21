@@ -10,7 +10,7 @@ def send_welcome_email(email, name):
         name (str): Nombre del cliente
     """
     try:
-        msg = MIMEText(f"Hola {name}, gracias por registrarte en nuestro sitio web.")
+        msg = MIMEText(f"Hola {name}, gracias por registrarte en nuestro sitio web.", _charset='utf-8')
         msg['Subject'] = "Bienvenido a nuestro sitio web"
         msg['From'] = "tu_correo_electronico@example.com"
         msg['To'] = email
