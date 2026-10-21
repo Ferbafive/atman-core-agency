@@ -15,3 +15,7 @@ class Lead(Base):
 
     def __repr__(self):
         return f"Lead(id={self.id}, nombre='{self.nombre}', email='{self.email}', score={self.score}, qualified={self.qualified}, status='{self.status}')"
+
+    @classmethod
+    def get_calified_leads(cls, session):
+        return session.query(cls).filter(cls.qualified == True).all()
