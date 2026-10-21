@@ -84,15 +84,18 @@ class WebhookHandler:
             payload (dict): Datos del lead
         """
         from app.database.models import Lead
-        lead = Lead(
-            nombre=payload.get('name', ''),
-            email=payload.get('email', ''),
-            score=payload.get('score', 0.0),
-            qualified=payload.get('qualified', False),
-            status=payload.get('status', '')
-        )
-        self.session.add(lead)
-        self.session.commit()
+        try:
+            lead = Lead(
+                nombre=payload.get('name', ''),
+                email=payload.get('email', ''),
+                score=payload.get('score', 0.0),
+                qualified=payload.get('qualified', False),
+                status=payload.get('status', '')
+            )
+            self.session.add(lead)
+            self.session.commit()
+        except Exception as e:
+            print(f"Error al guardar el lead: {str(e)}")
     
     def send_webhook(self, event_type, payload):
         """
