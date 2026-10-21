@@ -11,6 +11,7 @@ class TestWebhooks(unittest.TestCase):
                 'email': 'juan@example.com'
             }
         }
+        webhook_handler.register_handler('lead_created', webhook_handler.save_lead)
         result = webhook_handler.handle_webhook(webhook_data)
         self.assertEqual(result['status'], 'success')
 
