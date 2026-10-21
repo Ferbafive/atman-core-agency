@@ -37,6 +37,7 @@ class WebhookHandler:
         self.endpoint_url = endpoint_url
         self.timeout = timeout
         self.handlers = {}
+        from app.database.init_db import init_db
         self.session = init_db()
     
     def handle_webhook(self, webhook_data):
