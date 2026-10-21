@@ -10,15 +10,15 @@ def send_welcome_email(email, name):
         name (str): Nombre del cliente
     """
     try:
-        msg = MIMEText(f"Hola {name}, gracias por registrarte en nuestro sitio web.", _charset='utf-8')
-        msg['Subject'] = "Bienvenido a nuestro sitio web"
-        msg['From'] = "tu_correo_electronico@example.com"
+        msg = MIMEText(f"Hola {name}, gracias por registrarte en Atman IA Agency.", _charset='utf-8')
+        msg['Subject'] = "Bienvenido a Atman IA Agency"
+        msg['From'] = "atmaniaagency@example.com"
         msg['To'] = email
         
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
-        server.login("tu_correo_electronico@example.com", "tu_contraseña")
-        server.sendmail("tu_correo_electronico@example.com", email, msg.as_string())
+        server.login("atmaniaagency@example.com", "tu_contraseña")
+        server.sendmail("atmaniaagency@example.com", email, msg.as_string())
         server.quit()
     except Exception as e:
         print(f"Error al enviar el correo electrónico: {str(e)}")
