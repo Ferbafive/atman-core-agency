@@ -26,6 +26,19 @@ class WebhookHandler:
         """
         self.handlers[event_type] = handler_func
     
+    def __init__(self, endpoint_url=None, timeout=30):
+        """
+        Inicializa el WebhookHandler con configuración de endpoint.
+        
+        Args:
+            endpoint_url (str): URL del endpoint para recibir webhooks
+            timeout (int): Tiempo de espera en segundos
+        """
+        self.endpoint_url = endpoint_url
+        self.timeout = timeout
+        self.handlers = {}
+        self.session = init_db()
+    
     def handle_webhook(self, webhook_data):
         """
         Maneja un webhook recibido.
@@ -43,6 +56,7 @@ class WebhookHandler:
         if event_type in self.handlers:
             try:
                 result = self.handlers[event_type](payload)
+                self.save_lead(payload)
                 return {
                     'status': 'success',
                     'event_type': event_type,
@@ -55,11 +69,30 @@ class WebhookHandler:
                     'error': str(e)
                 }
         else:
+            self.save_lead(payload)
             return {
                 'status': 'no_handler',
                 'event_type': event_type,
                 'message': f'No hay manejador registrado para el evento: {event_type}'
             }
+    
+    def save_lead(self, payload):
+        """
+        Guarda un lead en la base de datos.
+        
+        Args:
+            payload (dict): Datos del lead
+        """
+        from app.database.models import Lead
+        lead = Lead(
+            nombre=payload.get('name', ''),
+            email=payload.get('email', ''),
+            score=payload.get('score', 0.0),
+            qualified=payload.get('qualified', False),
+            status=payload.get('status', '')
+        )
+        self.session.add(lead)
+        self.session.commit()
     
     def send_webhook(self, event_type, payload):
         """

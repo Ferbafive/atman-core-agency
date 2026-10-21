@@ -1,4 +1,5 @@
 import unittest
+from app.database.init_db import init_db
 from app.integrations.webhooks import WebhookHandler
 import json
 import unittest
