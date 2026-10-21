@@ -68,14 +68,14 @@ class WebhookHandler:
     
     def save_lead(self, payload):
         """
-        Guarda un lead en la base de datos y envía un correo electrónico de bienvenida y confirmación.
+        Guarda un lead en la base de datos y envía un correo electrónico de bienvenida.
     
         Args:
             payload (dict): Datos del lead
         """
         from app.database.models import Lead
         from app.services.lead_qualifier import LeadQualifier
-        from app.services.email_service import send_welcome_email, send_followup_email, send_confirmation_email, send_cancellation_email
+        from app.services.email_service import send_welcome_email
         lead_qualifier = LeadQualifier()
         qualified_lead = lead_qualifier.qualify_lead(payload)
         try:
@@ -89,9 +89,6 @@ class WebhookHandler:
             self.session.add(lead)
             self.session.commit()
             send_welcome_email(lead.email, lead.nombre)
-            send_followup_email(lead.email, lead.nombre)
-            send_confirmation_email(lead.email, lead.nombre)
-            send_cancellation_email(lead.email, lead.nombre)
         except Exception as e:
             print(f"Error al guardar el lead: {str(e)}")
     
