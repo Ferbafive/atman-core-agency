@@ -15,7 +15,7 @@ def send_welcome_email(email, name):
         msg['From'] = "tu_correo_electronico@example.com"
         msg['To'] = email
         
-        server = smtplib.SMTP('smtp.example.com', 587)
+        server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login("tu_correo_electronico@example.com", "tu_contraseña")
         server.sendmail("tu_correo_electronico@example.com", email, msg.as_string())
@@ -37,7 +37,7 @@ def send_followup_email(email, name):
         msg['From'] = "tu_correo_electronico@example.com"
         msg['To'] = email
         
-        server = smtplib.SMTP('smtp.example.com', 587)
+        server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login("tu_correo_electronico@example.com", "tu_contraseña")
         server.sendmail("tu_correo_electronico@example.com", email, msg.as_string())
@@ -59,7 +59,7 @@ def send_confirmation_email(email, name):
         msg['From'] = "tu_correo_electronico@example.com"
         msg['To'] = email
         
-        server = smtplib.SMTP('smtp.example.com', 587)
+        server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login("tu_correo_electronico@example.com", "tu_contraseña")
         server.sendmail("tu_correo_electronico@example.com", email, msg.as_string())
@@ -81,7 +81,7 @@ def send_cancellation_email(email, name):
         msg['From'] = "tu_correo_electronico@example.com"
         msg['To'] = email
         
-        server = smtplib.SMTP('smtp.example.com', 587)
+        server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login("tu_correo_electronico@example.com", "tu_contraseña")
         server.sendmail("tu_correo_electronico@example.com", email, msg.as_string())
