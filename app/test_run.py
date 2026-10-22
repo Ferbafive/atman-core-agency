@@ -20,7 +20,6 @@ if project_root not in sys.path:
     sys.path.insert(0, project_root)
 
 from app.scrapers.business_scraper import BusinessScraper
-import os
 
 def main():
     # Inicializar el scraper
