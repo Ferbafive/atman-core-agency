@@ -2,6 +2,23 @@
 Script para ejecutar pruebas del BusinessScraper y exportar resultados a CSV.
 """
 
+import sys
+import os
+
+# Añadir la ruta raíz del proyecto a sys.path para evitar errores de importación
+def get_project_root():
+    """Obtener la ruta raíz del proyecto."""
+    # Intentar obtener el directorio del script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Subir un nivel para llegar al directorio del proyecto
+    project_root = os.path.dirname(script_dir)
+    return project_root
+
+# Añadir la ruta raíz al sys.path
+project_root = get_project_root()
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 from app.scrapers.business_scraper import BusinessScraper
 import os
 
