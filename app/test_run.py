@@ -41,7 +41,7 @@ def main():
     
     if data:
         # Exportar a CSV
-        output_filename = "app/data/exports/prueba_export.csv"
+        output_filename = "prueba_export.csv"
         print(f"Exportando resultados a: {output_filename}")
         scraper.export_to_csv(data, output_filename)
         
