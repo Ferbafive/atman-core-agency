@@ -40,13 +40,23 @@ def main():
     data = scraper.scrape_multiple_businesses(test_urls)
     
     if data:
-        # Exportar a CSV
-        output_filename = "prueba_export.csv"
-        print(f"Exportando resultados a: {output_filename}")
-        scraper.export_to_csv(data, output_filename)
+        # Buscar empresas por keyword y ubicación
+        keyword = "tecnología"
+        location = "Madrid"
         
-        print("Prueba completada con éxito.")
-        print(f"Se encontraron {len(data)} empresas.")
+        print(f"Buscando empresas con keyword '{keyword}' en ubicación '{location}'...")
+        results = scraper.search_by_keyword_and_location(keyword, location, data)
+        
+        if results:
+            # Exportar resultados a CSV
+            output_filename = "busqueda_keyword_location.csv"
+            print(f"Exportando resultados a: {output_filename}")
+            scraper.export_to_csv(results, output_filename)
+            
+            print("Prueba completada con éxito.")
+            print(f"Se encontraron {len(results)} empresas.")
+        else:
+            print("No se encontraron empresas que coincidan con los criterios.")
     else:
         print("No se encontraron datos para exportar.")
     
