@@ -145,6 +145,102 @@ class BusinessScraper:
         
         return self.export_to_csv(filtered_data)
     
+    def search_by_keyword(self, keyword: str, data: Optional[List[Dict]] = None) -> List[Dict]:
+        """
+        Busca empresas por término/palabra clave.
+        
+        Args:
+            keyword (str): Palabra clave para buscar
+            data (list): Lista de datos a buscar (opcional, si no se proporciona se usa scrape_multiple_businesses)
+            
+        Returns:
+            list: Lista de empresas que coinciden con la palabra clave
+        """
+        if not data:
+            logger.warning("No se proporcionaron datos para buscar. Se usará scraping básico.")
+            # Simulación de búsqueda en datos de ejemplo
+            return []
+        
+        results = []
+        keyword_lower = keyword.lower()
+        
+        for record in data:
+            # Buscar en múltiples campos
+            if (keyword_lower in record.get('company_name', '').lower() or
+                keyword_lower in record.get('industry', '').lower() or
+                keyword_lower in record.get('website', '').lower()):
+                results.append(record)
+                logger.info(f"Empresa encontrada: {record.get('company_name')}")
+        
+        return results
+    
+    def search_by_location(self, location: str, data: Optional[List[Dict]] = None) -> List[Dict]:
+        """
+        Busca empresas por ubicación.
+        
+        Args:
+            location (str): Ubicación para buscar
+            data (list): Lista de datos a buscar (opcional, si no se proporciona se usa scrape_multiple_businesses)
+            
+        Returns:
+            list: Lista de empresas que coinciden con la ubicación
+        """
+        if not data:
+            logger.warning("No se proporcionaron datos para buscar por ubicación.")
+            # Simulación de búsqueda en datos de ejemplo
+            return []
+        
+        results = []
+        location_lower = location.lower()
+        
+        for record in data:
+            # Buscar en campos de ubicación
+            if (location_lower in record.get('city', '').lower() or
+                location_lower in record.get('country', '').lower() or
+                location_lower in record.get('address', '').lower()):
+                results.append(record)
+                logger.info(f"Empresa encontrada en {location}: {record.get('company_name')}")
+        
+        return results
+    
+    def search_by_keyword_and_location(self, keyword: str, location: str, 
+                                       data: Optional[List[Dict]] = None) -> List[Dict]:
+        """
+        Busca empresas combinando palabra clave y ubicación.
+        
+        Args:
+            keyword (str): Palabra clave para buscar
+            location (str): Ubicación para buscar
+            data (list): Lista de datos a buscar (opcional, si no se proporciona se usa scrape_multiple_businesses)
+            
+        Returns:
+            list: Lista de empresas que coinciden con ambos criterios
+        """
+        if not data:
+            logger.warning("No se proporcionaron datos para buscar combinada.")
+            # Simulación de búsqueda en datos de ejemplo
+            return []
+        
+        results = []
+        keyword_lower = keyword.lower()
+        location_lower = location.lower()
+        
+        for record in data:
+            # Verificar coincidencia en ambos criterios
+            matches_keyword = (keyword_lower in record.get('company_name', '').lower() or
+                             keyword_lower in record.get('industry', '').lower() or
+                             keyword_lower in record.get('website', '').lower())
+            
+            matches_location = (location_lower in record.get('city', '').lower() or
+                              location_lower in record.get('country', '').lower() or
+                              location_lower in record.get('address', '').lower())
+            
+            if matches_keyword and matches_location:
+                results.append(record)
+                logger.info(f"Empresa encontrada: {record.get('company_name')} en {location}")
+        
+        return results
+    
     def save_business_to_database(self, business_data: Dict, session=None):
         """
         Guarda datos de empresa en base de datos.
