@@ -52,12 +52,15 @@ class BusinessScraper:
         return [
             {
                 'url': url,
-                'company_name': 'Ejemplo de Empresa',
+                'company_name': 'Tech Solutions Madrid',
                 'industry': 'Tecnología',
                 'employees': 150,
                 'revenue': 5000000,
-                'contact_email': 'info@ejemplo.com',
-                'phone': '+1234567890',
+                'contact_email': 'info@techsolutions.com',
+                'phone': '+34123456789',
+                'city': 'Madrid',
+                'country': 'España',
+                'address': 'Calle Tecnología 123, Madrid',
                 'website': url,
                 'scraped_at': datetime.now().isoformat()
             }
