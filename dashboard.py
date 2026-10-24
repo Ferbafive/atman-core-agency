@@ -1,10 +1,15 @@
 import os
 import sys
-import subprocess
 import pandas as pd
 import streamlit as st
 from app.database.init_db import get_db, init_db
 from app.database.models import Lead
+
+# Importamos la función principal de tu script de producción directamente
+try:
+    from run_production import main as run_pipeline
+except ImportError:
+    run_pipeline = None
 
 # Configuración de la página web
 st.set_page_config(
@@ -49,11 +54,13 @@ st.sidebar.header("🕹️ Centro de Control")
 if st.sidebar.button("🔥 Ejecutar Pipeline en Vivo"):
     st.sidebar.info("🚀 Lote de prospección iniciado... espera unos segundos.")
     try:
-        # Usa el ejecutable de Python del entorno actual (compatible con Linux y Windows)
-        python_exe = sys.executable
-        subprocess.run([python_exe, "run_production.py"], check=True)
-        st.sidebar.success("✅ ¡Pipeline ejecutado con éxito!")
-        st.rerun()
+        if run_pipeline is not None:
+            # Ejecución directa en Python sin usar subprocess
+            run_pipeline()
+            st.sidebar.success("✅ ¡Pipeline ejecutado con éxito!")
+            st.rerun()
+        else:
+            st.sidebar.error("❌ No se encontró la función principal en 'run_production.py'.")
     except Exception as e:
         st.sidebar.error(f"❌ Error durante la ejecución: {e}")
 
