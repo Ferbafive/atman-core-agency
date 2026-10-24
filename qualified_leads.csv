@@ -1,0 +1,36 @@
+ID,Empresa,URL,Email,Teléfono,Score,Cualificado
+1,Empresa Simulada (example.com),https://example.com,contacto@example.com,+34900112233,100.0,True
+2,Empresa Simulada (example.org),https://example.org,contacto@example.org,+34900112233,100.0,True
+3,Empresa Simulada (example.net),https://example.net,contacto@example.net,+34900112233,100.0,True
+4,Empresa Desconocida,https://clinicamadrid.es/,,,50.0,False
+5,Empresa Desconocida,https://clinicamadrid.es/clinicas/,,,50.0,False
+6,Clínica CEMTRO - Hospital especializado en traumatología,https://www.clinicacemtro.com/,slick-carousel@1.8.1,791474828,100.0,True
+7,Inmobiliarias en Vigo,https://www.paxinasgalegas.es/venta-y-alquiler-de-pisos-inmobiliarias-vigo-267ep_310ay.html,central@alternativafinanciera.com,886490166,100.0,True
+8,Fincas Vigo - Inmobiliaria en Vigo,https://fincasvigo.com/,inmobiliaria@fincasvigo.com,+34986264640,100.0,True
+9,Empresa Desconocida,https://www.idealista.com/agencias-inmobiliarias/vigo-pontevedra/inmobiliarias,,,50.0,False
+10,🥇 Las 7 Mejores Agencias de Marketing Digital en Valencia,https://mejoresvalencia.es/agencias-marketing-digital-valencia/,,980392156,80.0,True
+11,"Chollos, ofertas y cupones ⇒ Chollometro.com » Nº1 en España",https://www.chollometro.com/,info-group-atolls@atolls.com,989381535,100.0,True
+12,Chollos y Ofertas ⇒ octubre 2026 » Chollometro,https://www.chollometro.com/ofertas,info-group-atolls@atolls.com,989381535,100.0,True
+13,Ofertas Totalmente GRATIS ⇒ octubre 2026,https://www.chollometro.com/categorias/gratis,info-group-atolls@atolls.com,989381535,100.0,True
+14,Empresa Desconocida,https://www.idealista.com/agencias-inmobiliarias/barcelona-barcelona/inmobiliarias,,,50.0,False
+15,"ImmoBarceló - Agencia inmobiliaria en Barcelona, Poblenou",https://immobarcelo.es/,info@immobarcelo.es,.941-105.724,100.0,True
+16,Inmobiliarias en Barcelona (2026) - Directorio Completo,https://mejoresinmobiliarias.net/ciudad/barcelona/,,782495043,80.0,False
+17,Security Check,https://www.inmocanet.com/,,.755 176.195,80.0,False
+18,Agencia Tributaria: Inicio,https://sede.agenciatributaria.gob.es/,,737744527,80.0,False
+19,Renfe Operadora,https://agencias.renfe.com/,,726090215,80.0,False
+20,Mejores Clínicas Dentales en Madrid,https://docdental.es/clinicas-dentales/madrid/,hola@tusonrisaideal.com,915714012,100.0,True
+21,8 Mejores clínicas dentales en Madrid 2026 según DentalQuality,https://dentalq.es/mejores-clinicas-dentales-en-madrid/,info@dentaldream.es,792666276,100.0,True
+22,Las 10 mejores clínicas dentales de Madrid,https://www.topmadrid.com.es/mejores-clinicas-dentales/,info@topmadrid.com.es,792017910,100.0,True
+23,La agencia inmobilaria líder en Barcelona,https://www.casamona.com/es/,casamona@casamona.com,792850134,100.0,True
+24,Krecemedia,https://krecemedia.es/,hablamos@krecemedia.es,735560789,100.0,True
+25,Las 100+ mejores agencias de marketing digital en Valencia,https://www.sortlist.es/marketing-online/valencia-es,hola@bluecell.es,614655231,100.0,True
+26,Mejores agencias de marketing digital en Valencia,https://marketingwow.es/valencia/agencias-de-marketing-digital,,+34962025510,80.0,False
+27,Reformas Sevilla,https://reformasevilla.com.es/,info@reformasevilla.com.es,792023782,100.0,True
+28,Reformas Integrales Sevilla ✓ Presupuesto en 24h,https://www.reformasdodo.com/,reformasintegrales.dodo@gmail.com,632 632 439,100.0,True
+29,Empresas de Reformas en Sevilla 2026,https://mejoresreformas.es/sevilla/,,+34618955986,80.0,False
+30,Empresa Ignorada,https://www.bing.com/aclick?ld=e8GCLI-Wh-owBZiiGBXEucuDVUCUzHyTHx0AO965gQjwzPOv2UHFZJ6TwQI0FT0P9HuV3Jjj_ysqPV5Bsd4Z538npHtCq128C2I7sLV1gv7jOo7TH0Wq9ZrhXPR2I5fCGNbDLqx20E48Jbnf8vyt2e7gWTUMBpmYVk4FFKbw3_cvqoHkpdmmYCmA3h7WxgEiW6QphCWw&u=aHR0cHMlM2ElMmYlMmZscC5tZWxlbmRvcy5lcyUyZmJuZzElM2ZsYyUzZFphcmFnb3phJTI2c3AlM2RMYWJvcmFsaXN0YXMlMjZjYW1wYWlnbklkJTNkNjA1ODg2MjY4JTI2YWRncm91cElkJTNkMTMzOTIwNzcwOTQ2ODM2MCUyNmtleXdvcmRJZCUzZGFib2dhZG9zJTI1MjBsYWJvcmFsaXN0YXMlMjUyMHphcmFnb3phJTI2YWRJZCUzZCUyNmFUJTNkMzUzZGY3YzRlMjc1YzMyMjhlYTY2NjYwZmQyYjQ3ZTVlYTMxMjVkMCUyNm1zY2xraWQlM2QxY2NhMzU5MDA4YmIxOWMyODI1ZTVmNGNiNWI5YjdlYyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCVDElMjU1RCUyNTIwLSUyNTIwQWJvZ2Fkb3MlMjUyMC0lMjUyMExhYm9yYWwlMjUyMC0lMjUyMC0lMjUyMEdlbmVyaWMlMjUyMC0lMjUyMEdlb2xvY2F0aW9uJTI1MjAtJTI1MjBCcm9hZCUyNnV0bV90ZXJtJTNkYWJvZ2Fkb3MlMjUyMGxhYm9yYWxpc3RhcyUyNTIwemFyYWdvemElMjZ1dG1fY29udGVudCUzZFQxJTI1MjAtJTI1MjBBYm9nYWRvcyUyNTIwLSUyNTIwTGFib3JhbGlzdGFzJTI1MjAtJTI1MjAtJTI1MjAtJTI1MjBSb290JTI1MjAtJTI1MjBHZW8lMjUyMGNpdHklMjUyMC0lMjUyMFphcmFnb3phJTI1MjAtJTI1MjAtJTI1MjBNZWxlbmRvcw&rlid=1cca359008bb19c2825e5f4cb5b9b7ec,,,70.0,False
+31,Abogados Laboralistas en Zaragoza 2026 â Abogados Conecta,https://abogadosconecta.es/zaragoza/abogados-laboralistas/,,,70.0,False
+32,abogados y despachos laboralistas de Zaragoza · 2026,https://rankingabogados.es/mejores-abogados-zaragoza/laboral/,,791977883,80.0,False
+33,Clínicas Estéticas en Málaga (2026),https://mejoresclinicas.net/ciudad/malaga/,,634013805,80.0,False
+34,Clínica Estética Málaga,https://clinicaslove.com/clinica-estetica-malaga/,utrera.alejandro@gmail.com,790789701,100.0,True
+35,Clínica Estética en Málaga,https://clinicasroma.com/,info@clinicasroma.com,791993869,100.0,True

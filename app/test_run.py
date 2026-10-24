@@ -1,67 +1,86 @@
-"""
-Script para ejecutar pruebas del BusinessScraper y exportar resultados a CSV.
-"""
-
-import sys
+@"
 import os
-
-# Añadir la ruta raíz del proyecto a sys.path para evitar errores de importación
-def get_project_root():
-    """Obtener la ruta raíz del proyecto."""
-    # Intentar obtener el directorio del script
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    # Subir un nivel para llegar al directorio del proyecto
-    project_root = os.path.dirname(script_dir)
-    return project_root
-
-# Añadir la ruta raíz al sys.path
-project_root = get_project_root()
-if project_root not in sys.path:
-    sys.path.insert(0, project_root)
-
 from app.scrapers.business_scraper import BusinessScraper
+from app.services.lead_qualifier import LeadQualifier
+from app.services.exporter import LeadExporter
+from app.database.models import Business, Base
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
 
-def main():
-    # Inicializar el scraper
+def run_production_pipeline():
+    print("🚀 Iniciando pipeline completo de prospección con exportación...")
+    
+    # 1. Configurar Base de Datos SQLite
+    engine = create_engine('sqlite:///leads.db')
+    Base.metadata.create_all(engine)
+    
+    # 2. Instanciar componentes del sistema
     scraper = BusinessScraper()
+    criteria = {
+        'min_score': 40,
+        'max_score': 100,
+        'required_fields': ['company_name', 'contact_email'],
+        'weights': {
+            'employees': 50,
+            'revenue': 50
+        }
+    }
+    qualifier = LeadQualifier(criteria=criteria)
+    exporter = LeadExporter(engine)
     
-    # Asegurar directorio de salida
-    scraper.ensure_output_dir()
+    # 3. Cargar URLs objetivo desde targets.txt
+    targets_file = 'targets.txt'
+    if not os.path.exists(targets_file):
+        with open(targets_file, 'w', encoding='utf-8') as f:
+            f.write("https://example.com\nhttps://example.org\nhttps://example.net\n")
     
-    # Simular datos de empresas para prueba
-    test_urls = [
-        "https://ejemplo1.com",
-        "https://ejemplo2.com",
-        "https://ejemplo3.com"
-    ]
+    with open(targets_file, 'r', encoding='utf-8') as f:
+        target_urls = [line.strip() for line in f if line.strip() and not line.startswith('#')]
     
-    # Ejecutar scraping de datos
-    print("Iniciando scraping de datos...")
-    data = scraper.scrape_multiple_businesses(test_urls)
+    print(f"📋 URLs cargadas para análisis: {len(target_urls)}")
     
-    if data:
-        # Buscar empresas por keyword y ubicación
-        keyword = "tecnología"
-        location = "Madrid"
-        
-        print(f"Buscando empresas con keyword '{keyword}' en ubicación '{location}'...")
-        results = scraper.search_by_keyword_and_location(keyword, location, data)
-        
-        if results:
-            # Exportar resultados a CSV
-            output_filename = "busqueda_keyword_location.csv"
-            print(f"Exportando resultados a: {output_filename}")
-            scraper.export_to_csv(results, output_filename)
+    # 4. Procesar lote y persistir en BD
+    Session = sessionmaker(bind=engine)
+    session = Session()
+    total_saved = 0
+    
+    try:
+        for url in target_urls:
+            print(f"\n🔍 Procesando: {url}")
+            results = scraper.scrape_business_data(url)
             
-            print("Prueba completada con éxito.")
-            print(f"Se encontraron {len(results)} empresas.")
-        else:
-            print("No se encontraron empresas que coincidan con los criterios.")
-    else:
-        print("No se encontraron datos para exportar.")
-    
-    # Limpiar exportaciones antiguas (opcional)
-    # scraper.cleanup_old_exports(days=7)
+            for item in results:
+                qualification_result = qualifier.qualify_lead(item)
+                print(f"   ⭐ {item.get('company_name')} | Estado: {qualification_result['status'].upper()} (Score: {qualification_result['score']})")
+                
+                business = Business(
+                    url=item.get('url'),
+                    company_name=item.get('company_name'),
+                    industry=item.get('industry'),
+                    employees=item.get('employees'),
+                    revenue=item.get('revenue'),
+                    contact_email=item.get('contact_email'),
+                    phone=item.get('phone'),
+                    city=item.get('city'),
+                    country=item.get('country'),
+                    website=item.get('website')
+                )
+                session.add(business)
+                total_saved += 1
+        
+        session.commit()
+        print(f"\n✅ ¡Base de datos actualizada! Se guardaron {total_saved} leads.")
+        
+        # 5. Exportar automáticamente a CSV
+        print("\n📊 Generando reporte comercial en CSV...")
+        exporter.export_to_csv("qualified_leads.csv")
+        
+    except Exception as e:
+        session.rollback()
+        print(f"\n❌ Error crítico en el pipeline: {e}")
+    finally:
+        session.close()
 
-if __name__ == '__main__':
-    main()
+if __name__ == "__main__":
+    run_production_pipeline()
+"@ | Out-File -Encoding utf8 test_run.py
