@@ -1,14 +1,17 @@
-# Entorno virtual (¡Súper importante!)
+# Entorno virtual
 .venv/
 venv/
+ENV/
 
-# Base de datos local de SQLite
+# Base de datos y archivos locales
 *.db
 *.sqlite3
+*.log
 
-# Archivos de entorno y caché
+# Variables de entorno
 .env
-app/data/exports/
+
+# Archivos temporales y de Aider
+.aider*
 __pycache__/
 *.pyc
-.aider*

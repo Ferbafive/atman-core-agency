@@ -1,0 +1,4 @@
+url,company_name,industry,employees,revenue,contact_email,phone,website,scraped_at
+https://ejemplo1.com,Ejemplo de Empresa,Tecnología,150,5000000,info@ejemplo.com,+1234567890,https://ejemplo1.com,2026-10-23T02:01:23.780723
+https://ejemplo2.com,Ejemplo de Empresa,Tecnología,150,5000000,info@ejemplo.com,+1234567890,https://ejemplo2.com,2026-10-23T02:01:23.783726
+https://ejemplo3.com,Ejemplo de Empresa,Tecnología,150,5000000,info@ejemplo.com,+1234567890,https://ejemplo3.com,2026-10-23T02:01:23.785724

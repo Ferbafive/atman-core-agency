@@ -1,0 +1,4 @@
+url,company_name,industry,employees,revenue,contact_email,phone,city,country,address,website,scraped_at
+https://ejemplo1.com,Tech Solutions Madrid,Tecnología,150,5000000,info@techsolutions.com,+34123456789,Madrid,España,"Calle Tecnología 123, Madrid",https://ejemplo1.com,2026-10-23T12:59:11.649489
+https://ejemplo2.com,Tech Solutions Madrid,Tecnología,150,5000000,info@techsolutions.com,+34123456789,Madrid,España,"Calle Tecnología 123, Madrid",https://ejemplo2.com,2026-10-23T12:59:11.649489
+https://ejemplo3.com,Tech Solutions Madrid,Tecnología,150,5000000,info@techsolutions.com,+34123456789,Madrid,España,"Calle Tecnología 123, Madrid",https://ejemplo3.com,2026-10-23T12:59:11.649489
