@@ -1,8 +1,9 @@
 import os
+import sys
 import subprocess
 import pandas as pd
 import streamlit as st
-from app.database.init_db import get_db
+from app.database.init_db import get_db, init_db
 from app.database.models import Lead
 
 # Configuración de la página web
@@ -17,24 +18,29 @@ st.markdown("---")
 
 # Función para cargar datos desde la base de datos de manera segura
 def load_data():
-    db = next(get_db())
-    leads = db.query(Lead).all()
-    
-    if not leads:
+    try:
+        init_db()  # Asegura que las tablas estén creadas en SQLite
+        db = next(get_db())
+        leads = db.query(Lead).all()
+        
+        if not leads:
+            return pd.DataFrame()
+        
+        data = []
+        for l in leads:
+            data.append({
+                "ID": l.id,
+                "Empresa": l.company_name,
+                "URL": l.url,
+                "Email": l.contact_email if l.contact_email else "Sin email",
+                "Teléfono": l.phone if l.phone else "Sin teléfono",
+                "Score": l.score,
+                "Cualificado": "✅ Sí" if l.is_qualified else "❌ No"
+            })
+        return pd.DataFrame(data)
+    except Exception as e:
+        st.error(f"Error al conectar con la base de datos: {e}")
         return pd.DataFrame()
-    
-    data = []
-    for l in leads:
-        data.append({
-            "ID": l.id,
-            "Empresa": l.company_name,
-            "URL": l.url,
-            "Email": l.contact_email if l.contact_email else "Sin email",
-            "Teléfono": l.phone if l.phone else "Sin teléfono",
-            "Score": l.score,
-            "Cualificado": "✅ Sí" if l.is_qualified else "❌ No"
-        })
-    return pd.DataFrame(data)
 
 # Panel Lateral de Control
 st.sidebar.header("🕹️ Centro de Control")
@@ -43,7 +49,8 @@ st.sidebar.header("🕹️ Centro de Control")
 if st.sidebar.button("🔥 Ejecutar Pipeline en Vivo"):
     st.sidebar.info("🚀 Lote de prospección iniciado... espera unos segundos.")
     try:
-        python_exe = os.path.join(".venv", "Scripts", "python.exe")
+        # Usa el ejecutable de Python del entorno actual (compatible con Linux y Windows)
+        python_exe = sys.executable
         subprocess.run([python_exe, "run_production.py"], check=True)
         st.sidebar.success("✅ ¡Pipeline ejecutado con éxito!")
         st.rerun()
@@ -88,9 +95,9 @@ else:
             filtered_df["Email"].str.contains(search_term, case=False, na=False)
         ]
 
-    # 3. Visualización de Datos (actualizado con width='stretch')
+    # 3. Visualización de Datos
     st.subheader(f"📋 Lista de Leads Capturados ({len(filtered_df)})")
-    st.dataframe(filtered_df, width='stretch')
+    st.dataframe(filtered_df, use_container_width=True)
 
     # 4. Descargar Selección
     csv = filtered_df.to_csv(index=False).encode('utf-8')
