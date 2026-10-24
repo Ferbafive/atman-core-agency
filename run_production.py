@@ -24,7 +24,7 @@ def main():
         # Obtener sesión de base de datos
         # ==========================================
         print("🔗 [Atman Core] Conectando a base de datos...")
-        db_session = get_db()
+        db_session = next(get_db())
         
         # ==========================================
         # Crear y guardar 3 leads de prueba
