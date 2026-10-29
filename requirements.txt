@@ -1,3 +1,4 @@
 sqlalchemy
 pytest
 psycopg2-binary
+psutil>=5.9

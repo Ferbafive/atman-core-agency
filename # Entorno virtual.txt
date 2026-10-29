@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos exportados locales
+qualified_leads.csv
+
+# Configuración de Streamlit
+.streamlit/

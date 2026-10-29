@@ -1,1333 +1,1105 @@
-2026-10-22 20:35:37 - INFO - Servicio de monitoreo de RAM iniciado.
-2026-10-22 20:35:37 - INFO - Uso de RAM actual: 96.2%
-2026-10-22 20:35:37 - WARNING - RAM por encima del limite (96.2% >= 85%)
-2026-10-22 20:35:37 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:35:40 - INFO - RAM tras optimizacion: 97.3%
-2026-10-22 20:36:10 - INFO - Uso de RAM actual: 95.9%
-2026-10-22 20:36:10 - WARNING - RAM por encima del limite (95.9% >= 85%)
-2026-10-22 20:36:10 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:36:13 - INFO - RAM tras optimizacion: 96.0%
-2026-10-22 20:36:43 - INFO - Uso de RAM actual: 95.9%
-2026-10-22 20:36:43 - WARNING - RAM por encima del limite (95.9% >= 85%)
-2026-10-22 20:36:43 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:36:46 - INFO - RAM tras optimizacion: 95.7%
-2026-10-22 20:37:16 - INFO - Uso de RAM actual: 95.7%
-2026-10-22 20:37:16 - WARNING - RAM por encima del limite (95.7% >= 85%)
-2026-10-22 20:37:16 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:37:19 - INFO - RAM tras optimizacion: 95.5%
-2026-10-22 20:37:49 - INFO - Uso de RAM actual: 95.2%
-2026-10-22 20:37:49 - WARNING - RAM por encima del limite (95.2% >= 85%)
-2026-10-22 20:37:49 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:37:52 - INFO - RAM tras optimizacion: 95.3%
-2026-10-22 20:38:22 - INFO - Uso de RAM actual: 95.2%
-2026-10-22 20:38:22 - WARNING - RAM por encima del limite (95.2% >= 85%)
-2026-10-22 20:38:22 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:38:25 - INFO - RAM tras optimizacion: 95.3%
-2026-10-22 20:38:55 - INFO - Uso de RAM actual: 95.6%
-2026-10-22 20:38:55 - WARNING - RAM por encima del limite (95.6% >= 85%)
-2026-10-22 20:38:55 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:38:58 - INFO - RAM tras optimizacion: 95.4%
-2026-10-22 20:39:28 - INFO - Uso de RAM actual: 95.3%
-2026-10-22 20:39:28 - WARNING - RAM por encima del limite (95.3% >= 85%)
-2026-10-22 20:39:28 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:39:31 - INFO - RAM tras optimizacion: 95.4%
-2026-10-22 20:40:01 - INFO - Uso de RAM actual: 95.5%
-2026-10-22 20:40:01 - WARNING - RAM por encima del limite (95.5% >= 85%)
-2026-10-22 20:40:01 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:40:04 - INFO - RAM tras optimizacion: 95.5%
-2026-10-22 20:40:34 - INFO - Uso de RAM actual: 95.6%
-2026-10-22 20:40:34 - WARNING - RAM por encima del limite (95.6% >= 85%)
-2026-10-22 20:40:34 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:40:37 - INFO - RAM tras optimizacion: 95.4%
-2026-10-22 20:41:07 - INFO - Uso de RAM actual: 95.6%
-2026-10-22 20:41:07 - WARNING - RAM por encima del limite (95.6% >= 85%)
-2026-10-22 20:41:07 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:41:10 - INFO - RAM tras optimizacion: 95.6%
-2026-10-22 20:41:40 - INFO - Uso de RAM actual: 95.0%
-2026-10-22 20:41:40 - WARNING - RAM por encima del limite (95.0% >= 85%)
-2026-10-22 20:41:40 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:41:43 - INFO - RAM tras optimizacion: 95.5%
-2026-10-22 20:42:13 - INFO - Uso de RAM actual: 95.7%
-2026-10-22 20:42:13 - WARNING - RAM por encima del limite (95.7% >= 85%)
-2026-10-22 20:42:13 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:42:16 - INFO - RAM tras optimizacion: 95.8%
-2026-10-22 20:42:46 - INFO - Uso de RAM actual: 95.7%
-2026-10-22 20:42:46 - WARNING - RAM por encima del limite (95.7% >= 85%)
-2026-10-22 20:42:46 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:42:49 - INFO - RAM tras optimizacion: 95.5%
-2026-10-22 20:43:19 - INFO - Uso de RAM actual: 95.7%
-2026-10-22 20:43:19 - WARNING - RAM por encima del limite (95.7% >= 85%)
-2026-10-22 20:43:19 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:43:22 - INFO - RAM tras optimizacion: 95.4%
-2026-10-22 20:43:52 - INFO - Uso de RAM actual: 95.6%
-2026-10-22 20:43:52 - WARNING - RAM por encima del limite (95.6% >= 85%)
-2026-10-22 20:43:52 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:43:55 - INFO - RAM tras optimizacion: 95.5%
-2026-10-22 20:44:25 - INFO - Uso de RAM actual: 95.4%
-2026-10-22 20:44:25 - WARNING - RAM por encima del limite (95.4% >= 85%)
-2026-10-22 20:44:25 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:44:28 - INFO - RAM tras optimizacion: 95.4%
-2026-10-22 20:44:58 - INFO - Uso de RAM actual: 91.0%
-2026-10-22 20:44:58 - WARNING - RAM por encima del limite (91.0% >= 85%)
-2026-10-22 20:44:58 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:45:01 - INFO - RAM tras optimizacion: 90.8%
-2026-10-22 20:45:31 - INFO - Uso de RAM actual: 90.4%
-2026-10-22 20:45:31 - WARNING - RAM por encima del limite (90.4% >= 85%)
-2026-10-22 20:45:31 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:45:34 - INFO - RAM tras optimizacion: 90.4%
-2026-10-22 20:46:04 - INFO - Uso de RAM actual: 90.9%
-2026-10-22 20:46:04 - WARNING - RAM por encima del limite (90.9% >= 85%)
-2026-10-22 20:46:04 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:46:07 - INFO - RAM tras optimizacion: 90.8%
-2026-10-22 20:46:37 - INFO - Uso de RAM actual: 91.0%
-2026-10-22 20:46:37 - WARNING - RAM por encima del limite (91.0% >= 85%)
-2026-10-22 20:46:37 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:46:40 - INFO - RAM tras optimizacion: 90.8%
-2026-10-22 20:47:10 - INFO - Uso de RAM actual: 90.8%
-2026-10-22 20:47:10 - WARNING - RAM por encima del limite (90.8% >= 85%)
-2026-10-22 20:47:10 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 20:47:13 - INFO - RAM tras optimizacion: 90.8%
-2026-10-22 20:47:43 - INFO - Uso de RAM actual: 28.3%
-2026-10-22 20:48:13 - INFO - Uso de RAM actual: 33.2%
-2026-10-22 20:48:43 - INFO - Uso de RAM actual: 36.1%
-2026-10-22 20:49:13 - INFO - Uso de RAM actual: 42.8%
-2026-10-22 20:49:43 - INFO - Uso de RAM actual: 44.2%
-2026-10-22 20:50:13 - INFO - Uso de RAM actual: 45.1%
-2026-10-22 20:50:43 - INFO - Uso de RAM actual: 45.3%
-2026-10-22 20:51:13 - INFO - Uso de RAM actual: 45.7%
-2026-10-22 20:51:43 - INFO - Uso de RAM actual: 46.4%
-2026-10-22 21:27:57 - INFO - Servicio de monitoreo de RAM iniciado.
-2026-10-22 21:27:57 - INFO - Uso de RAM actual: 87.8%
-2026-10-22 21:27:57 - WARNING - RAM por encima del limite (87.8% >= 85%)
-2026-10-22 21:27:57 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:28:00 - INFO - RAM tras optimizacion: 87.8%
-2026-10-22 21:28:30 - INFO - Uso de RAM actual: 86.2%
-2026-10-22 21:28:30 - WARNING - RAM por encima del limite (86.2% >= 85%)
-2026-10-22 21:28:30 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:28:33 - INFO - RAM tras optimizacion: 86.2%
-2026-10-22 21:29:03 - INFO - Uso de RAM actual: 86.2%
-2026-10-22 21:29:03 - WARNING - RAM por encima del limite (86.2% >= 85%)
-2026-10-22 21:29:03 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:29:06 - INFO - RAM tras optimizacion: 86.3%
-2026-10-22 21:29:36 - INFO - Uso de RAM actual: 87.3%
-2026-10-22 21:29:36 - WARNING - RAM por encima del limite (87.3% >= 85%)
-2026-10-22 21:29:36 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:29:39 - INFO - RAM tras optimizacion: 87.3%
-2026-10-22 21:30:09 - INFO - Uso de RAM actual: 86.7%
-2026-10-22 21:30:09 - WARNING - RAM por encima del limite (86.7% >= 85%)
-2026-10-22 21:30:09 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:30:12 - INFO - RAM tras optimizacion: 86.6%
-2026-10-22 21:30:42 - INFO - Uso de RAM actual: 87.3%
-2026-10-22 21:30:42 - WARNING - RAM por encima del limite (87.3% >= 85%)
-2026-10-22 21:30:42 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:30:45 - INFO - RAM tras optimizacion: 87.0%
-2026-10-22 21:31:15 - INFO - Uso de RAM actual: 87.5%
-2026-10-22 21:31:15 - WARNING - RAM por encima del limite (87.5% >= 85%)
-2026-10-22 21:31:15 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:31:18 - INFO - RAM tras optimizacion: 87.6%
-2026-10-22 21:31:48 - INFO - Uso de RAM actual: 87.2%
-2026-10-22 21:31:48 - WARNING - RAM por encima del limite (87.2% >= 85%)
-2026-10-22 21:31:48 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:31:51 - INFO - RAM tras optimizacion: 87.3%
-2026-10-22 21:32:21 - INFO - Uso de RAM actual: 87.5%
-2026-10-22 21:32:21 - WARNING - RAM por encima del limite (87.5% >= 85%)
-2026-10-22 21:32:21 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:32:24 - INFO - RAM tras optimizacion: 87.5%
-2026-10-22 21:32:54 - INFO - Uso de RAM actual: 87.6%
-2026-10-22 21:32:54 - WARNING - RAM por encima del limite (87.6% >= 85%)
-2026-10-22 21:32:54 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:32:57 - INFO - RAM tras optimizacion: 87.6%
-2026-10-22 21:33:27 - INFO - Uso de RAM actual: 87.9%
-2026-10-22 21:33:27 - WARNING - RAM por encima del limite (87.9% >= 85%)
-2026-10-22 21:33:27 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:33:30 - INFO - RAM tras optimizacion: 87.8%
-2026-10-22 21:34:00 - INFO - Uso de RAM actual: 88.2%
-2026-10-22 21:34:00 - WARNING - RAM por encima del limite (88.2% >= 85%)
-2026-10-22 21:34:00 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:34:03 - INFO - RAM tras optimizacion: 88.2%
-2026-10-22 21:34:33 - INFO - Uso de RAM actual: 89.5%
-2026-10-22 21:34:33 - WARNING - RAM por encima del limite (89.5% >= 85%)
-2026-10-22 21:34:33 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:34:36 - INFO - RAM tras optimizacion: 89.6%
-2026-10-22 21:35:06 - INFO - Uso de RAM actual: 89.3%
-2026-10-22 21:35:06 - WARNING - RAM por encima del limite (89.3% >= 85%)
-2026-10-22 21:35:06 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:35:09 - INFO - RAM tras optimizacion: 89.5%
-2026-10-22 21:35:39 - INFO - Uso de RAM actual: 89.0%
-2026-10-22 21:35:39 - WARNING - RAM por encima del limite (89.0% >= 85%)
-2026-10-22 21:35:39 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:35:42 - INFO - RAM tras optimizacion: 88.5%
-2026-10-22 21:36:12 - INFO - Uso de RAM actual: 89.8%
-2026-10-22 21:36:12 - WARNING - RAM por encima del limite (89.8% >= 85%)
-2026-10-22 21:36:12 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:36:15 - INFO - RAM tras optimizacion: 89.8%
-2026-10-22 21:36:45 - INFO - Uso de RAM actual: 90.2%
-2026-10-22 21:36:45 - WARNING - RAM por encima del limite (90.2% >= 85%)
-2026-10-22 21:36:45 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:36:48 - INFO - RAM tras optimizacion: 90.4%
-2026-10-22 21:37:18 - INFO - Uso de RAM actual: 91.6%
-2026-10-22 21:37:18 - WARNING - RAM por encima del limite (91.6% >= 85%)
-2026-10-22 21:37:18 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:37:21 - INFO - RAM tras optimizacion: 92.0%
-2026-10-22 21:37:51 - INFO - Uso de RAM actual: 86.1%
-2026-10-22 21:37:51 - WARNING - RAM por encima del limite (86.1% >= 85%)
-2026-10-22 21:37:51 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:37:54 - INFO - RAM tras optimizacion: 85.7%
-2026-10-22 21:38:24 - INFO - Uso de RAM actual: 87.2%
-2026-10-22 21:38:24 - WARNING - RAM por encima del limite (87.2% >= 85%)
-2026-10-22 21:38:24 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:38:28 - INFO - Servicio de monitoreo de RAM optimizado iniciado.
-2026-10-22 21:38:28 - INFO - Uso de RAM actual: 88.0%
-2026-10-22 21:39:13 - INFO - Uso de RAM actual: 88.9%
-2026-10-22 21:39:58 - INFO - Uso de RAM actual: 90.5%
-2026-10-22 21:39:58 - WARNING - RAM por encima del limite critico (90.5% >= 90%)
-2026-10-22 21:39:58 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:40:01 - INFO - RAM tras optimizacion: 90.7%
-2026-10-22 21:40:46 - INFO - Uso de RAM actual: 87.0%
-2026-10-22 21:41:31 - INFO - Uso de RAM actual: 88.3%
-2026-10-22 21:42:16 - INFO - Uso de RAM actual: 88.6%
-2026-10-22 21:43:01 - INFO - Uso de RAM actual: 89.7%
-2026-10-22 21:43:46 - INFO - Uso de RAM actual: 90.4%
-2026-10-22 21:43:46 - WARNING - RAM por encima del limite critico (90.4% >= 90%)
-2026-10-22 21:43:46 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:43:49 - INFO - RAM tras optimizacion: 90.4%
-2026-10-22 21:44:34 - INFO - Uso de RAM actual: 90.6%
-2026-10-22 21:45:19 - INFO - Uso de RAM actual: 91.0%
-2026-10-22 21:46:04 - INFO - Uso de RAM actual: 91.5%
-2026-10-22 21:46:04 - WARNING - RAM por encima del limite critico (91.5% >= 90%)
-2026-10-22 21:46:04 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:46:07 - INFO - RAM tras optimizacion: 91.5%
-2026-10-22 21:46:52 - INFO - Uso de RAM actual: 90.6%
-2026-10-22 21:47:37 - INFO - Uso de RAM actual: 91.6%
-2026-10-22 21:48:22 - INFO - Uso de RAM actual: 90.2%
-2026-10-22 21:48:22 - WARNING - RAM por encima del limite critico (90.2% >= 90%)
-2026-10-22 21:48:22 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:48:25 - INFO - RAM tras optimizacion: 90.5%
-2026-10-22 21:49:10 - INFO - Uso de RAM actual: 92.3%
-2026-10-22 21:49:55 - INFO - Uso de RAM actual: 91.8%
-2026-10-22 21:50:40 - INFO - Uso de RAM actual: 92.2%
-2026-10-22 21:50:40 - WARNING - RAM por encima del limite critico (92.2% >= 90%)
-2026-10-22 21:50:40 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:50:43 - INFO - RAM tras optimizacion: 92.2%
-2026-10-22 21:51:28 - INFO - Uso de RAM actual: 89.9%
-2026-10-22 21:52:13 - INFO - Uso de RAM actual: 96.1%
-2026-10-22 21:52:58 - INFO - Uso de RAM actual: 97.9%
-2026-10-22 21:52:58 - WARNING - RAM por encima del limite critico (97.9% >= 90%)
-2026-10-22 21:52:58 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:53:01 - INFO - RAM tras optimizacion: 96.8%
-2026-10-22 21:53:46 - INFO - Uso de RAM actual: 97.3%
-2026-10-22 21:54:31 - INFO - Uso de RAM actual: 96.7%
-2026-10-22 21:55:16 - INFO - Uso de RAM actual: 98.3%
-2026-10-22 21:55:16 - WARNING - RAM por encima del limite critico (98.3% >= 90%)
-2026-10-22 21:55:16 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:55:19 - INFO - RAM tras optimizacion: 98.3%
-2026-10-22 21:56:04 - INFO - Uso de RAM actual: 98.7%
-2026-10-22 21:56:49 - INFO - Uso de RAM actual: 98.7%
-2026-10-22 21:57:34 - INFO - Uso de RAM actual: 97.2%
-2026-10-22 21:57:34 - WARNING - RAM por encima del limite critico (97.2% >= 90%)
-2026-10-22 21:57:34 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:57:37 - INFO - RAM tras optimizacion: 97.5%
-2026-10-22 21:58:22 - INFO - Uso de RAM actual: 97.1%
-2026-10-22 21:59:07 - INFO - Uso de RAM actual: 97.9%
-2026-10-22 21:59:52 - INFO - Uso de RAM actual: 97.0%
-2026-10-22 21:59:52 - WARNING - RAM por encima del limite critico (97.0% >= 90%)
-2026-10-22 21:59:52 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 21:59:55 - INFO - RAM tras optimizacion: 97.2%
-2026-10-22 22:00:40 - INFO - Uso de RAM actual: 97.8%
-2026-10-22 22:01:25 - INFO - Uso de RAM actual: 97.7%
-2026-10-22 22:02:10 - INFO - Uso de RAM actual: 98.4%
-2026-10-22 22:02:10 - WARNING - RAM por encima del limite critico (98.4% >= 90%)
-2026-10-22 22:02:10 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:02:13 - INFO - RAM tras optimizacion: 97.9%
-2026-10-22 22:02:58 - INFO - Uso de RAM actual: 99.0%
-2026-10-22 22:03:43 - INFO - Uso de RAM actual: 98.6%
-2026-10-22 22:04:28 - INFO - Uso de RAM actual: 99.6%
-2026-10-22 22:04:28 - WARNING - RAM por encima del limite critico (99.6% >= 90%)
-2026-10-22 22:04:28 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:04:31 - INFO - RAM tras optimizacion: 99.3%
-2026-10-22 22:05:16 - INFO - Uso de RAM actual: 93.5%
-2026-10-22 22:06:01 - INFO - Uso de RAM actual: 95.6%
-2026-10-22 22:06:46 - INFO - Uso de RAM actual: 95.1%
-2026-10-22 22:06:46 - WARNING - RAM por encima del limite critico (95.1% >= 90%)
-2026-10-22 22:06:46 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:06:49 - INFO - RAM tras optimizacion: 95.3%
-2026-10-22 22:07:34 - INFO - Uso de RAM actual: 96.6%
-2026-10-22 22:08:19 - INFO - Uso de RAM actual: 92.0%
-2026-10-22 22:09:04 - INFO - Uso de RAM actual: 92.0%
-2026-10-22 22:09:04 - WARNING - RAM por encima del limite critico (92.0% >= 90%)
-2026-10-22 22:09:04 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:09:07 - INFO - RAM tras optimizacion: 92.3%
-2026-10-22 22:09:52 - INFO - Uso de RAM actual: 92.3%
-2026-10-22 22:10:37 - INFO - Uso de RAM actual: 92.1%
-2026-10-22 22:11:22 - INFO - Uso de RAM actual: 92.1%
-2026-10-22 22:11:22 - WARNING - RAM por encima del limite critico (92.1% >= 90%)
-2026-10-22 22:11:22 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:11:25 - INFO - RAM tras optimizacion: 92.0%
-2026-10-22 22:12:10 - INFO - Uso de RAM actual: 92.6%
-2026-10-22 22:12:55 - INFO - Uso de RAM actual: 92.0%
-2026-10-22 22:13:40 - INFO - Uso de RAM actual: 92.3%
-2026-10-22 22:13:40 - WARNING - RAM por encima del limite critico (92.3% >= 90%)
-2026-10-22 22:13:40 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:13:43 - INFO - RAM tras optimizacion: 92.4%
-2026-10-22 22:14:28 - INFO - Uso de RAM actual: 92.3%
-2026-10-22 22:15:13 - INFO - Uso de RAM actual: 95.0%
-2026-10-22 22:15:58 - INFO - Uso de RAM actual: 96.3%
-2026-10-22 22:15:58 - WARNING - RAM por encima del limite critico (96.3% >= 90%)
-2026-10-22 22:15:58 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:16:01 - INFO - RAM tras optimizacion: 96.1%
-2026-10-22 22:16:46 - INFO - Uso de RAM actual: 96.6%
-2026-10-22 22:17:31 - INFO - Uso de RAM actual: 96.1%
-2026-10-22 22:18:16 - INFO - Uso de RAM actual: 96.2%
-2026-10-22 22:18:16 - WARNING - RAM por encima del limite critico (96.2% >= 90%)
-2026-10-22 22:18:16 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:18:19 - INFO - RAM tras optimizacion: 96.1%
-2026-10-22 22:19:04 - INFO - Uso de RAM actual: 96.1%
-2026-10-22 22:19:49 - INFO - Uso de RAM actual: 96.8%
-2026-10-22 22:20:34 - INFO - Uso de RAM actual: 97.9%
-2026-10-22 22:20:34 - WARNING - RAM por encima del limite critico (97.9% >= 90%)
-2026-10-22 22:20:34 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:20:37 - INFO - RAM tras optimizacion: 98.0%
-2026-10-22 22:21:22 - INFO - Uso de RAM actual: 92.7%
-2026-10-22 22:22:07 - INFO - Uso de RAM actual: 92.9%
-2026-10-22 22:22:52 - INFO - Uso de RAM actual: 93.5%
-2026-10-22 22:22:52 - WARNING - RAM por encima del limite critico (93.5% >= 90%)
-2026-10-22 22:22:52 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:22:55 - INFO - RAM tras optimizacion: 93.6%
-2026-10-22 22:23:40 - INFO - Uso de RAM actual: 94.8%
-2026-10-22 22:24:25 - INFO - Uso de RAM actual: 95.7%
-2026-10-22 22:25:10 - INFO - Uso de RAM actual: 96.1%
-2026-10-22 22:25:10 - WARNING - RAM por encima del limite critico (96.1% >= 90%)
-2026-10-22 22:25:10 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:25:13 - INFO - RAM tras optimizacion: 96.1%
-2026-10-22 22:25:58 - INFO - Uso de RAM actual: 96.0%
-2026-10-22 22:26:13 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-22 22:26:13 - INFO - Uso de RAM actual: 96.0%
-2026-10-22 22:26:13 - WARNING - RAM por encima del limite critico (96.0% >= 90%)
-2026-10-22 22:26:14 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (31.7%), msedge.exe (7.4%), Code.exe (3.5%)
-2026-10-22 22:26:14 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 22:26:14 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:26:17 - INFO - RAM tras optimizacion: 96.1%
-2026-10-22 22:26:26 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-22 22:26:26 - INFO - Uso de RAM actual: 95.9%
-2026-10-22 22:26:26 - WARNING - RAM por encima del limite critico (95.9% >= 90%)
-2026-10-22 22:26:27 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (31.7%), msedge.exe (7.4%), Code.exe (3.5%)
-2026-10-22 22:26:27 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 22:26:27 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:26:30 - INFO - RAM tras optimizacion: 96.1%
-2026-10-22 22:27:15 - INFO - Uso de RAM actual: 97.1%
-2026-10-22 22:28:00 - INFO - Uso de RAM actual: 96.9%
-2026-10-22 22:28:45 - INFO - Uso de RAM actual: 96.6%
-2026-10-22 22:28:45 - WARNING - RAM por encima del limite critico (96.6% >= 90%)
-2026-10-22 22:28:46 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.7%), msedge.exe (11.2%), Code.exe (3.5%)
-2026-10-22 22:28:46 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 22:28:46 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:28:49 - INFO - RAM tras optimizacion: 96.9%
-2026-10-22 22:29:34 - INFO - Uso de RAM actual: 99.2%
-2026-10-22 22:30:19 - INFO - Uso de RAM actual: 98.6%
-2026-10-22 22:31:04 - INFO - Uso de RAM actual: 98.3%
-2026-10-22 22:31:04 - WARNING - RAM por encima del limite critico (98.3% >= 90%)
-2026-10-22 22:31:05 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.6%), msedge.exe (14.2%), Code.exe (3.8%)
-2026-10-22 22:31:05 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 22:31:05 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:31:08 - INFO - RAM tras optimizacion: 98.3%
-2026-10-22 22:31:53 - INFO - Uso de RAM actual: 93.1%
-2026-10-22 22:32:38 - INFO - Uso de RAM actual: 96.0%
-2026-10-22 22:33:23 - INFO - Uso de RAM actual: 92.6%
-2026-10-22 22:33:23 - WARNING - RAM por encima del limite critico (92.6% >= 90%)
-2026-10-22 22:33:25 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.6%), msedge.exe (7.3%), Code.exe (4.7%)
-2026-10-22 22:33:25 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 22:33:25 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:33:28 - INFO - RAM tras optimizacion: 92.1%
-2026-10-22 22:34:13 - INFO - Uso de RAM actual: 92.3%
-2026-10-22 22:34:58 - INFO - Uso de RAM actual: 91.8%
-2026-10-22 22:35:43 - INFO - Uso de RAM actual: 92.4%
-2026-10-22 22:35:43 - WARNING - RAM por encima del limite critico (92.4% >= 90%)
-2026-10-22 22:35:45 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.6%), msedge.exe (7.3%), Code.exe (4.0%)
-2026-10-22 22:35:45 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 22:35:45 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:35:48 - INFO - RAM tras optimizacion: 92.5%
-2026-10-22 22:36:33 - INFO - Uso de RAM actual: 92.6%
-2026-10-22 22:37:18 - INFO - Uso de RAM actual: 92.8%
-2026-10-22 22:38:03 - INFO - Uso de RAM actual: 92.9%
-2026-10-22 22:38:03 - WARNING - RAM por encima del limite critico (92.9% >= 90%)
-2026-10-22 22:38:04 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.7%), msedge.exe (7.4%), Code.exe (4.0%)
-2026-10-22 22:38:04 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 22:38:04 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 22:38:07 - INFO - RAM tras optimizacion: 92.4%
-2026-10-22 22:38:52 - INFO - Uso de RAM actual: 93.0%
-2026-10-22 22:45:37 - INFO - Uso de RAM actual: 80.4%
-2026-10-22 22:46:22 - INFO - Uso de RAM actual: 81.3%
-2026-10-22 22:47:07 - INFO - Uso de RAM actual: 81.7%
-2026-10-22 22:47:37 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-22 22:47:37 - INFO - Uso de RAM actual: 82.2%
-2026-10-22 22:47:52 - INFO - Uso de RAM actual: 82.6%
-2026-10-22 22:48:26 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-22 22:48:26 - INFO - Uso de RAM actual: 84.8%
-2026-10-22 22:49:11 - INFO - Uso de RAM actual: 85.2%
-2026-10-22 22:49:56 - INFO - Uso de RAM actual: 85.9%
-2026-10-22 22:54:56 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-22 22:54:56 - INFO - Uso de RAM actual: 87.8%
-2026-10-22 22:55:41 - INFO - Uso de RAM actual: 87.5%
-2026-10-22 22:56:26 - INFO - Uso de RAM actual: 87.8%
-2026-10-22 22:57:11 - INFO - Uso de RAM actual: 89.2%
-2026-10-22 22:57:56 - INFO - Uso de RAM actual: 89.5%
-2026-10-22 22:58:41 - INFO - Uso de RAM actual: 93.3%
-2026-10-22 22:58:41 - WARNING - RAM por encima del limite critico (93.3% >= 90%)
-2026-10-22 22:58:41 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (30.0%), msedge.exe (11.1%), Code.exe (3.7%)
-2026-10-22 22:58:48 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 22:58:51 - INFO - RAM tras optimizacion: 35.9%
-2026-10-22 23:01:51 - INFO - Uso de RAM actual: 84.4%
-2026-10-22 23:02:36 - INFO - Uso de RAM actual: 84.6%
-2026-10-22 23:03:21 - INFO - Uso de RAM actual: 86.1%
-2026-10-22 23:04:06 - INFO - Uso de RAM actual: 88.8%
-2026-10-22 23:04:51 - INFO - Uso de RAM actual: 87.4%
-2026-10-22 23:05:36 - INFO - Uso de RAM actual: 88.6%
-2026-10-22 23:06:21 - INFO - Uso de RAM actual: 88.0%
-2026-10-22 23:07:06 - INFO - Uso de RAM actual: 88.7%
-2026-10-22 23:07:51 - INFO - Uso de RAM actual: 90.0%
-2026-10-22 23:07:51 - WARNING - RAM por encima del limite critico (90.0% >= 90%)
-2026-10-22 23:07:51 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.1%), msedge.exe (13.2%), Code.exe (3.8%)
-2026-10-22 23:08:01 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-22 23:08:01 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:08:04 - INFO - RAM tras optimizacion: 59.5%
-2026-10-22 23:12:34 - INFO - Uso de RAM actual: 81.6%
-2026-10-22 23:13:19 - INFO - Uso de RAM actual: 87.9%
-2026-10-22 23:14:04 - INFO - Uso de RAM actual: 85.8%
-2026-10-22 23:14:49 - INFO - Uso de RAM actual: 86.6%
-2026-10-22 23:15:34 - INFO - Uso de RAM actual: 91.3%
-2026-10-22 23:15:34 - WARNING - RAM por encima del limite critico (91.3% >= 90%)
-2026-10-22 23:15:34 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.4%), msedge.exe (9.1%), msedge.exe (8.2%)
-2026-10-22 23:15:44 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-22 23:15:44 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:15:47 - INFO - RAM tras optimizacion: 53.6%
-2026-10-22 23:18:47 - INFO - Uso de RAM actual: 81.9%
-2026-10-22 23:19:32 - INFO - Uso de RAM actual: 97.4%
-2026-10-22 23:19:32 - WARNING - RAM por encima del limite critico (97.4% >= 90%)
-2026-10-22 23:19:32 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (32.0%), llama-server.exe (22.8%), Code.exe (5.1%)
-2026-10-22 23:19:38 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:19:41 - INFO - RAM tras optimizacion: 44.1%
-2026-10-22 23:21:11 - INFO - Uso de RAM actual: 93.2%
-2026-10-22 23:21:30 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-22 23:21:30 - INFO - Uso de RAM actual: 95.2%
-2026-10-22 23:21:30 - WARNING - RAM por encima del limite critico (95.2% >= 90%)
-2026-10-22 23:21:31 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (28.7%), llama-server.exe (25.2%), Code.exe (5.1%)
-2026-10-22 23:21:34 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:21:43 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:21:46 - INFO - RAM tras optimizacion: 63.5%
-2026-10-22 23:23:36 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-22 23:25:51 - INFO - Uso de RAM actual: 85.7%
-2026-10-22 23:26:36 - INFO - Uso de RAM actual: 85.6%
-2026-10-22 23:27:21 - INFO - Uso de RAM actual: 87.3%
-2026-10-22 23:28:06 - INFO - Uso de RAM actual: 89.2%
-2026-10-22 23:28:51 - INFO - Uso de RAM actual: 91.4%
-2026-10-22 23:28:51 - WARNING - RAM por encima del limite critico (91.4% >= 90%)
-2026-10-22 23:28:52 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (23.3%), msedge.exe (11.1%), msedge.exe (9.6%)
-2026-10-22 23:28:53 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:28:53 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:28:53 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:28:56 - INFO - RAM tras optimizacion: 91.3%
-2026-10-22 23:29:41 - INFO - Uso de RAM actual: 94.3%
-2026-10-22 23:30:26 - INFO - Uso de RAM actual: 97.0%
-2026-10-22 23:31:11 - INFO - Uso de RAM actual: 97.3%
-2026-10-22 23:31:11 - WARNING - RAM por encima del limite critico (97.3% >= 90%)
-2026-10-22 23:31:13 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.9%), msedge.exe (10.8%), msedge.exe (7.9%)
-2026-10-22 23:31:16 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:31:16 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:31:16 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:31:19 - INFO - RAM tras optimizacion: 98.3%
-2026-10-22 23:32:04 - INFO - Uso de RAM actual: 97.6%
-2026-10-22 23:32:49 - INFO - Uso de RAM actual: 94.5%
-2026-10-22 23:33:34 - INFO - Uso de RAM actual: 94.7%
-2026-10-22 23:33:34 - WARNING - RAM por encima del limite critico (94.7% >= 90%)
-2026-10-22 23:33:34 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.9%), msedge.exe (9.4%), Code.exe (4.6%)
-2026-10-22 23:33:35 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:33:35 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:33:35 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:33:38 - INFO - RAM tras optimizacion: 95.0%
-2026-10-22 23:34:23 - INFO - Uso de RAM actual: 96.7%
-2026-10-22 23:35:08 - INFO - Uso de RAM actual: 95.1%
-2026-10-22 23:35:53 - INFO - Uso de RAM actual: 96.9%
-2026-10-22 23:35:53 - WARNING - RAM por encima del limite critico (96.9% >= 90%)
-2026-10-22 23:35:54 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.9%), msedge.exe (10.0%), msedge.exe (4.8%)
-2026-10-22 23:35:55 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:35:55 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:35:55 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:35:58 - INFO - RAM tras optimizacion: 97.2%
-2026-10-22 23:36:43 - INFO - Uso de RAM actual: 95.9%
-2026-10-22 23:37:28 - INFO - Uso de RAM actual: 96.0%
-2026-10-22 23:38:13 - INFO - Uso de RAM actual: 97.2%
-2026-10-22 23:38:13 - WARNING - RAM por encima del limite critico (97.2% >= 90%)
-2026-10-22 23:38:15 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.9%), msedge.exe (9.9%), msedge.exe (5.2%)
-2026-10-22 23:38:17 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:38:17 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:38:17 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:38:20 - INFO - RAM tras optimizacion: 97.3%
-2026-10-22 23:39:05 - INFO - Uso de RAM actual: 97.6%
-2026-10-22 23:39:50 - INFO - Uso de RAM actual: 96.9%
-2026-10-22 23:40:35 - INFO - Uso de RAM actual: 97.0%
-2026-10-22 23:40:35 - WARNING - RAM por encima del limite critico (97.0% >= 90%)
-2026-10-22 23:40:37 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.0%), msedge.exe (8.8%), msedge.exe (5.1%)
-2026-10-22 23:40:39 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:40:39 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:40:39 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:40:42 - INFO - RAM tras optimizacion: 96.6%
-2026-10-22 23:41:27 - INFO - Uso de RAM actual: 97.3%
-2026-10-22 23:42:12 - INFO - Uso de RAM actual: 97.0%
-2026-10-22 23:42:57 - INFO - Uso de RAM actual: 97.2%
-2026-10-22 23:42:57 - WARNING - RAM por encima del limite critico (97.2% >= 90%)
-2026-10-22 23:42:59 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.1%), msedge.exe (9.0%), msedge.exe (4.8%)
-2026-10-22 23:43:01 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:43:01 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:43:01 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:43:04 - INFO - RAM tras optimizacion: 97.0%
-2026-10-22 23:43:49 - INFO - Uso de RAM actual: 97.4%
-2026-10-22 23:44:34 - INFO - Uso de RAM actual: 97.6%
-2026-10-22 23:45:19 - INFO - Uso de RAM actual: 97.4%
-2026-10-22 23:45:19 - WARNING - RAM por encima del limite critico (97.4% >= 90%)
-2026-10-22 23:45:21 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.3%), msedge.exe (8.9%), Code.exe (4.8%)
-2026-10-22 23:45:23 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:45:23 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:45:23 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:45:26 - INFO - RAM tras optimizacion: 97.5%
-2026-10-22 23:46:11 - INFO - Uso de RAM actual: 98.2%
-2026-10-22 23:46:56 - INFO - Uso de RAM actual: 97.2%
-2026-10-22 23:47:41 - INFO - Uso de RAM actual: 97.0%
-2026-10-22 23:47:41 - WARNING - RAM por encima del limite critico (97.0% >= 90%)
-2026-10-22 23:47:41 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.9%), msedge.exe (8.7%), msedge.exe (7.9%)
-2026-10-22 23:47:45 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:47:45 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:47:45 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:47:48 - INFO - RAM tras optimizacion: 97.0%
-2026-10-22 23:48:33 - INFO - Uso de RAM actual: 94.7%
-2026-10-22 23:49:18 - INFO - Uso de RAM actual: 97.1%
-2026-10-22 23:50:03 - INFO - Uso de RAM actual: 97.6%
-2026-10-22 23:50:03 - WARNING - RAM por encima del limite critico (97.6% >= 90%)
-2026-10-22 23:50:04 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.3%), msedge.exe (7.4%), msedge.exe (7.0%)
-2026-10-22 23:50:07 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:50:07 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:50:07 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:50:10 - INFO - RAM tras optimizacion: 97.3%
-2026-10-22 23:50:55 - INFO - Uso de RAM actual: 97.3%
-2026-10-22 23:51:40 - INFO - Uso de RAM actual: 98.2%
-2026-10-22 23:52:25 - INFO - Uso de RAM actual: 93.6%
-2026-10-22 23:52:25 - WARNING - RAM por encima del limite critico (93.6% >= 90%)
-2026-10-22 23:52:26 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (24.6%), msedge.exe (15.0%), msedge.exe (5.3%)
-2026-10-22 23:52:29 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-22 23:52:29 - WARNING - Fallo al ejecutar MemReduct: [WinError 740] La operación solicitada requiere elevación
-2026-10-22 23:52:29 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-22 23:52:32 - INFO - RAM tras optimizacion: 94.8%
-2026-10-22 23:53:17 - INFO - Uso de RAM actual: 93.2%
-2026-10-23 00:00:51 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-23 00:00:51 - INFO - Uso de RAM actual: 98.0%
-2026-10-23 00:00:51 - WARNING - RAM por encima del limite critico (98.0% >= 90%)
-2026-10-23 00:00:51 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (25.6%), msedge.exe (11.2%), msedge.exe (7.0%)
-2026-10-23 00:00:53 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:01:03 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 00:01:03 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 00:01:06 - INFO - RAM tras optimizacion: 65.2%
-2026-10-23 00:01:51 - INFO - Uso de RAM actual: 80.8%
-2026-10-23 00:02:36 - INFO - Uso de RAM actual: 88.3%
-2026-10-23 00:03:21 - INFO - Uso de RAM actual: 89.1%
-2026-10-23 00:04:06 - INFO - Uso de RAM actual: 91.6%
-2026-10-23 00:04:06 - WARNING - RAM por encima del limite critico (91.6% >= 90%)
-2026-10-23 00:04:06 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.7%), msedge.exe (10.5%), msedge.exe (6.8%)
-2026-10-23 00:04:08 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:04:18 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:04:21 - INFO - RAM tras optimizacion: 67.7%
-2026-10-23 00:05:06 - INFO - Uso de RAM actual: 82.7%
-2026-10-23 00:05:51 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 00:06:36 - INFO - Uso de RAM actual: 90.5%
-2026-10-23 00:06:36 - WARNING - RAM por encima del limite critico (90.5% >= 90%)
-2026-10-23 00:06:36 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (23.9%), msedge.exe (14.5%), msedge.exe (7.6%)
-2026-10-23 00:06:39 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:06:49 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 00:06:49 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 00:06:52 - INFO - RAM tras optimizacion: 67.7%
-2026-10-23 00:07:37 - INFO - Uso de RAM actual: 82.3%
-2026-10-23 00:08:22 - INFO - Uso de RAM actual: 86.1%
-2026-10-23 00:09:07 - INFO - Uso de RAM actual: 87.4%
-2026-10-23 00:09:52 - INFO - Uso de RAM actual: 87.0%
-2026-10-23 00:10:37 - INFO - Uso de RAM actual: 88.8%
-2026-10-23 00:11:22 - INFO - Uso de RAM actual: 90.4%
-2026-10-23 00:11:22 - WARNING - RAM por encima del limite critico (90.4% >= 90%)
-2026-10-23 00:11:22 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (24.2%), msedge.exe (9.9%), msedge.exe (9.8%)
-2026-10-23 00:11:22 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:11:28 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:11:31 - INFO - RAM tras optimizacion: 37.6%
-2026-10-23 00:12:16 - INFO - Uso de RAM actual: 80.5%
-2026-10-23 00:13:01 - INFO - Uso de RAM actual: 90.2%
-2026-10-23 00:13:46 - INFO - Uso de RAM actual: 95.1%
-2026-10-23 00:13:46 - WARNING - RAM por encima del limite critico (95.1% >= 90%)
-2026-10-23 00:13:47 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (34.5%), msedge.exe (9.8%), msedge.exe (5.9%)
-2026-10-23 00:13:49 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:13:59 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 00:13:59 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 00:14:02 - INFO - RAM tras optimizacion: 71.5%
-2026-10-23 00:16:17 - INFO - Uso de RAM actual: 80.3%
-2026-10-23 00:17:02 - INFO - Uso de RAM actual: 81.8%
-2026-10-23 00:17:47 - INFO - Uso de RAM actual: 85.5%
-2026-10-23 00:18:32 - INFO - Uso de RAM actual: 86.2%
-2026-10-23 00:19:17 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 00:20:02 - INFO - Uso de RAM actual: 90.2%
-2026-10-23 00:20:02 - WARNING - RAM por encima del limite critico (90.2% >= 90%)
-2026-10-23 00:20:02 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (25.6%), msedge.exe (9.1%), msedge.exe (5.9%)
-2026-10-23 00:20:05 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:20:15 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 00:20:15 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 00:20:18 - INFO - RAM tras optimizacion: 64.2%
-2026-10-23 00:22:33 - INFO - Uso de RAM actual: 80.0%
-2026-10-23 00:23:18 - INFO - Uso de RAM actual: 82.3%
-2026-10-23 00:24:03 - INFO - Uso de RAM actual: 86.9%
-2026-10-23 00:24:48 - INFO - Uso de RAM actual: 84.7%
-2026-10-23 00:25:33 - INFO - Uso de RAM actual: 85.3%
-2026-10-23 00:26:18 - INFO - Uso de RAM actual: 85.5%
-2026-10-23 00:27:03 - INFO - Uso de RAM actual: 86.6%
-2026-10-23 00:27:48 - INFO - Uso de RAM actual: 86.5%
-2026-10-23 00:28:33 - INFO - Uso de RAM actual: 86.4%
-2026-10-23 00:29:18 - INFO - Uso de RAM actual: 86.7%
-2026-10-23 00:30:03 - INFO - Uso de RAM actual: 89.6%
-2026-10-23 00:30:48 - INFO - Uso de RAM actual: 87.7%
-2026-10-23 00:31:33 - INFO - Uso de RAM actual: 85.2%
-2026-10-23 00:32:18 - INFO - Uso de RAM actual: 86.6%
-2026-10-23 00:33:03 - INFO - Uso de RAM actual: 88.1%
-2026-10-23 00:33:48 - INFO - Uso de RAM actual: 92.5%
-2026-10-23 00:33:48 - WARNING - RAM por encima del limite critico (92.5% >= 90%)
-2026-10-23 00:33:48 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (32.9%), msedge.exe (9.4%), Code.exe (5.1%)
-2026-10-23 00:33:52 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:34:02 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 00:34:02 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 00:34:05 - INFO - RAM tras optimizacion: 63.5%
-2026-10-23 00:42:20 - INFO - Uso de RAM actual: 80.5%
-2026-10-23 00:43:05 - INFO - Uso de RAM actual: 84.2%
-2026-10-23 00:43:50 - INFO - Uso de RAM actual: 83.6%
-2026-10-23 00:44:35 - INFO - Uso de RAM actual: 91.1%
-2026-10-23 00:44:35 - WARNING - RAM por encima del limite critico (91.1% >= 90%)
-2026-10-23 00:44:35 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (32.8%), msedge.exe (11.3%), Code.exe (4.5%)
-2026-10-23 00:44:37 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:44:43 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:44:46 - INFO - RAM tras optimizacion: 62.6%
-2026-10-23 00:48:31 - INFO - Uso de RAM actual: 81.9%
-2026-10-23 00:49:16 - INFO - Uso de RAM actual: 85.5%
-2026-10-23 00:50:01 - INFO - Uso de RAM actual: 86.2%
-2026-10-23 00:50:46 - INFO - Uso de RAM actual: 86.3%
-2026-10-23 00:51:31 - INFO - Uso de RAM actual: 89.3%
-2026-10-23 00:52:16 - INFO - Uso de RAM actual: 88.7%
-2026-10-23 00:53:01 - INFO - Uso de RAM actual: 89.3%
-2026-10-23 00:53:46 - INFO - Uso de RAM actual: 90.7%
-2026-10-23 00:53:46 - WARNING - RAM por encima del limite critico (90.7% >= 90%)
-2026-10-23 00:53:46 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (31.4%), msedge.exe (11.5%), Code.exe (5.5%)
-2026-10-23 00:53:48 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:53:57 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 00:54:00 - INFO - RAM tras optimizacion: 65.2%
-2026-10-23 00:54:45 - INFO - Uso de RAM actual: 82.0%
-2026-10-23 00:55:30 - INFO - Uso de RAM actual: 84.0%
-2026-10-23 00:56:15 - INFO - Uso de RAM actual: 80.6%
-2026-10-23 00:57:00 - INFO - Uso de RAM actual: 83.3%
-2026-10-23 00:57:45 - INFO - Uso de RAM actual: 84.9%
-2026-10-23 00:58:30 - INFO - Uso de RAM actual: 82.7%
-2026-10-23 00:59:15 - INFO - Uso de RAM actual: 83.4%
-2026-10-23 01:00:00 - INFO - Uso de RAM actual: 85.6%
-2026-10-23 01:00:45 - INFO - Uso de RAM actual: 84.8%
-2026-10-23 01:01:30 - INFO - Uso de RAM actual: 85.8%
-2026-10-23 01:02:15 - INFO - Uso de RAM actual: 85.7%
-2026-10-23 01:03:00 - INFO - Uso de RAM actual: 86.2%
-2026-10-23 01:03:45 - INFO - Uso de RAM actual: 92.5%
-2026-10-23 01:03:45 - WARNING - RAM por encima del limite critico (92.5% >= 90%)
-2026-10-23 01:03:45 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.5%), msedge.exe (14.3%), Code.exe (5.3%)
-2026-10-23 01:03:47 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:03:58 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 01:03:58 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 01:04:01 - INFO - RAM tras optimizacion: 42.7%
-2026-10-23 01:11:31 - INFO - Uso de RAM actual: 93.6%
-2026-10-23 01:11:31 - WARNING - RAM por encima del limite critico (93.6% >= 90%)
-2026-10-23 01:11:31 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (30.3%), msedge.exe (11.5%), Code.exe (5.9%)
-2026-10-23 01:11:32 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:11:42 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 01:11:42 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 01:11:45 - INFO - RAM tras optimizacion: 63.0%
-2026-10-23 01:14:00 - INFO - Uso de RAM actual: 83.0%
-2026-10-23 01:14:45 - INFO - Uso de RAM actual: 85.8%
-2026-10-23 01:15:30 - INFO - Uso de RAM actual: 92.4%
-2026-10-23 01:15:30 - WARNING - RAM por encima del limite critico (92.4% >= 90%)
-2026-10-23 01:15:30 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (31.2%), msedge.exe (10.8%), Code.exe (6.2%)
-2026-10-23 01:15:33 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:15:43 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 01:15:43 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 01:15:46 - INFO - RAM tras optimizacion: 64.5%
-2026-10-23 01:18:46 - INFO - Uso de RAM actual: 83.7%
-2026-10-23 01:19:31 - INFO - Uso de RAM actual: 84.9%
-2026-10-23 01:20:16 - INFO - Uso de RAM actual: 87.9%
-2026-10-23 01:21:01 - INFO - Uso de RAM actual: 89.4%
-2026-10-23 01:21:46 - INFO - Uso de RAM actual: 89.5%
-2026-10-23 01:22:31 - INFO - Uso de RAM actual: 92.5%
-2026-10-23 01:22:31 - WARNING - RAM por encima del limite critico (92.5% >= 90%)
-2026-10-23 01:22:31 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (32.4%), msedge.exe (11.8%), Code.exe (6.0%)
-2026-10-23 01:22:33 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:22:43 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:22:46 - INFO - RAM tras optimizacion: 64.3%
-2026-10-23 01:24:16 - INFO - Uso de RAM actual: 86.7%
-2026-10-23 01:25:01 - INFO - Uso de RAM actual: 89.3%
-2026-10-23 01:25:46 - INFO - Uso de RAM actual: 93.7%
-2026-10-23 01:25:46 - WARNING - RAM por encima del limite critico (93.7% >= 90%)
-2026-10-23 01:25:47 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.5%), msedge.exe (18.4%), Code.exe (6.1%)
-2026-10-23 01:25:48 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:25:58 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 01:25:58 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 01:26:01 - INFO - RAM tras optimizacion: 69.9%
-2026-10-23 01:28:16 - INFO - Uso de RAM actual: 86.4%
-2026-10-23 01:29:01 - INFO - Uso de RAM actual: 91.4%
-2026-10-23 01:29:01 - WARNING - RAM por encima del limite critico (91.4% >= 90%)
-2026-10-23 01:29:01 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.3%), msedge.exe (8.5%), msedge.exe (5.8%)
-2026-10-23 01:29:04 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:29:14 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 01:29:14 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 01:29:17 - INFO - RAM tras optimizacion: 53.7%
-2026-10-23 01:31:32 - INFO - Uso de RAM actual: 83.9%
-2026-10-23 01:32:17 - INFO - Uso de RAM actual: 84.5%
-2026-10-23 01:33:02 - INFO - Uso de RAM actual: 84.9%
-2026-10-23 01:33:47 - INFO - Uso de RAM actual: 86.1%
-2026-10-23 01:34:32 - INFO - Uso de RAM actual: 87.4%
-2026-10-23 01:35:17 - INFO - Uso de RAM actual: 88.0%
-2026-10-23 01:36:02 - INFO - Uso de RAM actual: 88.7%
-2026-10-23 01:36:47 - INFO - Uso de RAM actual: 88.8%
-2026-10-23 01:37:32 - INFO - Uso de RAM actual: 89.3%
-2026-10-23 01:38:17 - INFO - Uso de RAM actual: 89.4%
-2026-10-23 01:39:02 - INFO - Uso de RAM actual: 90.0%
-2026-10-23 01:39:02 - WARNING - RAM por encima del limite critico (90.0% >= 90%)
-2026-10-23 01:39:02 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (32.5%), msedge.exe (7.7%), Code.exe (6.1%)
-2026-10-23 01:39:05 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:39:13 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:39:16 - INFO - RAM tras optimizacion: 56.4%
-2026-10-23 01:41:31 - INFO - Uso de RAM actual: 80.8%
-2026-10-23 01:42:16 - INFO - Uso de RAM actual: 81.8%
-2026-10-23 01:43:01 - INFO - Uso de RAM actual: 82.6%
-2026-10-23 01:43:46 - INFO - Uso de RAM actual: 89.5%
-2026-10-23 01:44:31 - INFO - Uso de RAM actual: 88.9%
-2026-10-23 01:45:16 - INFO - Uso de RAM actual: 88.4%
-2026-10-23 01:46:01 - INFO - Uso de RAM actual: 94.2%
-2026-10-23 01:46:01 - WARNING - RAM por encima del limite critico (94.2% >= 90%)
-2026-10-23 01:46:01 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (35.8%), msedge.exe (7.3%), Code.exe (6.4%)
-2026-10-23 01:46:04 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 01:46:14 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 01:46:14 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 01:46:17 - INFO - RAM tras optimizacion: 69.3%
-2026-10-23 01:53:02 - INFO - Uso de RAM actual: 80.3%
-2026-10-23 01:53:47 - INFO - Uso de RAM actual: 85.5%
-2026-10-23 01:54:32 - INFO - Uso de RAM actual: 85.5%
-2026-10-23 01:55:17 - INFO - Uso de RAM actual: 85.4%
-2026-10-23 01:56:02 - INFO - Uso de RAM actual: 86.3%
-2026-10-23 01:56:47 - INFO - Uso de RAM actual: 85.7%
-2026-10-23 01:57:32 - INFO - Uso de RAM actual: 84.6%
-2026-10-23 01:58:17 - INFO - Uso de RAM actual: 85.7%
-2026-10-23 01:59:02 - INFO - Uso de RAM actual: 86.5%
-2026-10-23 01:59:47 - INFO - Uso de RAM actual: 86.5%
-2026-10-23 02:00:32 - INFO - Uso de RAM actual: 87.0%
-2026-10-23 02:01:17 - INFO - Uso de RAM actual: 91.5%
-2026-10-23 02:01:17 - WARNING - RAM por encima del limite critico (91.5% >= 90%)
-2026-10-23 02:01:17 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (32.9%), msedge.exe (7.1%), Code.exe (5.6%)
-2026-10-23 02:01:20 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 02:01:30 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 02:01:30 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 02:01:33 - INFO - RAM tras optimizacion: 62.1%
-2026-10-23 02:04:33 - INFO - Uso de RAM actual: 80.6%
-2026-10-23 12:17:12 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-23 12:17:12 - INFO - Uso de RAM actual: 90.6%
-2026-10-23 12:17:12 - WARNING - RAM por encima del limite critico (90.6% >= 90%)
-2026-10-23 12:17:12 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (32.9%), msedge.exe (6.5%), Code.exe (3.5%)
-2026-10-23 12:17:15 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 12:17:23 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 12:17:26 - INFO - RAM tras optimizacion: 53.9%
-2026-10-23 12:22:41 - INFO - Uso de RAM actual: 83.9%
-2026-10-23 12:23:26 - INFO - Uso de RAM actual: 82.0%
-2026-10-23 12:24:11 - INFO - Uso de RAM actual: 84.7%
-2026-10-23 12:24:56 - INFO - Uso de RAM actual: 84.1%
-2026-10-23 12:25:41 - INFO - Uso de RAM actual: 84.3%
-2026-10-23 12:26:26 - INFO - Uso de RAM actual: 86.6%
-2026-10-23 12:27:11 - INFO - Uso de RAM actual: 87.0%
-2026-10-23 12:27:56 - INFO - Uso de RAM actual: 86.7%
-2026-10-23 12:28:41 - INFO - Uso de RAM actual: 89.5%
-2026-10-23 12:29:26 - INFO - Uso de RAM actual: 89.8%
-2026-10-23 12:30:11 - INFO - Uso de RAM actual: 89.8%
-2026-10-23 12:30:56 - INFO - Uso de RAM actual: 89.6%
-2026-10-23 12:31:41 - INFO - Uso de RAM actual: 90.8%
-2026-10-23 12:31:41 - WARNING - RAM por encima del limite critico (90.8% >= 90%)
-2026-10-23 12:31:41 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (37.4%), msedge.exe (7.5%), Code.exe (4.5%)
-2026-10-23 12:31:43 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 12:31:49 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 12:31:52 - INFO - RAM tras optimizacion: 55.6%
-2026-10-23 12:37:52 - INFO - Uso de RAM actual: 80.2%
-2026-10-23 12:40:52 - INFO - Uso de RAM actual: 81.2%
-2026-10-23 12:41:37 - INFO - Uso de RAM actual: 82.1%
-2026-10-23 12:42:22 - INFO - Uso de RAM actual: 83.5%
-2026-10-23 12:43:07 - INFO - Uso de RAM actual: 83.6%
-2026-10-23 12:43:52 - INFO - Uso de RAM actual: 83.8%
-2026-10-23 12:44:37 - INFO - Uso de RAM actual: 84.2%
-2026-10-23 12:45:22 - INFO - Uso de RAM actual: 84.3%
-2026-10-23 12:46:07 - INFO - Uso de RAM actual: 84.2%
-2026-10-23 12:46:52 - INFO - Uso de RAM actual: 84.3%
-2026-10-23 12:47:37 - INFO - Uso de RAM actual: 84.5%
-2026-10-23 12:48:22 - INFO - Uso de RAM actual: 84.4%
-2026-10-23 12:49:07 - INFO - Uso de RAM actual: 84.4%
-2026-10-23 12:49:52 - INFO - Uso de RAM actual: 85.5%
-2026-10-23 12:50:37 - INFO - Uso de RAM actual: 85.7%
-2026-10-23 12:51:22 - INFO - Uso de RAM actual: 84.6%
-2026-10-23 12:52:07 - INFO - Uso de RAM actual: 84.4%
-2026-10-23 12:52:52 - INFO - Uso de RAM actual: 85.5%
-2026-10-23 12:53:37 - INFO - Uso de RAM actual: 87.6%
-2026-10-23 12:54:22 - INFO - Uso de RAM actual: 90.1%
-2026-10-23 12:54:22 - WARNING - RAM por encima del limite critico (90.1% >= 90%)
-2026-10-23 12:54:22 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (35.8%), msedge.exe (8.4%), Code.exe (4.9%)
-2026-10-23 12:54:24 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 12:54:34 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 12:54:34 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 12:54:37 - INFO - RAM tras optimizacion: 62.5%
-2026-10-23 13:03:38 - INFO - Uso de RAM actual: 86.8%
-2026-10-23 13:04:23 - INFO - Uso de RAM actual: 86.5%
-2026-10-23 13:05:08 - INFO - Uso de RAM actual: 88.7%
-2026-10-23 13:05:53 - INFO - Uso de RAM actual: 88.7%
-2026-10-23 13:06:38 - INFO - Uso de RAM actual: 90.8%
-2026-10-23 13:06:38 - WARNING - RAM por encima del limite critico (90.8% >= 90%)
-2026-10-23 13:06:38 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (34.2%), Code.exe (4.6%), msedge.exe (4.2%)
-2026-10-23 13:06:39 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 13:06:49 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 13:06:49 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 13:06:52 - INFO - RAM tras optimizacion: 57.1%
-2026-10-23 13:31:38 - INFO - Uso de RAM actual: 83.5%
-2026-10-23 13:32:23 - INFO - Uso de RAM actual: 86.2%
-2026-10-23 13:33:08 - INFO - Uso de RAM actual: 85.3%
-2026-10-23 13:33:53 - INFO - Uso de RAM actual: 91.3%
-2026-10-23 13:33:53 - WARNING - RAM por encima del limite critico (91.3% >= 90%)
-2026-10-23 13:33:53 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.7%), Code.exe (6.7%), msedge.exe (3.8%)
-2026-10-23 13:33:55 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 13:34:05 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 13:34:05 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 13:34:08 - INFO - RAM tras optimizacion: 53.8%
-2026-10-23 13:49:53 - INFO - Uso de RAM actual: 80.6%
-2026-10-23 13:50:38 - INFO - Uso de RAM actual: 81.3%
-2026-10-23 13:51:23 - INFO - Uso de RAM actual: 81.4%
-2026-10-23 13:52:08 - INFO - Uso de RAM actual: 81.1%
-2026-10-23 13:52:53 - INFO - Uso de RAM actual: 82.2%
-2026-10-23 13:53:38 - INFO - Uso de RAM actual: 80.4%
-2026-10-23 13:54:23 - INFO - Uso de RAM actual: 82.8%
-2026-10-23 13:55:08 - INFO - Uso de RAM actual: 81.8%
-2026-10-23 13:55:53 - INFO - Uso de RAM actual: 82.9%
-2026-10-23 14:07:23 - INFO - Uso de RAM actual: 90.2%
-2026-10-23 14:07:23 - WARNING - RAM por encima del limite critico (90.2% >= 90%)
-2026-10-23 14:07:23 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.4%), Code.exe (4.7%), msedge.exe (3.3%)
-2026-10-23 14:07:25 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 14:07:35 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 14:07:35 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 14:07:38 - INFO - RAM tras optimizacion: 56.7%
-2026-10-23 14:09:08 - INFO - Uso de RAM actual: 84.9%
-2026-10-23 14:09:53 - INFO - Uso de RAM actual: 88.4%
-2026-10-23 14:10:38 - INFO - Uso de RAM actual: 88.3%
-2026-10-23 14:11:23 - INFO - Uso de RAM actual: 89.6%
-2026-10-23 14:12:08 - INFO - Uso de RAM actual: 89.8%
-2026-10-23 14:12:53 - INFO - Uso de RAM actual: 89.7%
-2026-10-23 14:13:38 - INFO - Uso de RAM actual: 90.7%
-2026-10-23 14:13:38 - WARNING - RAM por encima del limite critico (90.7% >= 90%)
-2026-10-23 14:13:38 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (32.1%), msedge.exe (10.0%), Code.exe (4.7%)
-2026-10-23 14:13:39 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 14:13:49 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 14:13:49 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 14:13:52 - INFO - RAM tras optimizacion: 28.5%
-2026-10-23 14:38:27 - INFO - Uso de RAM actual: 85.6%
-2026-10-23 14:39:12 - INFO - Uso de RAM actual: 90.6%
-2026-10-23 14:39:12 - WARNING - RAM por encima del limite critico (90.6% >= 90%)
-2026-10-23 14:39:12 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (30.7%), msedge.exe (10.5%), Code.exe (5.1%)
-2026-10-23 14:39:14 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 14:39:24 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 14:39:24 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 14:39:27 - INFO - RAM tras optimizacion: 52.1%
-2026-10-23 14:56:34 - INFO - Uso de RAM actual: 82.5%
-2026-10-23 14:57:19 - INFO - Uso de RAM actual: 82.6%
-2026-10-23 14:58:04 - INFO - Uso de RAM actual: 83.3%
-2026-10-23 14:58:49 - INFO - Uso de RAM actual: 85.3%
-2026-10-23 14:59:34 - INFO - Uso de RAM actual: 86.7%
-2026-10-23 15:00:19 - INFO - Uso de RAM actual: 86.3%
-2026-10-23 15:01:04 - INFO - Uso de RAM actual: 85.8%
-2026-10-23 15:01:49 - INFO - Uso de RAM actual: 86.1%
-2026-10-23 15:02:34 - INFO - Uso de RAM actual: 88.6%
-2026-10-23 15:03:19 - INFO - Uso de RAM actual: 92.3%
-2026-10-23 15:03:19 - WARNING - RAM por encima del limite critico (92.3% >= 90%)
-2026-10-23 15:03:19 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.6%), msedge.exe (10.8%), Code.exe (5.3%)
-2026-10-23 15:03:21 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 15:03:31 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 15:03:31 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 15:03:34 - INFO - RAM tras optimizacion: 54.4%
-2026-10-23 15:06:34 - INFO - Uso de RAM actual: 80.9%
-2026-10-23 15:07:19 - INFO - Uso de RAM actual: 81.1%
-2026-10-23 15:08:04 - INFO - Uso de RAM actual: 80.9%
-2026-10-23 15:08:49 - INFO - Uso de RAM actual: 80.9%
-2026-10-23 15:09:34 - INFO - Uso de RAM actual: 82.9%
-2026-10-23 15:10:19 - INFO - Uso de RAM actual: 82.8%
-2026-10-23 15:11:04 - INFO - Uso de RAM actual: 81.4%
-2026-10-23 15:13:19 - INFO - Uso de RAM actual: 80.6%
-2026-10-23 15:14:04 - INFO - Uso de RAM actual: 80.6%
-2026-10-23 15:14:49 - INFO - Uso de RAM actual: 81.0%
-2026-10-23 15:15:34 - INFO - Uso de RAM actual: 81.0%
-2026-10-23 15:16:19 - INFO - Uso de RAM actual: 81.3%
-2026-10-23 15:17:04 - INFO - Uso de RAM actual: 81.4%
-2026-10-23 15:17:49 - INFO - Uso de RAM actual: 81.8%
-2026-10-23 15:18:34 - INFO - Uso de RAM actual: 81.1%
-2026-10-23 15:19:19 - INFO - Uso de RAM actual: 81.0%
-2026-10-23 15:20:04 - INFO - Uso de RAM actual: 82.0%
-2026-10-23 15:20:49 - INFO - Uso de RAM actual: 86.0%
-2026-10-23 15:21:34 - INFO - Uso de RAM actual: 87.2%
-2026-10-23 15:22:19 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 15:23:04 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 15:23:49 - INFO - Uso de RAM actual: 90.8%
-2026-10-23 15:23:49 - WARNING - RAM por encima del limite critico (90.8% >= 90%)
-2026-10-23 15:23:49 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (37.9%), msedge.exe (5.7%), Code.exe (5.5%)
-2026-10-23 15:23:51 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 15:24:01 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 15:24:01 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 15:24:04 - INFO - RAM tras optimizacion: 56.8%
-2026-10-23 15:30:49 - INFO - Uso de RAM actual: 80.1%
-2026-10-23 15:31:34 - INFO - Uso de RAM actual: 81.3%
-2026-10-23 15:32:19 - INFO - Uso de RAM actual: 83.4%
-2026-10-23 15:33:04 - INFO - Uso de RAM actual: 86.4%
-2026-10-23 15:33:49 - INFO - Uso de RAM actual: 90.0%
-2026-10-23 15:33:49 - WARNING - RAM por encima del limite critico (90.0% >= 90%)
-2026-10-23 15:33:49 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.3%), msedge.exe (12.5%), Code.exe (5.9%)
-2026-10-23 15:33:51 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 15:34:01 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 15:34:01 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 15:34:04 - INFO - RAM tras optimizacion: 55.4%
-2026-10-23 15:43:04 - INFO - Uso de RAM actual: 80.3%
-2026-10-23 15:43:49 - INFO - Uso de RAM actual: 81.6%
-2026-10-23 15:44:34 - INFO - Uso de RAM actual: 81.5%
-2026-10-23 15:45:19 - INFO - Uso de RAM actual: 85.5%
-2026-10-23 15:46:04 - INFO - Uso de RAM actual: 84.9%
-2026-10-23 15:46:49 - INFO - Uso de RAM actual: 84.2%
-2026-10-23 15:47:34 - INFO - Uso de RAM actual: 85.6%
-2026-10-23 15:48:19 - INFO - Uso de RAM actual: 84.2%
-2026-10-23 15:49:04 - INFO - Uso de RAM actual: 85.8%
-2026-10-23 15:49:49 - INFO - Uso de RAM actual: 86.1%
-2026-10-23 15:50:34 - INFO - Uso de RAM actual: 85.3%
-2026-10-23 15:51:19 - INFO - Uso de RAM actual: 85.9%
-2026-10-23 15:52:04 - INFO - Uso de RAM actual: 87.2%
-2026-10-23 15:52:49 - INFO - Uso de RAM actual: 87.9%
-2026-10-23 15:53:34 - INFO - Uso de RAM actual: 87.7%
-2026-10-23 15:54:19 - INFO - Uso de RAM actual: 87.6%
-2026-10-23 15:55:04 - INFO - Uso de RAM actual: 88.8%
-2026-10-23 15:55:49 - INFO - Uso de RAM actual: 90.4%
-2026-10-23 15:55:49 - WARNING - RAM por encima del limite critico (90.4% >= 90%)
-2026-10-23 15:55:49 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.3%), Code.exe (5.7%), msedge.exe (5.5%)
-2026-10-23 15:55:51 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 15:56:01 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 15:56:01 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 15:56:04 - INFO - RAM tras optimizacion: 56.4%
-2026-10-23 15:59:49 - INFO - Uso de RAM actual: 81.4%
-2026-10-23 16:02:04 - INFO - Uso de RAM actual: 82.4%
-2026-10-23 16:02:49 - INFO - Uso de RAM actual: 87.1%
-2026-10-23 16:03:34 - INFO - Uso de RAM actual: 85.8%
-2026-10-23 16:04:19 - INFO - Uso de RAM actual: 89.5%
-2026-10-23 16:05:04 - INFO - Uso de RAM actual: 90.2%
-2026-10-23 16:05:04 - WARNING - RAM por encima del limite critico (90.2% >= 90%)
-2026-10-23 16:05:04 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (25.3%), Code.exe (6.1%), msedge.exe (3.5%)
-2026-10-23 16:05:05 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 16:05:12 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 16:05:15 - INFO - RAM tras optimizacion: 38.5%
-2026-10-23 16:19:30 - INFO - Uso de RAM actual: 91.6%
-2026-10-23 16:19:30 - WARNING - RAM por encima del limite critico (91.6% >= 90%)
-2026-10-23 16:19:30 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.1%), Code.exe (5.7%), msedge.exe (5.3%)
-2026-10-23 16:19:32 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 16:19:42 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 16:19:45 - INFO - RAM tras optimizacion: 56.1%
-2026-10-23 16:21:15 - INFO - Uso de RAM actual: 80.1%
-2026-10-23 16:22:00 - INFO - Uso de RAM actual: 81.9%
-2026-10-23 16:22:45 - INFO - Uso de RAM actual: 82.5%
-2026-10-23 16:23:30 - INFO - Uso de RAM actual: 82.9%
-2026-10-23 16:24:15 - INFO - Uso de RAM actual: 84.8%
-2026-10-23 16:25:00 - INFO - Uso de RAM actual: 85.2%
-2026-10-23 16:25:45 - INFO - Uso de RAM actual: 86.6%
-2026-10-23 16:26:30 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 16:27:15 - INFO - Uso de RAM actual: 89.5%
-2026-10-23 16:28:00 - INFO - Uso de RAM actual: 89.8%
-2026-10-23 16:28:45 - INFO - Uso de RAM actual: 90.3%
-2026-10-23 16:28:45 - WARNING - RAM por encima del limite critico (90.3% >= 90%)
-2026-10-23 16:28:45 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (30.4%), Code.exe (5.6%), msedge.exe (4.1%)
-2026-10-23 16:28:47 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 16:28:52 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 16:28:55 - INFO - RAM tras optimizacion: 37.9%
-2026-10-23 16:37:10 - INFO - Uso de RAM actual: 85.2%
-2026-10-23 16:37:55 - INFO - Uso de RAM actual: 86.2%
-2026-10-23 16:38:40 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 16:39:25 - INFO - Uso de RAM actual: 86.4%
-2026-10-23 16:40:10 - INFO - Uso de RAM actual: 85.0%
-2026-10-23 16:40:55 - INFO - Uso de RAM actual: 86.0%
-2026-10-23 16:41:40 - INFO - Uso de RAM actual: 85.9%
-2026-10-23 16:42:25 - INFO - Uso de RAM actual: 85.9%
-2026-10-23 16:43:10 - INFO - Uso de RAM actual: 86.0%
-2026-10-23 16:43:55 - INFO - Uso de RAM actual: 85.8%
-2026-10-23 16:44:40 - INFO - Uso de RAM actual: 85.7%
-2026-10-23 16:45:25 - INFO - Uso de RAM actual: 86.4%
-2026-10-23 16:46:10 - INFO - Uso de RAM actual: 85.8%
-2026-10-23 16:46:55 - INFO - Uso de RAM actual: 86.6%
-2026-10-23 16:47:40 - INFO - Uso de RAM actual: 86.4%
-2026-10-23 16:48:25 - INFO - Uso de RAM actual: 86.9%
-2026-10-23 16:49:10 - INFO - Uso de RAM actual: 86.6%
-2026-10-23 16:49:55 - INFO - Uso de RAM actual: 86.6%
-2026-10-23 16:50:40 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 16:51:25 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 16:52:10 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 16:52:55 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 16:53:40 - INFO - Uso de RAM actual: 91.1%
-2026-10-23 16:53:40 - WARNING - RAM por encima del limite critico (91.1% >= 90%)
-2026-10-23 16:53:40 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (34.3%), Code.exe (6.0%), msedge.exe (4.9%)
-2026-10-23 16:53:42 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 16:53:52 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 16:53:52 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 16:53:55 - INFO - RAM tras optimizacion: 51.7%
-2026-10-23 17:04:25 - INFO - Uso de RAM actual: 81.2%
-2026-10-23 17:05:10 - INFO - Uso de RAM actual: 80.0%
-2026-10-23 17:05:55 - INFO - Uso de RAM actual: 80.7%
-2026-10-23 17:06:40 - INFO - Uso de RAM actual: 82.2%
-2026-10-23 17:07:25 - INFO - Uso de RAM actual: 80.7%
-2026-10-23 17:08:10 - INFO - Uso de RAM actual: 83.4%
-2026-10-23 17:08:55 - INFO - Uso de RAM actual: 83.1%
-2026-10-23 17:09:40 - INFO - Uso de RAM actual: 83.2%
-2026-10-23 17:10:25 - INFO - Uso de RAM actual: 83.8%
-2026-10-23 17:11:10 - INFO - Uso de RAM actual: 82.9%
-2026-10-23 17:11:55 - INFO - Uso de RAM actual: 85.4%
-2026-10-23 17:12:40 - INFO - Uso de RAM actual: 86.4%
-2026-10-23 17:13:25 - INFO - Uso de RAM actual: 87.0%
-2026-10-23 17:14:10 - INFO - Uso de RAM actual: 86.5%
-2026-10-23 17:14:55 - INFO - Uso de RAM actual: 86.3%
-2026-10-23 17:15:40 - INFO - Uso de RAM actual: 87.2%
-2026-10-23 17:16:25 - INFO - Uso de RAM actual: 87.7%
-2026-10-23 17:17:10 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 17:17:55 - INFO - Uso de RAM actual: 88.8%
-2026-10-23 17:18:40 - INFO - Uso de RAM actual: 89.6%
-2026-10-23 17:19:25 - INFO - Uso de RAM actual: 89.3%
-2026-10-23 17:20:10 - INFO - Uso de RAM actual: 87.4%
-2026-10-23 17:20:55 - INFO - Uso de RAM actual: 87.4%
-2026-10-23 17:21:40 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 17:22:25 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 17:23:10 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 17:23:55 - INFO - Uso de RAM actual: 87.6%
-2026-10-23 17:24:40 - INFO - Uso de RAM actual: 87.4%
-2026-10-23 17:25:25 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 17:26:10 - INFO - Uso de RAM actual: 89.0%
-2026-10-23 17:26:55 - INFO - Uso de RAM actual: 90.7%
-2026-10-23 17:26:55 - WARNING - RAM por encima del limite critico (90.7% >= 90%)
-2026-10-23 17:26:55 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (31.0%), Code.exe (6.9%), msedge.exe (5.6%)
-2026-10-23 17:26:57 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 17:27:06 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 17:27:09 - INFO - RAM tras optimizacion: 50.4%
-2026-10-23 17:36:09 - INFO - Uso de RAM actual: 86.3%
-2026-10-23 17:36:54 - INFO - Uso de RAM actual: 94.4%
-2026-10-23 17:36:54 - WARNING - RAM por encima del limite critico (94.4% >= 90%)
-2026-10-23 17:36:54 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (33.6%), msedge.exe (13.5%), Code.exe (5.9%)
-2026-10-23 17:36:56 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 17:37:06 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 17:37:06 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 17:37:09 - INFO - RAM tras optimizacion: 52.0%
-2026-10-23 17:40:09 - INFO - Uso de RAM actual: 81.6%
-2026-10-23 17:40:54 - INFO - Uso de RAM actual: 82.5%
-2026-10-23 17:41:39 - INFO - Uso de RAM actual: 85.6%
-2026-10-23 17:42:24 - INFO - Uso de RAM actual: 83.7%
-2026-10-23 17:43:09 - INFO - Uso de RAM actual: 84.8%
-2026-10-23 17:43:54 - INFO - Uso de RAM actual: 84.2%
-2026-10-23 17:44:39 - INFO - Uso de RAM actual: 87.2%
-2026-10-23 17:45:24 - INFO - Uso de RAM actual: 87.0%
-2026-10-23 17:46:09 - INFO - Uso de RAM actual: 88.2%
-2026-10-23 17:46:54 - INFO - Uso de RAM actual: 88.2%
-2026-10-23 17:47:39 - INFO - Uso de RAM actual: 88.1%
-2026-10-23 17:48:24 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-23 17:48:24 - INFO - Uso de RAM actual: 95.2%
-2026-10-23 17:48:24 - WARNING - RAM por encima del limite critico (95.2% >= 90%)
-2026-10-23 17:48:24 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (24.0%), msedge.exe (21.4%), Code.exe (6.2%)
-2026-10-23 17:48:26 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 17:48:34 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 17:48:37 - INFO - RAM tras optimizacion: 43.0%
-2026-10-23 17:50:07 - INFO - Uso de RAM actual: 83.2%
-2026-10-23 17:50:52 - INFO - Uso de RAM actual: 85.6%
-2026-10-23 17:51:37 - INFO - Uso de RAM actual: 86.7%
-2026-10-23 17:52:22 - INFO - Uso de RAM actual: 88.8%
-2026-10-23 17:53:07 - INFO - Uso de RAM actual: 83.8%
-2026-10-23 17:53:52 - INFO - Uso de RAM actual: 84.2%
-2026-10-23 17:54:37 - INFO - Uso de RAM actual: 86.9%
-2026-10-23 17:55:22 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 17:56:07 - INFO - Uso de RAM actual: 89.1%
-2026-10-23 17:56:52 - INFO - Uso de RAM actual: 89.3%
-2026-10-23 17:57:37 - INFO - Uso de RAM actual: 89.6%
-2026-10-23 17:58:22 - INFO - Uso de RAM actual: 90.2%
-2026-10-23 17:58:22 - WARNING - RAM por encima del limite critico (90.2% >= 90%)
-2026-10-23 17:58:22 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.5%), msedge.exe (12.2%), Code.exe (5.8%)
-2026-10-23 17:58:23 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 17:58:32 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 17:58:35 - INFO - RAM tras optimizacion: 34.0%
-2026-10-23 18:00:50 - INFO - Uso de RAM actual: 80.1%
-2026-10-23 18:01:35 - INFO - Uso de RAM actual: 85.1%
-2026-10-23 18:02:20 - INFO - Uso de RAM actual: 89.1%
-2026-10-23 18:03:05 - INFO - Uso de RAM actual: 89.1%
-2026-10-23 18:03:50 - INFO - Uso de RAM actual: 89.7%
-2026-10-23 18:04:35 - INFO - Uso de RAM actual: 90.3%
-2026-10-23 18:04:35 - WARNING - RAM por encima del limite critico (90.3% >= 90%)
-2026-10-23 18:04:35 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.9%), msedge.exe (8.9%), Code.exe (6.2%)
-2026-10-23 18:04:37 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:04:45 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:04:48 - INFO - RAM tras optimizacion: 57.5%
-2026-10-23 18:06:18 - INFO - Uso de RAM actual: 81.6%
-2026-10-23 18:07:03 - INFO - Uso de RAM actual: 85.8%
-2026-10-23 18:07:48 - INFO - Uso de RAM actual: 86.2%
-2026-10-23 18:08:33 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 18:09:18 - INFO - Uso de RAM actual: 92.3%
-2026-10-23 18:09:18 - WARNING - RAM por encima del limite critico (92.3% >= 90%)
-2026-10-23 18:09:18 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (30.3%), msedge.exe (7.0%), Code.exe (6.7%)
-2026-10-23 18:09:20 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:09:27 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:09:30 - INFO - RAM tras optimizacion: 52.8%
-2026-10-23 18:11:45 - INFO - Uso de RAM actual: 82.1%
-2026-10-23 18:12:30 - INFO - Uso de RAM actual: 84.3%
-2026-10-23 18:13:15 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 18:14:00 - INFO - Uso de RAM actual: 88.1%
-2026-10-23 18:14:45 - INFO - Uso de RAM actual: 90.9%
-2026-10-23 18:14:45 - WARNING - RAM por encima del limite critico (90.9% >= 90%)
-2026-10-23 18:14:45 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (30.7%), msedge.exe (8.2%), Code.exe (5.8%)
-2026-10-23 18:14:47 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:14:57 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 18:14:57 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 18:15:00 - INFO - RAM tras optimizacion: 53.6%
-2026-10-23 18:17:15 - INFO - Uso de RAM actual: 80.0%
-2026-10-23 18:18:00 - INFO - Uso de RAM actual: 80.0%
-2026-10-23 18:18:45 - INFO - Uso de RAM actual: 83.6%
-2026-10-23 18:19:30 - INFO - Uso de RAM actual: 83.9%
-2026-10-23 18:20:15 - INFO - Uso de RAM actual: 89.5%
-2026-10-23 18:21:00 - INFO - Uso de RAM actual: 90.3%
-2026-10-23 18:21:00 - WARNING - RAM por encima del limite critico (90.3% >= 90%)
-2026-10-23 18:21:00 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.6%), msedge.exe (8.2%), Code.exe (7.3%)
-2026-10-23 18:21:03 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:21:12 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:21:15 - INFO - RAM tras optimizacion: 60.2%
-2026-10-23 18:22:45 - INFO - Uso de RAM actual: 87.2%
-2026-10-23 18:23:30 - INFO - Uso de RAM actual: 85.4%
-2026-10-23 18:24:15 - INFO - Uso de RAM actual: 86.5%
-2026-10-23 18:25:00 - INFO - Uso de RAM actual: 86.7%
-2026-10-23 18:25:45 - INFO - Uso de RAM actual: 87.6%
-2026-10-23 18:26:30 - INFO - Uso de RAM actual: 88.7%
-2026-10-23 18:27:15 - INFO - Uso de RAM actual: 90.0%
-2026-10-23 18:27:15 - WARNING - RAM por encima del limite critico (90.0% >= 90%)
-2026-10-23 18:27:15 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.8%), msedge.exe (9.4%), Code.exe (6.6%)
-2026-10-23 18:27:16 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:27:26 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 18:27:26 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 18:27:29 - INFO - RAM tras optimizacion: 53.7%
-2026-10-23 18:34:59 - INFO - Uso de RAM actual: 80.9%
-2026-10-23 18:35:44 - INFO - Uso de RAM actual: 91.8%
-2026-10-23 18:35:44 - WARNING - RAM por encima del limite critico (91.8% >= 90%)
-2026-10-23 18:35:44 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.8%), msedge.exe (8.6%), Code.exe (6.5%)
-2026-10-23 18:35:45 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:35:52 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:35:55 - INFO - RAM tras optimizacion: 42.2%
-2026-10-23 18:39:40 - INFO - Uso de RAM actual: 82.3%
-2026-10-23 18:40:25 - INFO - Uso de RAM actual: 82.5%
-2026-10-23 18:41:10 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 18:41:55 - INFO - Uso de RAM actual: 87.8%
-2026-10-23 18:42:40 - INFO - Uso de RAM actual: 88.2%
-2026-10-23 18:43:25 - INFO - Uso de RAM actual: 87.8%
-2026-10-23 18:44:10 - INFO - Uso de RAM actual: 88.6%
-2026-10-23 18:44:55 - INFO - Uso de RAM actual: 89.5%
-2026-10-23 18:45:40 - INFO - Uso de RAM actual: 89.5%
-2026-10-23 18:46:25 - INFO - Uso de RAM actual: 90.0%
-2026-10-23 18:46:25 - WARNING - RAM por encima del limite critico (90.0% >= 90%)
-2026-10-23 18:46:25 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.5%), msedge.exe (9.2%), Code.exe (5.8%)
-2026-10-23 18:46:27 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:46:37 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 18:46:37 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 18:46:40 - INFO - RAM tras optimizacion: 59.3%
-2026-10-23 18:55:40 - INFO - Uso de RAM actual: 81.5%
-2026-10-23 18:56:25 - INFO - Uso de RAM actual: 89.2%
-2026-10-23 18:57:10 - INFO - Uso de RAM actual: 91.1%
-2026-10-23 18:57:10 - WARNING - RAM por encima del limite critico (91.1% >= 90%)
-2026-10-23 18:57:10 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.2%), msedge.exe (14.5%), Code.exe (6.2%)
-2026-10-23 18:57:13 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:57:22 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 18:57:25 - INFO - RAM tras optimizacion: 60.9%
-2026-10-23 19:00:25 - INFO - Uso de RAM actual: 87.7%
-2026-10-23 19:01:10 - INFO - Uso de RAM actual: 87.5%
-2026-10-23 19:01:55 - INFO - Uso de RAM actual: 88.9%
-2026-10-23 19:02:40 - INFO - Uso de RAM actual: 92.6%
-2026-10-23 19:02:40 - WARNING - RAM por encima del limite critico (92.6% >= 90%)
-2026-10-23 19:02:40 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (29.2%), msedge.exe (13.3%), Code.exe (6.2%)
-2026-10-23 19:02:41 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:02:46 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:02:49 - INFO - RAM tras optimizacion: 36.8%
-2026-10-23 19:04:19 - INFO - Uso de RAM actual: 81.3%
-2026-10-23 19:05:04 - INFO - Uso de RAM actual: 84.8%
-2026-10-23 19:05:49 - INFO - Uso de RAM actual: 86.3%
-2026-10-23 19:06:34 - INFO - Uso de RAM actual: 88.2%
-2026-10-23 19:07:19 - INFO - Uso de RAM actual: 89.2%
-2026-10-23 19:08:04 - INFO - Uso de RAM actual: 92.8%
-2026-10-23 19:08:04 - WARNING - RAM por encima del limite critico (92.8% >= 90%)
-2026-10-23 19:08:04 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.4%), msedge.exe (9.6%), Code.exe (7.8%)
-2026-10-23 19:08:06 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:08:16 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 19:08:16 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 19:08:19 - INFO - RAM tras optimizacion: 59.8%
-2026-10-23 19:11:19 - INFO - Uso de RAM actual: 81.3%
-2026-10-23 19:12:04 - INFO - Uso de RAM actual: 83.3%
-2026-10-23 19:12:49 - INFO - Uso de RAM actual: 86.6%
-2026-10-23 19:13:34 - INFO - Uso de RAM actual: 82.0%
-2026-10-23 19:14:19 - INFO - Uso de RAM actual: 84.6%
-2026-10-23 19:15:04 - INFO - Uso de RAM actual: 81.4%
-2026-10-23 19:15:49 - INFO - Uso de RAM actual: 93.4%
-2026-10-23 19:15:49 - WARNING - RAM por encima del limite critico (93.4% >= 90%)
-2026-10-23 19:15:49 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (23.6%), msedge.exe (10.8%), Code.exe (7.9%)
-2026-10-23 19:15:51 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:16:01 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 19:16:01 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 19:16:04 - INFO - RAM tras optimizacion: 46.9%
-2026-10-23 19:25:49 - INFO - Uso de RAM actual: 82.3%
-2026-10-23 19:26:34 - INFO - Uso de RAM actual: 89.6%
-2026-10-23 19:27:19 - INFO - Uso de RAM actual: 91.6%
-2026-10-23 19:27:19 - WARNING - RAM por encima del limite critico (91.6% >= 90%)
-2026-10-23 19:27:19 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.1%), msedge.exe (8.7%), Code.exe (6.7%)
-2026-10-23 19:27:20 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:27:30 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 19:27:30 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 19:27:33 - INFO - RAM tras optimizacion: 58.6%
-2026-10-23 19:30:33 - INFO - Uso de RAM actual: 80.1%
-2026-10-23 19:31:18 - INFO - Uso de RAM actual: 80.5%
-2026-10-23 19:32:03 - INFO - Uso de RAM actual: 80.2%
-2026-10-23 19:32:48 - INFO - Uso de RAM actual: 80.4%
-2026-10-23 19:33:33 - INFO - Uso de RAM actual: 82.4%
-2026-10-23 19:34:18 - INFO - Uso de RAM actual: 82.2%
-2026-10-23 19:35:03 - INFO - Uso de RAM actual: 82.2%
-2026-10-23 19:35:48 - INFO - Uso de RAM actual: 87.0%
-2026-10-23 19:36:33 - INFO - Uso de RAM actual: 87.9%
-2026-10-23 19:37:18 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 19:38:03 - INFO - Uso de RAM actual: 87.1%
-2026-10-23 19:38:48 - INFO - Uso de RAM actual: 87.4%
-2026-10-23 19:39:33 - INFO - Uso de RAM actual: 87.1%
-2026-10-23 19:40:18 - INFO - Uso de RAM actual: 87.3%
-2026-10-23 19:41:03 - INFO - Uso de RAM actual: 87.8%
-2026-10-23 19:41:48 - INFO - Uso de RAM actual: 88.2%
-2026-10-23 19:42:33 - INFO - Uso de RAM actual: 88.3%
-2026-10-23 19:43:18 - INFO - Uso de RAM actual: 87.9%
-2026-10-23 19:44:03 - INFO - Uso de RAM actual: 92.1%
-2026-10-23 19:44:03 - WARNING - RAM por encima del limite critico (92.1% >= 90%)
-2026-10-23 19:44:03 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.5%), msedge.exe (9.9%), Code.exe (6.2%)
-2026-10-23 19:44:05 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:44:15 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 19:44:15 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 19:44:18 - INFO - RAM tras optimizacion: 38.0%
-2026-10-23 19:48:48 - INFO - Uso de RAM actual: 86.0%
-2026-10-23 19:49:33 - INFO - Uso de RAM actual: 92.5%
-2026-10-23 19:49:33 - WARNING - RAM por encima del limite critico (92.5% >= 90%)
-2026-10-23 19:49:33 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.4%), Code.exe (5.7%), msedge.exe (3.5%)
-2026-10-23 19:49:35 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:49:42 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:49:45 - INFO - RAM tras optimizacion: 59.4%
-2026-10-23 19:55:45 - INFO - Uso de RAM actual: 86.5%
-2026-10-23 19:56:30 - INFO - Uso de RAM actual: 90.9%
-2026-10-23 19:56:30 - WARNING - RAM por encima del limite critico (90.9% >= 90%)
-2026-10-23 19:56:31 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.7%), msedge.exe (8.0%), Code.exe (6.1%)
-2026-10-23 19:56:32 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:56:41 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:56:44 - INFO - RAM tras optimizacion: 44.5%
-2026-10-23 19:58:59 - INFO - Uso de RAM actual: 87.2%
-2026-10-23 19:59:44 - INFO - Uso de RAM actual: 91.7%
-2026-10-23 19:59:44 - WARNING - RAM por encima del limite critico (91.7% >= 90%)
-2026-10-23 19:59:44 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.5%), msedge.exe (8.9%), Code.exe (8.4%)
-2026-10-23 19:59:46 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 19:59:56 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 19:59:56 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 19:59:59 - INFO - RAM tras optimizacion: 32.3%
-2026-10-23 20:06:44 - INFO - Uso de RAM actual: 90.1%
-2026-10-23 20:06:44 - WARNING - RAM por encima del limite critico (90.1% >= 90%)
-2026-10-23 20:06:44 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (22.5%), msedge.exe (9.5%), Code.exe (7.5%)
-2026-10-23 20:06:46 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 20:06:53 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 20:06:56 - INFO - RAM tras optimizacion: 71.3%
-2026-10-23 20:09:11 - INFO - Uso de RAM actual: 82.4%
-2026-10-23 20:09:56 - INFO - Uso de RAM actual: 92.9%
-2026-10-23 20:09:56 - WARNING - RAM por encima del limite critico (92.9% >= 90%)
-2026-10-23 20:09:56 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (24.0%), msedge.exe (10.2%), Code.exe (5.7%)
-2026-10-23 20:09:58 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-23 20:10:08 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-23 20:10:08 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-23 20:10:11 - INFO - RAM tras optimizacion: 36.8%
-2026-10-24 15:01:42 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-24 15:02:27 - INFO - Uso de RAM actual: 83.7%
-2026-10-24 15:04:42 - INFO - Uso de RAM actual: 80.3%
-2026-10-24 16:51:21 - INFO - Uso de RAM actual: 82.9%
-2026-10-24 16:52:06 - INFO - Uso de RAM actual: 81.8%
-2026-10-24 16:52:51 - INFO - Uso de RAM actual: 81.5%
-2026-10-24 16:55:06 - INFO - Uso de RAM actual: 94.5%
-2026-10-24 16:55:06 - WARNING - RAM por encima del limite critico (94.5% >= 90%)
-2026-10-24 16:55:06 - WARNING - Top 3 procesos consumiendo RAM: Code.exe (8.1%), msedge.exe (6.5%), Code.exe (4.6%)
-2026-10-24 16:55:09 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-24 16:55:18 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-24 16:55:21 - INFO - RAM tras optimizacion: 59.3%
-2026-10-24 19:22:53 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
-2026-10-24 19:24:23 - INFO - Uso de RAM actual: 91.8%
-2026-10-24 19:24:23 - WARNING - RAM por encima del limite critico (91.8% >= 90%)
-2026-10-24 19:24:23 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.8%), Code.exe (6.8%), Code.exe (5.7%)
-2026-10-24 19:24:24 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-24 19:24:30 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-24 19:24:33 - INFO - RAM tras optimizacion: 45.1%
-2026-10-24 19:31:18 - INFO - Uso de RAM actual: 80.0%
-2026-10-24 19:33:33 - INFO - Uso de RAM actual: 85.0%
-2026-10-24 19:34:16 - INFO - Uso de RAM actual: 85.5%
-2026-10-24 19:35:01 - INFO - Uso de RAM actual: 88.4%
-2026-10-24 19:35:46 - INFO - Uso de RAM actual: 87.6%
-2026-10-24 19:36:31 - INFO - Uso de RAM actual: 88.5%
-2026-10-24 19:37:16 - INFO - Uso de RAM actual: 89.5%
-2026-10-24 19:38:01 - INFO - Uso de RAM actual: 88.2%
-2026-10-24 19:38:46 - INFO - Uso de RAM actual: 88.3%
-2026-10-24 19:39:31 - INFO - Uso de RAM actual: 86.7%
-2026-10-24 19:40:16 - INFO - Uso de RAM actual: 87.5%
-2026-10-24 19:41:01 - INFO - Uso de RAM actual: 87.1%
-2026-10-24 19:41:46 - INFO - Uso de RAM actual: 90.7%
-2026-10-24 19:41:46 - WARNING - RAM por encima del limite critico (90.7% >= 90%)
-2026-10-24 19:41:46 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (30.0%), msedge.exe (8.8%), Code.exe (5.5%)
-2026-10-24 19:41:47 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-24 19:41:57 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-24 19:41:57 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-24 19:42:00 - INFO - RAM tras optimizacion: 34.2%
-2026-10-24 20:57:14 - INFO - Uso de RAM actual: 91.8%
-2026-10-24 20:57:14 - WARNING - RAM por encima del limite critico (91.8% >= 90%)
-2026-10-24 20:57:14 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.8%), Code.exe (7.0%), msedge.exe (4.8%)
-2026-10-24 20:57:16 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-24 20:57:23 - INFO - MemReduct ejecutado desde: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-24 20:57:26 - INFO - RAM tras optimizacion: 28.7%
-2026-10-24 21:21:26 - INFO - Uso de RAM actual: 80.4%
-2026-10-24 21:22:56 - INFO - Uso de RAM actual: 80.1%
-2026-10-24 21:24:26 - INFO - Uso de RAM actual: 84.1%
-2026-10-24 21:25:11 - INFO - Uso de RAM actual: 85.7%
-2026-10-24 21:25:56 - INFO - Uso de RAM actual: 86.5%
-2026-10-24 21:55:07 - INFO - Uso de RAM actual: 92.3%
-2026-10-24 21:55:07 - WARNING - RAM por encima del limite critico (92.3% >= 90%)
-2026-10-24 21:55:07 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (22.7%), Code.exe (9.1%), msedge.exe (5.0%)
-2026-10-24 21:55:08 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
-2026-10-24 21:55:18 - WARNING - Fallo al ejecutar MemReduct: Command '['C:\\Program Files\\Mem Reduct\\MemReduct.exe', '/clean']' timed out after 10.0 seconds
-2026-10-24 21:55:18 - INFO - Ejecutando rutina nativa de limpieza...
-2026-10-24 21:55:21 - INFO - RAM tras optimizacion: 49.5%
-2026-10-24 22:03:36 - INFO - Uso de RAM actual: 80.7%
-2026-10-24 22:04:21 - INFO - Uso de RAM actual: 82.6%
-2026-10-24 22:05:06 - INFO - Uso de RAM actual: 86.1%
-2026-10-24 22:05:51 - INFO - Uso de RAM actual: 85.3%
-2026-10-24 22:06:36 - INFO - Uso de RAM actual: 85.3%
-2026-10-24 22:07:21 - INFO - Uso de RAM actual: 85.4%
-2026-10-24 22:08:06 - INFO - Uso de RAM actual: 86.5%
-2026-10-24 22:08:51 - INFO - Uso de RAM actual: 86.7%
-2026-10-24 22:09:36 - INFO - Uso de RAM actual: 86.9%
-2026-10-24 22:10:21 - INFO - Uso de RAM actual: 86.8%
-2026-10-24 22:11:06 - INFO - Uso de RAM actual: 86.5%
-2026-10-24 22:11:51 - INFO - Uso de RAM actual: 88.4%
-2026-10-24 22:12:36 - INFO - Uso de RAM actual: 87.6%
-2026-10-24 22:13:21 - INFO - Uso de RAM actual: 87.6%
-2026-10-24 22:14:06 - INFO - Uso de RAM actual: 88.7%
-2026-10-24 22:14:51 - INFO - Uso de RAM actual: 87.0%
-2026-10-24 22:15:36 - INFO - Uso de RAM actual: 88.5%
-2026-10-24 22:16:21 - INFO - Uso de RAM actual: 88.8%
-2026-10-24 22:17:06 - INFO - Uso de RAM actual: 88.6%
-2026-10-24 22:17:51 - INFO - Uso de RAM actual: 89.2%
-2026-10-24 22:18:36 - INFO - Uso de RAM actual: 89.9%
-2026-10-24 22:19:21 - INFO - Uso de RAM actual: 90.7%
-2026-10-24 22:19:21 - WARNING - RAM por encima del limite critico (90.7% >= 90%)
-2026-10-24 22:19:21 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (30.5%), msedge.exe (5.9%), Code.exe (4.6%)
-2026-10-24 22:19:23 - INFO - Exclusión agregada en Windows Defender para: C:\Program Files\Mem Reduct\MemReduct.exe
+2026-10-25 18:23:37,554 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-25 18:23:37,555 - INFO - Uso de RAM actual: 87.7%
+2026-10-25 18:32:24,689 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-25 18:32:24,690 - INFO - Uso de RAM actual: 85.5%
+2026-10-25 18:33:09,686 - INFO - Uso de RAM actual: 88.4%
+2026-10-25 18:33:54,681 - INFO - Uso de RAM actual: 85.0%
+2026-10-25 18:34:39,677 - INFO - Uso de RAM actual: 96.2%
+2026-10-25 18:34:39,677 - WARNING - RAM por encima del limite critico! (96.2% >= 90.0%)
+2026-10-25 18:34:40,757 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (11.4%), msedge.exe (7.2%), msedge.exe (6.6%)
+2026-10-25 18:34:40,758 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:34:40,769 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:34:43,770 - INFO - RAM tras optimizacion: 95.6%
+2026-10-25 18:35:28,766 - INFO - Uso de RAM actual: 94.9%
+2026-10-25 18:35:28,766 - WARNING - RAM por encima del limite critico! (94.9% >= 90.0%)
+2026-10-25 18:35:29,553 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (7.3%), msedge.exe (6.0%)
+2026-10-25 18:35:29,553 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:35:29,560 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:35:32,561 - INFO - RAM tras optimizacion: 97.3%
+2026-10-25 18:36:17,556 - INFO - Uso de RAM actual: 95.9%
+2026-10-25 18:36:17,556 - WARNING - RAM por encima del limite critico! (95.9% >= 90.0%)
+2026-10-25 18:36:18,359 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (7.4%), msedge.exe (6.0%)
+2026-10-25 18:36:18,359 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:36:18,366 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:36:21,367 - INFO - RAM tras optimizacion: 95.6%
+2026-10-25 18:37:06,362 - INFO - Uso de RAM actual: 89.4%
+2026-10-25 18:37:51,358 - INFO - Uso de RAM actual: 88.2%
+2026-10-25 18:38:36,353 - INFO - Uso de RAM actual: 93.9%
+2026-10-25 18:38:36,353 - WARNING - RAM por encima del limite critico! (93.9% >= 90.0%)
+2026-10-25 18:38:37,128 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (7.5%), msedge.exe (6.8%)
+2026-10-25 18:38:37,128 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:38:37,135 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:38:40,135 - INFO - RAM tras optimizacion: 94.1%
+2026-10-25 18:39:25,130 - INFO - Uso de RAM actual: 92.6%
+2026-10-25 18:39:25,131 - WARNING - RAM por encima del limite critico! (92.6% >= 90.0%)
+2026-10-25 18:39:25,934 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (6.1%), msedge.exe (5.8%)
+2026-10-25 18:39:25,934 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:39:25,941 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:39:28,941 - INFO - RAM tras optimizacion: 88.5%
+2026-10-25 18:40:13,937 - INFO - Uso de RAM actual: 92.0%
+2026-10-25 18:40:13,937 - WARNING - RAM por encima del limite critico! (92.0% >= 90.0%)
+2026-10-25 18:40:14,797 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (6.7%), msedge.exe (6.1%)
+2026-10-25 18:40:14,797 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:40:14,803 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:40:17,804 - INFO - RAM tras optimizacion: 92.5%
+2026-10-25 18:41:02,799 - INFO - Uso de RAM actual: 96.0%
+2026-10-25 18:41:02,799 - WARNING - RAM por encima del limite critico! (96.0% >= 90.0%)
+2026-10-25 18:41:03,678 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (7.2%), msedge.exe (6.1%)
+2026-10-25 18:41:03,679 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:41:03,686 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:41:06,686 - INFO - RAM tras optimizacion: 94.5%
+2026-10-25 18:41:51,683 - INFO - Uso de RAM actual: 91.2%
+2026-10-25 18:41:51,683 - WARNING - RAM por encima del limite critico! (91.2% >= 90.0%)
+2026-10-25 18:41:52,623 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (7.7%), msedge.exe (6.1%)
+2026-10-25 18:41:52,623 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:41:52,630 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:41:55,631 - INFO - RAM tras optimizacion: 92.6%
+2026-10-25 18:42:40,628 - INFO - Uso de RAM actual: 93.3%
+2026-10-25 18:42:40,628 - WARNING - RAM por encima del limite critico! (93.3% >= 90.0%)
+2026-10-25 18:42:41,469 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (8.8%), msedge.exe (6.1%)
+2026-10-25 18:42:41,469 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:42:41,476 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:42:44,476 - INFO - RAM tras optimizacion: 91.2%
+2026-10-25 18:43:29,473 - INFO - Uso de RAM actual: 94.3%
+2026-10-25 18:43:29,474 - WARNING - RAM por encima del limite critico! (94.3% >= 90.0%)
+2026-10-25 18:43:30,280 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (7.7%), msedge.exe (6.1%)
+2026-10-25 18:43:30,280 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:43:30,287 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:43:33,287 - INFO - RAM tras optimizacion: 88.8%
+2026-10-25 18:44:18,284 - INFO - Uso de RAM actual: 92.2%
+2026-10-25 18:44:18,284 - WARNING - RAM por encima del limite critico! (92.2% >= 90.0%)
+2026-10-25 18:44:19,096 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.7%), msedge.exe (7.5%), msedge.exe (6.1%)
+2026-10-25 18:44:19,097 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:44:19,103 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:44:22,104 - INFO - RAM tras optimizacion: 94.6%
+2026-10-25 18:45:07,101 - INFO - Uso de RAM actual: 88.4%
+2026-10-25 18:45:52,098 - INFO - Uso de RAM actual: 88.2%
+2026-10-25 18:46:37,095 - INFO - Uso de RAM actual: 88.0%
+2026-10-25 18:47:22,092 - INFO - Uso de RAM actual: 89.0%
+2026-10-25 18:48:07,089 - INFO - Uso de RAM actual: 93.3%
+2026-10-25 18:48:07,090 - WARNING - RAM por encima del limite critico! (93.3% >= 90.0%)
+2026-10-25 18:48:08,831 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (16.5%), msedge.exe (7.4%), msedge.exe (7.1%)
+2026-10-25 18:48:08,831 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:48:08,847 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:48:11,847 - INFO - RAM tras optimizacion: 96.0%
+2026-10-25 18:48:56,844 - INFO - Uso de RAM actual: 92.4%
+2026-10-25 18:48:56,845 - WARNING - RAM por encima del limite critico! (92.4% >= 90.0%)
+2026-10-25 18:48:57,614 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (15.2%), msedge.exe (6.9%), msedge.exe (6.3%)
+2026-10-25 18:48:57,614 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:48:57,620 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:49:00,620 - INFO - RAM tras optimizacion: 93.9%
+2026-10-25 18:49:45,618 - INFO - Uso de RAM actual: 93.5%
+2026-10-25 18:49:45,618 - WARNING - RAM por encima del limite critico! (93.5% >= 90.0%)
+2026-10-25 18:49:46,347 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (14.9%), msedge.exe (7.6%), msedge.exe (6.3%)
+2026-10-25 18:49:46,347 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:49:46,354 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:49:49,354 - INFO - RAM tras optimizacion: 93.5%
+2026-10-25 18:50:34,351 - INFO - Uso de RAM actual: 92.9%
+2026-10-25 18:50:34,352 - WARNING - RAM por encima del limite critico! (92.9% >= 90.0%)
+2026-10-25 18:50:35,067 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (14.9%), msedge.exe (6.8%), msedge.exe (6.3%)
+2026-10-25 18:50:35,067 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:50:35,074 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:50:38,074 - INFO - RAM tras optimizacion: 95.1%
+2026-10-25 18:51:23,071 - INFO - Uso de RAM actual: 95.5%
+2026-10-25 18:51:23,072 - WARNING - RAM por encima del limite critico! (95.5% >= 90.0%)
+2026-10-25 18:51:23,955 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (14.3%), msedge.exe (7.7%), msedge.exe (6.6%)
+2026-10-25 18:51:23,955 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:51:23,961 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:51:26,962 - INFO - RAM tras optimizacion: 93.8%
+2026-10-25 18:52:11,959 - INFO - Uso de RAM actual: 94.0%
+2026-10-25 18:52:11,959 - WARNING - RAM por encima del limite critico! (94.0% >= 90.0%)
+2026-10-25 18:52:13,102 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (13.3%), msedge.exe (8.1%), msedge.exe (8.0%)
+2026-10-25 18:52:13,102 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:52:13,113 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:52:16,113 - INFO - RAM tras optimizacion: 94.4%
+2026-10-25 18:53:01,110 - INFO - Uso de RAM actual: 92.0%
+2026-10-25 18:53:01,111 - WARNING - RAM por encima del limite critico! (92.0% >= 90.0%)
+2026-10-25 18:53:02,668 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (14.2%), msedge.exe (8.1%), msedge.exe (7.2%)
+2026-10-25 18:53:02,669 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:53:02,679 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:53:05,680 - INFO - RAM tras optimizacion: 93.3%
+2026-10-25 18:53:50,677 - INFO - Uso de RAM actual: 89.6%
+2026-10-25 18:54:35,675 - INFO - Uso de RAM actual: 89.1%
+2026-10-25 18:55:20,672 - INFO - Uso de RAM actual: 95.6%
+2026-10-25 18:55:20,672 - WARNING - RAM por encima del limite critico! (95.6% >= 90.0%)
+2026-10-25 18:55:21,696 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (14.2%), msedge.exe (7.6%), msedge.exe (7.3%)
+2026-10-25 18:55:21,696 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:55:21,703 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:55:24,704 - INFO - RAM tras optimizacion: 96.5%
+2026-10-25 18:56:09,700 - INFO - Uso de RAM actual: 92.4%
+2026-10-25 18:56:09,701 - WARNING - RAM por encima del limite critico! (92.4% >= 90.0%)
+2026-10-25 18:56:10,481 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (14.2%), msedge.exe (9.6%), msedge.exe (7.5%)
+2026-10-25 18:56:10,481 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:56:10,488 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:56:13,489 - INFO - RAM tras optimizacion: 92.0%
+2026-10-25 18:56:58,486 - INFO - Uso de RAM actual: 91.9%
+2026-10-25 18:56:58,486 - WARNING - RAM por encima del limite critico! (91.9% >= 90.0%)
+2026-10-25 18:56:59,709 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (14.2%), msedge.exe (8.4%), msedge.exe (7.8%)
+2026-10-25 18:56:59,709 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:56:59,728 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:57:02,729 - INFO - RAM tras optimizacion: 92.5%
+2026-10-25 18:57:47,726 - INFO - Uso de RAM actual: 96.5%
+2026-10-25 18:57:47,727 - WARNING - RAM por encima del limite critico! (96.5% >= 90.0%)
+2026-10-25 18:57:49,241 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (12.4%), msedge.exe (9.0%), msedge.exe (7.5%)
+2026-10-25 18:57:49,241 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:57:49,251 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:57:52,252 - INFO - RAM tras optimizacion: 94.7%
+2026-10-25 18:58:37,250 - INFO - Uso de RAM actual: 88.9%
+2026-10-25 18:59:22,248 - INFO - Uso de RAM actual: 90.8%
+2026-10-25 18:59:22,248 - WARNING - RAM por encima del limite critico! (90.8% >= 90.0%)
+2026-10-25 18:59:23,121 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (10.2%), msedge.exe (9.2%), msedge.exe (7.5%)
+2026-10-25 18:59:23,121 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 18:59:23,129 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 18:59:26,130 - INFO - RAM tras optimizacion: 93.4%
+2026-10-25 19:00:11,128 - INFO - Uso de RAM actual: 92.2%
+2026-10-25 19:00:11,128 - WARNING - RAM por encima del limite critico! (92.2% >= 90.0%)
+2026-10-25 19:00:11,929 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (11.1%), llama-server.exe (10.2%), msedge.exe (7.6%)
+2026-10-25 19:00:11,930 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:00:11,937 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:00:14,938 - INFO - RAM tras optimizacion: 91.4%
+2026-10-25 19:00:59,936 - INFO - Uso de RAM actual: 93.6%
+2026-10-25 19:00:59,936 - WARNING - RAM por encima del limite critico! (93.6% >= 90.0%)
+2026-10-25 19:01:00,984 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (10.2%), msedge.exe (9.7%), msedge.exe (7.5%)
+2026-10-25 19:01:00,985 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:01:00,992 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:01:03,992 - INFO - RAM tras optimizacion: 92.5%
+2026-10-25 19:01:48,990 - INFO - Uso de RAM actual: 92.4%
+2026-10-25 19:01:48,991 - WARNING - RAM por encima del limite critico! (92.4% >= 90.0%)
+2026-10-25 19:01:49,778 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (10.2%), msedge.exe (8.7%), msedge.exe (7.5%)
+2026-10-25 19:01:49,779 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:01:49,786 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:01:52,787 - INFO - RAM tras optimizacion: 90.0%
+2026-10-25 19:02:37,785 - INFO - Uso de RAM actual: 95.2%
+2026-10-25 19:02:37,786 - WARNING - RAM por encima del limite critico! (95.2% >= 90.0%)
+2026-10-25 19:02:38,674 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (12.8%), msedge.exe (8.3%), llama-server.exe (8.1%)
+2026-10-25 19:02:38,674 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:02:38,683 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:02:41,684 - INFO - RAM tras optimizacion: 95.6%
+2026-10-25 19:03:26,683 - INFO - Uso de RAM actual: 94.4%
+2026-10-25 19:03:26,683 - WARNING - RAM por encima del limite critico! (94.4% >= 90.0%)
+2026-10-25 19:03:27,471 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (13.0%), msedge.exe (9.6%), Code.exe (4.8%)
+2026-10-25 19:03:27,471 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:03:27,478 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:03:30,478 - INFO - RAM tras optimizacion: 95.6%
+2026-10-25 19:04:15,477 - INFO - Uso de RAM actual: 88.7%
+2026-10-25 19:05:00,475 - INFO - Uso de RAM actual: 92.1%
+2026-10-25 19:05:00,475 - WARNING - RAM por encima del limite critico! (92.1% >= 90.0%)
+2026-10-25 19:05:01,314 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (10.1%), msedge.exe (8.3%), Code.exe (6.7%)
+2026-10-25 19:05:01,314 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:05:01,322 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:05:04,322 - INFO - RAM tras optimizacion: 91.1%
+2026-10-25 19:05:49,320 - INFO - Uso de RAM actual: 93.1%
+2026-10-25 19:05:49,321 - WARNING - RAM por encima del limite critico! (93.1% >= 90.0%)
+2026-10-25 19:05:50,185 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (9.0%), msedge.exe (8.3%), Code.exe (6.7%)
+2026-10-25 19:05:50,185 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:05:50,192 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:05:53,192 - INFO - RAM tras optimizacion: 95.6%
+2026-10-25 19:06:38,190 - INFO - Uso de RAM actual: 93.9%
+2026-10-25 19:06:38,190 - WARNING - RAM por encima del limite critico! (93.9% >= 90.0%)
+2026-10-25 19:06:39,020 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (10.5%), msedge.exe (8.3%), Code.exe (6.7%)
+2026-10-25 19:06:39,020 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:06:39,027 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:06:42,028 - INFO - RAM tras optimizacion: 96.1%
+2026-10-25 19:07:27,026 - INFO - Uso de RAM actual: 94.1%
+2026-10-25 19:07:27,026 - WARNING - RAM por encima del limite critico! (94.1% >= 90.0%)
+2026-10-25 19:07:27,799 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (14.1%), msedge.exe (8.3%), Code.exe (6.7%)
+2026-10-25 19:07:27,799 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:07:27,806 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:07:30,807 - INFO - RAM tras optimizacion: 91.8%
+2026-10-25 19:08:15,805 - INFO - Uso de RAM actual: 95.2%
+2026-10-25 19:08:15,805 - WARNING - RAM por encima del limite critico! (95.2% >= 90.0%)
+2026-10-25 19:08:16,809 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (10.5%), msedge.exe (8.3%), Code.exe (6.7%)
+2026-10-25 19:08:16,809 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:08:16,816 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:08:19,817 - INFO - RAM tras optimizacion: 92.4%
+2026-10-25 19:09:04,815 - INFO - Uso de RAM actual: 92.6%
+2026-10-25 19:09:04,815 - WARNING - RAM por encima del limite critico! (92.6% >= 90.0%)
+2026-10-25 19:09:05,548 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (11.5%), msedge.exe (8.4%), Code.exe (6.7%)
+2026-10-25 19:09:05,549 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:09:05,555 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:09:08,556 - INFO - RAM tras optimizacion: 95.4%
+2026-10-25 19:09:53,554 - INFO - Uso de RAM actual: 92.3%
+2026-10-25 19:09:53,554 - WARNING - RAM por encima del limite critico! (92.3% >= 90.0%)
+2026-10-25 19:09:54,312 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (11.1%), msedge.exe (8.3%), Code.exe (6.7%)
+2026-10-25 19:09:54,313 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:09:54,321 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:09:57,322 - INFO - RAM tras optimizacion: 94.1%
+2026-10-25 19:10:42,321 - INFO - Uso de RAM actual: 93.9%
+2026-10-25 19:10:42,321 - WARNING - RAM por encima del limite critico! (93.9% >= 90.0%)
+2026-10-25 19:10:43,076 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (13.9%), msedge.exe (8.3%), Code.exe (6.7%)
+2026-10-25 19:10:43,077 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:10:43,083 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:10:46,083 - INFO - RAM tras optimizacion: 87.9%
+2026-10-25 19:11:31,081 - INFO - Uso de RAM actual: 88.0%
+2026-10-25 19:12:16,080 - INFO - Uso de RAM actual: 89.6%
+2026-10-25 19:13:01,078 - INFO - Uso de RAM actual: 89.0%
+2026-10-25 19:13:46,076 - INFO - Uso de RAM actual: 92.0%
+2026-10-25 19:13:46,076 - WARNING - RAM por encima del limite critico! (92.0% >= 90.0%)
+2026-10-25 19:13:47,008 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (10.9%), msedge.exe (7.5%), Code.exe (6.7%)
+2026-10-25 19:13:47,008 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:13:47,015 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:13:50,017 - INFO - RAM tras optimizacion: 91.0%
+2026-10-25 19:14:35,015 - INFO - Uso de RAM actual: 93.9%
+2026-10-25 19:14:35,015 - WARNING - RAM por encima del limite critico! (93.9% >= 90.0%)
+2026-10-25 19:14:35,805 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (15.8%), msedge.exe (7.5%), Code.exe (6.7%)
+2026-10-25 19:14:35,805 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:14:35,812 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:14:38,812 - INFO - RAM tras optimizacion: 88.8%
+2026-10-25 19:15:23,810 - INFO - Uso de RAM actual: 91.5%
+2026-10-25 19:15:23,811 - WARNING - RAM por encima del limite critico! (91.5% >= 90.0%)
+2026-10-25 19:15:24,566 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (14.5%), msedge.exe (7.5%), Code.exe (6.1%)
+2026-10-25 19:15:24,566 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:15:24,573 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:15:27,574 - INFO - RAM tras optimizacion: 96.4%
+2026-10-25 19:16:12,573 - INFO - Uso de RAM actual: 88.4%
+2026-10-25 19:16:57,572 - INFO - Uso de RAM actual: 84.2%
+2026-10-25 19:17:42,571 - INFO - Uso de RAM actual: 84.1%
+2026-10-25 19:18:27,570 - INFO - Uso de RAM actual: 84.8%
+2026-10-25 19:19:12,569 - INFO - Uso de RAM actual: 84.9%
+2026-10-25 19:19:57,568 - INFO - Uso de RAM actual: 85.1%
+2026-10-25 19:20:42,566 - INFO - Uso de RAM actual: 85.2%
+2026-10-25 19:21:27,565 - INFO - Uso de RAM actual: 85.7%
+2026-10-25 19:22:12,564 - INFO - Uso de RAM actual: 86.8%
+2026-10-25 19:22:57,563 - INFO - Uso de RAM actual: 85.7%
+2026-10-25 19:23:42,562 - INFO - Uso de RAM actual: 86.0%
+2026-10-25 19:24:27,561 - INFO - Uso de RAM actual: 84.3%
+2026-10-25 19:25:12,560 - INFO - Uso de RAM actual: 84.2%
+2026-10-25 19:25:57,558 - INFO - Uso de RAM actual: 84.9%
+2026-10-25 19:26:42,557 - INFO - Uso de RAM actual: 84.2%
+2026-10-25 19:27:27,556 - INFO - Uso de RAM actual: 85.5%
+2026-10-25 19:28:12,555 - INFO - Uso de RAM actual: 84.5%
+2026-10-25 19:28:57,554 - INFO - Uso de RAM actual: 85.7%
+2026-10-25 19:29:42,553 - INFO - Uso de RAM actual: 84.9%
+2026-10-25 19:30:27,552 - INFO - Uso de RAM actual: 84.6%
+2026-10-25 19:31:12,551 - INFO - Uso de RAM actual: 85.9%
+2026-10-25 19:31:57,550 - INFO - Uso de RAM actual: 85.1%
+2026-10-25 19:32:42,549 - INFO - Uso de RAM actual: 85.5%
+2026-10-25 19:33:27,549 - INFO - Uso de RAM actual: 85.7%
+2026-10-25 19:34:12,548 - INFO - Uso de RAM actual: 87.1%
+2026-10-25 19:34:57,548 - INFO - Uso de RAM actual: 88.7%
+2026-10-25 19:35:42,547 - INFO - Uso de RAM actual: 90.6%
+2026-10-25 19:35:42,547 - WARNING - RAM por encima del limite critico! (90.6% >= 90.0%)
+2026-10-25 19:35:43,549 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.7%), msedge.exe (7.2%), Code.exe (6.3%)
+2026-10-25 19:35:43,549 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:35:43,557 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:35:46,560 - INFO - RAM tras optimizacion: 90.1%
+2026-10-25 19:36:31,560 - INFO - Uso de RAM actual: 93.2%
+2026-10-25 19:36:31,560 - WARNING - RAM por encima del limite critico! (93.2% >= 90.0%)
+2026-10-25 19:36:32,314 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (9.4%), msedge.exe (7.9%), Code.exe (6.8%)
+2026-10-25 19:36:32,314 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:36:32,321 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:36:35,322 - INFO - RAM tras optimizacion: 88.5%
+2026-10-25 19:37:20,322 - INFO - Uso de RAM actual: 88.8%
+2026-10-25 19:38:05,321 - INFO - Uso de RAM actual: 93.3%
+2026-10-25 19:38:05,322 - WARNING - RAM por encima del limite critico! (93.3% >= 90.0%)
+2026-10-25 19:38:06,179 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.5%), msedge.exe (7.9%), Code.exe (6.8%)
+2026-10-25 19:38:06,179 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:38:06,186 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:38:09,186 - INFO - RAM tras optimizacion: 92.6%
+2026-10-25 19:38:54,186 - INFO - Uso de RAM actual: 93.1%
+2026-10-25 19:38:54,186 - WARNING - RAM por encima del limite critico! (93.1% >= 90.0%)
+2026-10-25 19:38:55,080 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.4%), msedge.exe (7.8%), Code.exe (6.8%)
+2026-10-25 19:38:55,080 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:38:55,088 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:38:58,091 - INFO - RAM tras optimizacion: 90.2%
+2026-10-25 19:39:43,095 - INFO - Uso de RAM actual: 89.1%
+2026-10-25 19:40:28,094 - INFO - Uso de RAM actual: 88.2%
+2026-10-25 19:41:13,094 - INFO - Uso de RAM actual: 88.5%
+2026-10-25 19:41:58,093 - INFO - Uso de RAM actual: 87.9%
+2026-10-25 19:42:43,092 - INFO - Uso de RAM actual: 91.1%
+2026-10-25 19:42:43,093 - WARNING - RAM por encima del limite critico! (91.1% >= 90.0%)
+2026-10-25 19:42:43,915 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (9.9%), msedge.exe (8.8%), Code.exe (5.3%)
+2026-10-25 19:42:43,915 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:42:43,922 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:42:46,923 - INFO - RAM tras optimizacion: 90.0%
+2026-10-25 19:43:31,922 - INFO - Uso de RAM actual: 93.3%
+2026-10-25 19:43:31,923 - WARNING - RAM por encima del limite critico! (93.3% >= 90.0%)
+2026-10-25 19:43:32,699 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.8%), msedge.exe (8.7%), Code.exe (5.3%)
+2026-10-25 19:43:32,699 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:43:32,706 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:43:35,707 - INFO - RAM tras optimizacion: 94.8%
+2026-10-25 19:44:20,706 - INFO - Uso de RAM actual: 91.8%
+2026-10-25 19:44:20,707 - WARNING - RAM por encima del limite critico! (91.8% >= 90.0%)
+2026-10-25 19:44:21,641 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (9.0%), msedge.exe (8.8%), Code.exe (5.3%)
+2026-10-25 19:44:21,641 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:44:21,648 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:44:24,649 - INFO - RAM tras optimizacion: 91.5%
+2026-10-25 19:45:09,649 - INFO - Uso de RAM actual: 89.5%
+2026-10-25 19:45:54,648 - INFO - Uso de RAM actual: 90.7%
+2026-10-25 19:45:54,649 - WARNING - RAM por encima del limite critico! (90.7% >= 90.0%)
+2026-10-25 19:45:55,446 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (9.3%), msedge.exe (8.9%), Code.exe (5.3%)
+2026-10-25 19:45:55,447 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:45:55,454 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:45:58,454 - INFO - RAM tras optimizacion: 90.2%
+2026-10-25 19:46:43,491 - INFO - Uso de RAM actual: 92.4%
+2026-10-25 19:46:43,493 - WARNING - RAM por encima del limite critico! (92.4% >= 90.0%)
+2026-10-25 19:46:44,313 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (9.3%), msedge.exe (8.9%), Code.exe (5.3%)
+2026-10-25 19:46:44,313 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:46:44,320 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:46:47,320 - INFO - RAM tras optimizacion: 90.6%
+2026-10-25 19:47:32,320 - INFO - Uso de RAM actual: 90.5%
+2026-10-25 19:47:32,320 - WARNING - RAM por encima del limite critico! (90.5% >= 90.0%)
+2026-10-25 19:47:33,137 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.9%), msedge.exe (8.8%), Code.exe (5.3%)
+2026-10-25 19:47:33,137 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:47:33,144 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:47:36,145 - INFO - RAM tras optimizacion: 91.0%
+2026-10-25 19:48:21,153 - INFO - Uso de RAM actual: 92.9%
+2026-10-25 19:48:21,204 - WARNING - RAM por encima del limite critico! (92.9% >= 90.0%)
+2026-10-25 19:48:22,107 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (10.0%), msedge.exe (8.8%), Code.exe (5.3%)
+2026-10-25 19:48:22,107 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:48:22,114 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:48:25,115 - INFO - RAM tras optimizacion: 91.6%
+2026-10-25 19:49:10,114 - INFO - Uso de RAM actual: 91.1%
+2026-10-25 19:49:10,115 - WARNING - RAM por encima del limite critico! (91.1% >= 90.0%)
+2026-10-25 19:49:10,965 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (9.8%), msedge.exe (8.8%), Code.exe (5.3%)
+2026-10-25 19:49:10,966 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:49:10,973 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:49:13,974 - INFO - RAM tras optimizacion: 92.0%
+2026-10-25 19:49:58,974 - INFO - Uso de RAM actual: 89.9%
+2026-10-25 19:50:43,973 - INFO - Uso de RAM actual: 89.7%
+2026-10-25 19:51:28,973 - INFO - Uso de RAM actual: 91.0%
+2026-10-25 19:51:28,974 - WARNING - RAM por encima del limite critico! (91.0% >= 90.0%)
+2026-10-25 19:51:29,956 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.2%), msedge.exe (8.0%), Code.exe (6.3%)
+2026-10-25 19:51:29,956 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:51:29,963 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:51:32,964 - INFO - RAM tras optimizacion: 91.0%
+2026-10-25 19:52:17,963 - INFO - Uso de RAM actual: 94.2%
+2026-10-25 19:52:17,963 - WARNING - RAM por encima del limite critico! (94.2% >= 90.0%)
+2026-10-25 19:52:19,525 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (10.5%), msedge.exe (8.0%), Code.exe (6.8%)
+2026-10-25 19:52:19,530 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:52:19,564 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:52:22,564 - INFO - RAM tras optimizacion: 95.5%
+2026-10-25 19:53:07,564 - INFO - Uso de RAM actual: 90.3%
+2026-10-25 19:53:07,564 - WARNING - RAM por encima del limite critico! (90.3% >= 90.0%)
+2026-10-25 19:53:08,387 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (9.8%), msedge.exe (7.7%), Code.exe (6.4%)
+2026-10-25 19:53:08,387 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:53:08,395 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:53:11,396 - INFO - RAM tras optimizacion: 90.9%
+2026-10-25 19:53:56,397 - INFO - Uso de RAM actual: 88.5%
+2026-10-25 19:54:41,397 - INFO - Uso de RAM actual: 90.5%
+2026-10-25 19:54:41,400 - WARNING - RAM por encima del limite critico! (90.5% >= 90.0%)
+2026-10-25 19:54:42,298 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.6%), msedge.exe (8.4%), Code.exe (5.5%)
+2026-10-25 19:54:42,298 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-25 19:54:42,306 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-25 19:54:45,307 - INFO - RAM tras optimizacion: 90.5%
+2026-10-27 14:35:36,462 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 14:35:36,462 - INFO - Uso de RAM actual: 91.0%
+2026-10-27 14:35:36,462 - WARNING - RAM por encima del limite critico! (91.0% >= 90.0%)
+2026-10-27 14:35:37,075 - WARNING - Top 3 procesos consumiendo RAM: ChatGPT.exe (4.6%), Code.exe (4.2%), msedge.exe (4.0%)
+2026-10-27 14:35:37,075 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 14:35:37,081 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 14:35:40,084 - INFO - RAM tras optimizacion: 91.0%
+2026-10-27 14:36:25,086 - INFO - Uso de RAM actual: 87.7%
+2026-10-27 14:37:10,087 - INFO - Uso de RAM actual: 86.7%
+2026-10-27 14:37:55,088 - INFO - Uso de RAM actual: 88.3%
+2026-10-27 14:38:40,089 - INFO - Uso de RAM actual: 88.3%
+2026-10-27 14:39:25,090 - INFO - Uso de RAM actual: 88.5%
+2026-10-27 14:40:10,091 - INFO - Uso de RAM actual: 88.1%
+2026-10-27 14:40:55,092 - INFO - Uso de RAM actual: 88.4%
+2026-10-27 14:41:40,093 - INFO - Uso de RAM actual: 91.1%
+2026-10-27 14:41:40,093 - WARNING - RAM por encima del limite critico! (91.1% >= 90.0%)
+2026-10-27 14:41:40,661 - WARNING - Top 3 procesos consumiendo RAM: msedge.exe (8.6%), ChatGPT.exe (4.5%), Code.exe (4.3%)
+2026-10-27 14:41:40,661 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 14:41:40,669 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 14:41:43,669 - INFO - RAM tras optimizacion: 91.2%
+2026-10-27 14:42:28,670 - INFO - Uso de RAM actual: 86.0%
+2026-10-27 14:43:13,671 - INFO - Uso de RAM actual: 85.3%
+2026-10-27 14:43:58,673 - INFO - Uso de RAM actual: 85.3%
+2026-10-27 14:44:43,675 - INFO - Uso de RAM actual: 85.0%
+2026-10-27 14:45:28,676 - INFO - Uso de RAM actual: 84.8%
+2026-10-27 14:46:13,677 - INFO - Uso de RAM actual: 84.6%
+2026-10-27 14:46:58,678 - INFO - Uso de RAM actual: 84.6%
+2026-10-27 14:47:43,680 - INFO - Uso de RAM actual: 84.9%
+2026-10-27 14:48:28,681 - INFO - Uso de RAM actual: 85.2%
+2026-10-27 14:49:13,682 - INFO - Uso de RAM actual: 37.2%
+2026-10-27 14:49:58,684 - INFO - Uso de RAM actual: 42.9%
+2026-10-27 14:50:43,685 - INFO - Uso de RAM actual: 54.7%
+2026-10-27 14:51:28,686 - INFO - Uso de RAM actual: 53.0%
+2026-10-27 14:52:13,687 - INFO - Uso de RAM actual: 54.3%
+2026-10-27 14:52:58,687 - INFO - Uso de RAM actual: 58.5%
+2026-10-27 14:53:43,688 - INFO - Uso de RAM actual: 60.0%
+2026-10-27 14:54:28,689 - INFO - Uso de RAM actual: 59.6%
+2026-10-27 14:55:13,690 - INFO - Uso de RAM actual: 59.2%
+2026-10-27 14:55:58,692 - INFO - Uso de RAM actual: 59.2%
+2026-10-27 14:56:43,693 - INFO - Uso de RAM actual: 59.6%
+2026-10-27 14:57:28,694 - INFO - Uso de RAM actual: 59.5%
+2026-10-27 14:58:13,695 - INFO - Uso de RAM actual: 59.8%
+2026-10-27 14:58:58,696 - INFO - Uso de RAM actual: 59.9%
+2026-10-27 14:59:43,698 - INFO - Uso de RAM actual: 59.5%
+2026-10-27 15:00:28,698 - INFO - Uso de RAM actual: 59.2%
+2026-10-27 15:01:13,699 - INFO - Uso de RAM actual: 61.7%
+2026-10-27 15:01:58,701 - INFO - Uso de RAM actual: 62.7%
+2026-10-27 15:02:43,702 - INFO - Uso de RAM actual: 63.4%
+2026-10-27 15:03:28,702 - INFO - Uso de RAM actual: 68.6%
+2026-10-27 15:03:35,349 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 15:03:35,349 - INFO - Uso de RAM actual: 68.2%
+2026-10-27 15:04:13,703 - INFO - Uso de RAM actual: 71.9%
+2026-10-27 15:04:20,350 - INFO - Uso de RAM actual: 71.9%
+2026-10-27 15:05:05,351 - INFO - Uso de RAM actual: 70.7%
+2026-10-27 15:05:47,985 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 15:05:47,985 - INFO - Uso de RAM actual: 69.3%
+2026-10-27 15:05:50,352 - INFO - Uso de RAM actual: 69.3%
+2026-10-27 15:06:32,991 - INFO - Uso de RAM actual: 69.6%
+2026-10-27 15:06:35,353 - INFO - Uso de RAM actual: 69.6%
+2026-10-27 15:07:17,992 - INFO - Uso de RAM actual: 69.8%
+2026-10-27 15:07:20,354 - INFO - Uso de RAM actual: 70.0%
+2026-10-27 15:08:02,993 - INFO - Uso de RAM actual: 70.2%
+2026-10-27 15:08:05,354 - INFO - Uso de RAM actual: 70.2%
+2026-10-27 15:08:47,994 - INFO - Uso de RAM actual: 70.1%
+2026-10-27 15:08:50,356 - INFO - Uso de RAM actual: 70.2%
+2026-10-27 15:09:51,088 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 15:09:51,088 - INFO - Uso de RAM actual: 69.7%
+2026-10-27 15:10:36,089 - INFO - Uso de RAM actual: 71.2%
+2026-10-27 15:11:21,091 - INFO - Uso de RAM actual: 71.2%
+2026-10-27 15:12:06,092 - INFO - Uso de RAM actual: 72.1%
+2026-10-27 15:12:51,092 - INFO - Uso de RAM actual: 75.1%
+2026-10-27 15:15:12,552 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 15:15:12,552 - INFO - Uso de RAM actual: 71.6%
+2026-10-27 15:15:57,557 - INFO - Uso de RAM actual: 72.0%
+2026-10-27 15:16:42,558 - INFO - Uso de RAM actual: 94.8%
+2026-10-27 15:16:42,558 - WARNING - RAM por encima del limite critico! (94.8% >= 90.0%)
+2026-10-27 15:16:43,114 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.4%), Code.exe (3.9%)
+2026-10-27 15:16:43,114 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:16:43,121 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:16:46,123 - INFO - RAM tras optimizacion: 94.9%
+2026-10-27 15:17:31,125 - INFO - Uso de RAM actual: 93.4%
+2026-10-27 15:17:31,125 - WARNING - RAM por encima del limite critico! (93.4% >= 90.0%)
+2026-10-27 15:17:31,721 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.6%), msedge.exe (4.5%), Code.exe (3.1%)
+2026-10-27 15:17:31,721 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:17:31,728 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:17:34,729 - INFO - RAM tras optimizacion: 93.1%
+2026-10-27 15:18:19,730 - INFO - Uso de RAM actual: 92.9%
+2026-10-27 15:18:19,730 - WARNING - RAM por encima del limite critico! (92.9% >= 90.0%)
+2026-10-27 15:18:20,258 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.6%), msedge.exe (4.5%), Code.exe (3.0%)
+2026-10-27 15:18:20,258 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:18:20,262 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:18:23,267 - INFO - RAM tras optimizacion: 92.9%
+2026-10-27 15:19:08,267 - INFO - Uso de RAM actual: 93.5%
+2026-10-27 15:19:08,267 - WARNING - RAM por encima del limite critico! (93.5% >= 90.0%)
+2026-10-27 15:19:08,777 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.6%), msedge.exe (4.4%), Code.exe (3.6%)
+2026-10-27 15:19:08,777 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:19:08,785 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:19:11,785 - INFO - RAM tras optimizacion: 93.5%
+2026-10-27 15:19:56,786 - INFO - Uso de RAM actual: 93.5%
+2026-10-27 15:19:56,786 - WARNING - RAM por encima del limite critico! (93.5% >= 90.0%)
+2026-10-27 15:19:57,309 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.6%), msedge.exe (4.4%), Code.exe (3.9%)
+2026-10-27 15:19:57,309 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:19:57,317 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:20:00,318 - INFO - RAM tras optimizacion: 93.7%
+2026-10-27 15:20:45,319 - INFO - Uso de RAM actual: 93.5%
+2026-10-27 15:20:45,319 - WARNING - RAM por encima del limite critico! (93.5% >= 90.0%)
+2026-10-27 15:20:45,899 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.5%), Code.exe (3.6%)
+2026-10-27 15:20:45,899 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:20:45,907 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:20:48,908 - INFO - RAM tras optimizacion: 93.5%
+2026-10-27 15:21:33,909 - INFO - Uso de RAM actual: 93.7%
+2026-10-27 15:21:33,909 - WARNING - RAM por encima del limite critico! (93.7% >= 90.0%)
+2026-10-27 15:21:34,464 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.6%), Code.exe (3.7%)
+2026-10-27 15:21:34,464 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:21:34,472 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:21:37,479 - INFO - RAM tras optimizacion: 93.9%
+2026-10-27 15:22:22,480 - INFO - Uso de RAM actual: 93.4%
+2026-10-27 15:22:22,480 - WARNING - RAM por encima del limite critico! (93.4% >= 90.0%)
+2026-10-27 15:22:23,057 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.8%), Code.exe (3.2%)
+2026-10-27 15:22:23,057 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:22:23,062 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:22:26,070 - INFO - RAM tras optimizacion: 93.3%
+2026-10-27 15:23:11,070 - INFO - Uso de RAM actual: 94.0%
+2026-10-27 15:23:11,070 - WARNING - RAM por encima del limite critico! (94.0% >= 90.0%)
+2026-10-27 15:23:11,575 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.2%), Code.exe (3.0%)
+2026-10-27 15:23:11,575 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:23:11,575 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:23:14,591 - INFO - RAM tras optimizacion: 93.4%
+2026-10-27 15:23:59,592 - INFO - Uso de RAM actual: 94.2%
+2026-10-27 15:23:59,592 - WARNING - RAM por encima del limite critico! (94.2% >= 90.0%)
+2026-10-27 15:24:00,131 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.2%), Code.exe (3.2%)
+2026-10-27 15:24:00,131 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:24:00,138 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:24:03,139 - INFO - RAM tras optimizacion: 94.3%
+2026-10-27 15:24:48,140 - INFO - Uso de RAM actual: 95.4%
+2026-10-27 15:24:48,140 - WARNING - RAM por encima del limite critico! (95.4% >= 90.0%)
+2026-10-27 15:24:48,660 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.2%), Code.exe (3.9%)
+2026-10-27 15:24:48,660 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:24:48,676 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:24:51,679 - INFO - RAM tras optimizacion: 95.2%
+2026-10-27 15:25:36,679 - INFO - Uso de RAM actual: 95.7%
+2026-10-27 15:25:36,679 - WARNING - RAM por encima del limite critico! (95.7% >= 90.0%)
+2026-10-27 15:25:37,191 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.2%), Code.exe (3.3%)
+2026-10-27 15:25:37,196 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:25:37,202 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:25:40,203 - INFO - RAM tras optimizacion: 95.7%
+2026-10-27 15:26:25,203 - INFO - Uso de RAM actual: 96.4%
+2026-10-27 15:26:25,203 - WARNING - RAM por encima del limite critico! (96.4% >= 90.0%)
+2026-10-27 15:26:25,696 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.2%), Code.exe (3.6%)
+2026-10-27 15:26:25,696 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:26:25,698 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:26:28,704 - INFO - RAM tras optimizacion: 96.3%
+2026-10-27 15:27:13,705 - INFO - Uso de RAM actual: 94.4%
+2026-10-27 15:27:13,705 - WARNING - RAM por encima del limite critico! (94.4% >= 90.0%)
+2026-10-27 15:27:14,202 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.1%), Code.exe (3.3%)
+2026-10-27 15:27:14,202 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:27:14,219 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:27:17,222 - INFO - RAM tras optimizacion: 94.5%
+2026-10-27 15:28:02,223 - INFO - Uso de RAM actual: 95.6%
+2026-10-27 15:28:02,223 - WARNING - RAM por encima del limite critico! (95.6% >= 90.0%)
+2026-10-27 15:28:02,784 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (5.2%), Code.exe (3.3%)
+2026-10-27 15:28:02,784 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:28:02,788 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:28:05,792 - INFO - RAM tras optimizacion: 95.6%
+2026-10-27 15:28:50,793 - INFO - Uso de RAM actual: 98.6%
+2026-10-27 15:28:50,793 - WARNING - RAM por encima del limite critico! (98.6% >= 90.0%)
+2026-10-27 15:28:51,278 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (9.0%), Code.exe (3.3%)
+2026-10-27 15:28:51,278 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:28:51,282 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:28:54,285 - INFO - RAM tras optimizacion: 93.9%
+2026-10-27 15:29:39,287 - INFO - Uso de RAM actual: 93.7%
+2026-10-27 15:29:39,287 - WARNING - RAM por encima del limite critico! (93.7% >= 90.0%)
+2026-10-27 15:29:39,798 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.5%), Code.exe (3.1%)
+2026-10-27 15:29:39,798 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:29:39,802 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:29:42,806 - INFO - RAM tras optimizacion: 93.6%
+2026-10-27 15:30:27,808 - INFO - Uso de RAM actual: 93.9%
+2026-10-27 15:30:27,808 - WARNING - RAM por encima del limite critico! (93.9% >= 90.0%)
+2026-10-27 15:30:28,309 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.7%), msedge.exe (4.7%), Code.exe (3.1%)
+2026-10-27 15:30:28,309 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:30:28,316 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:30:31,317 - INFO - RAM tras optimizacion: 94.0%
+2026-10-27 15:31:16,319 - INFO - Uso de RAM actual: 98.4%
+2026-10-27 15:31:16,323 - WARNING - RAM por encima del limite critico! (98.4% >= 90.0%)
+2026-10-27 15:31:16,825 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.2%), llama-server.exe (27.2%), msedge.exe (5.1%)
+2026-10-27 15:31:16,825 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:31:16,833 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:31:19,835 - INFO - RAM tras optimizacion: 98.1%
+2026-10-27 15:32:04,837 - INFO - Uso de RAM actual: 95.9%
+2026-10-27 15:32:04,837 - WARNING - RAM por encima del limite critico! (95.9% >= 90.0%)
+2026-10-27 15:32:05,306 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.5%), llama-server.exe (18.5%), msedge.exe (6.5%)
+2026-10-27 15:32:05,306 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:32:05,306 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:32:08,321 - INFO - RAM tras optimizacion: 95.5%
+2026-10-27 15:48:05,906 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 15:48:05,910 - INFO - Uso de RAM actual: 65.1%
+2026-10-27 15:48:50,918 - INFO - Uso de RAM actual: 90.2%
+2026-10-27 15:48:50,918 - WARNING - RAM por encima del limite critico! (90.2% >= 90.0%)
+2026-10-27 15:48:51,365 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.8%), msedge.exe (4.9%), Code.exe (3.1%)
+2026-10-27 15:48:51,365 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:48:51,365 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:48:54,374 - INFO - RAM tras optimizacion: 63.2%
+2026-10-27 15:49:39,382 - INFO - Uso de RAM actual: 63.1%
+2026-10-27 15:50:24,390 - INFO - Uso de RAM actual: 66.1%
+2026-10-27 15:51:09,397 - INFO - Uso de RAM actual: 67.3%
+2026-10-27 15:51:54,405 - INFO - Uso de RAM actual: 67.4%
+2026-10-27 15:52:39,413 - INFO - Uso de RAM actual: 67.9%
+2026-10-27 15:53:24,420 - INFO - Uso de RAM actual: 66.5%
+2026-10-27 15:54:09,428 - INFO - Uso de RAM actual: 66.9%
+2026-10-27 15:54:54,435 - INFO - Uso de RAM actual: 62.0%
+2026-10-27 15:55:39,443 - INFO - Uso de RAM actual: 65.2%
+2026-10-27 15:56:24,450 - INFO - Uso de RAM actual: 66.1%
+2026-10-27 15:56:49,632 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 15:56:49,632 - INFO - Uso de RAM actual: 67.1%
+2026-10-27 15:57:09,458 - INFO - Uso de RAM actual: 96.0%
+2026-10-27 15:57:09,458 - WARNING - RAM por encima del limite critico! (96.0% >= 90.0%)
+2026-10-27 15:57:10,095 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.1%), msedge.exe (7.5%), msedge.exe (4.8%)
+2026-10-27 15:57:10,095 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:57:10,105 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:57:13,106 - INFO - RAM tras optimizacion: 96.2%
+2026-10-27 15:57:34,640 - INFO - Uso de RAM actual: 68.1%
+2026-10-27 15:57:58,114 - INFO - Uso de RAM actual: 67.6%
+2026-10-27 15:58:19,648 - INFO - Uso de RAM actual: 67.3%
+2026-10-27 15:58:43,121 - INFO - Uso de RAM actual: 67.5%
+2026-10-27 15:58:48,226 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 15:58:48,226 - INFO - Uso de RAM actual: 67.9%
+2026-10-27 15:59:04,656 - INFO - Uso de RAM actual: 94.4%
+2026-10-27 15:59:04,656 - WARNING - RAM por encima del limite critico! (94.4% >= 90.0%)
+2026-10-27 15:59:05,180 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.4%), msedge.exe (7.5%), msedge.exe (4.8%)
+2026-10-27 15:59:05,180 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:59:05,187 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:59:08,189 - INFO - RAM tras optimizacion: 94.5%
+2026-10-27 15:59:28,129 - INFO - Uso de RAM actual: 94.4%
+2026-10-27 15:59:28,129 - WARNING - RAM por encima del limite critico! (94.4% >= 90.0%)
+2026-10-27 15:59:28,615 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (27.4%), msedge.exe (7.2%), msedge.exe (4.8%)
+2026-10-27 15:59:28,615 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:59:28,621 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:59:31,624 - INFO - RAM tras optimizacion: 94.4%
+2026-10-27 15:59:33,234 - INFO - Uso de RAM actual: 66.6%
+2026-10-27 15:59:53,196 - INFO - Uso de RAM actual: 91.7%
+2026-10-27 15:59:53,197 - WARNING - RAM por encima del limite critico! (91.7% >= 90.0%)
+2026-10-27 15:59:53,594 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (26.7%), msedge.exe (7.2%), msedge.exe (4.8%)
+2026-10-27 15:59:53,594 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-27 15:59:53,602 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-27 15:59:56,604 - INFO - RAM tras optimizacion: 90.5%
+2026-10-27 16:00:10,515 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-27 16:00:10,515 - INFO - Uso de RAM actual: 64.3%
+2026-10-27 16:00:16,632 - INFO - Uso de RAM actual: 63.8%
+2026-10-27 16:00:41,612 - INFO - Uso de RAM actual: 50.9%
+2026-10-28 15:54:47,501 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-28 15:54:47,501 - INFO - Uso de RAM actual: 31.2%
+2026-10-28 15:55:32,512 - INFO - Uso de RAM actual: 53.6%
+2026-10-28 15:56:17,513 - INFO - Uso de RAM actual: 56.7%
+2026-10-28 15:56:21,958 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-28 15:56:21,958 - INFO - Uso de RAM actual: 58.2%
+2026-10-28 15:57:02,514 - INFO - Uso de RAM actual: 60.5%
+2026-10-28 15:57:06,959 - INFO - Uso de RAM actual: 60.3%
+2026-10-28 15:57:14,625 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-28 15:57:14,625 - INFO - Uso de RAM actual: 60.5%
+2026-10-28 16:02:09,250 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-28 16:02:09,250 - INFO - Uso de RAM actual: 67.1%
+2026-10-28 16:02:34,344 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-28 16:02:34,344 - INFO - Uso de RAM actual: 67.0%
+2026-10-28 16:03:02,829 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-28 16:03:02,829 - INFO - Uso de RAM actual: 67.9%
+2026-10-28 16:03:47,831 - INFO - Uso de RAM actual: 54.9%
+2026-10-28 16:04:32,833 - INFO - Uso de RAM actual: 57.2%
+2026-10-28 16:05:17,834 - INFO - Uso de RAM actual: 57.9%
+2026-10-28 16:06:02,835 - INFO - Uso de RAM actual: 84.0%
+2026-10-28 16:06:47,837 - INFO - Uso de RAM actual: 43.0%
+2026-10-28 16:07:32,839 - INFO - Uso de RAM actual: 46.8%
+2026-10-28 16:08:17,843 - INFO - Uso de RAM actual: 51.5%
+2026-10-28 18:27:39,732 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-28 18:27:39,732 - INFO - Uso de RAM actual: 52.5%
+2026-10-28 18:28:24,736 - INFO - Uso de RAM actual: 83.7%
+2026-10-28 18:29:09,738 - INFO - Uso de RAM actual: 94.4%
+2026-10-28 18:29:09,738 - WARNING - RAM por encima del limite critico! (94.4% >= 90.0%)
+2026-10-28 18:29:10,285 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (25.6%), Code.exe (6.1%), Code.exe (3.8%)
+2026-10-28 18:29:10,285 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-28 18:29:10,288 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-28 18:29:13,293 - INFO - RAM tras optimizacion: 94.3%
+2026-10-28 18:29:58,294 - INFO - Uso de RAM actual: 94.4%
+2026-10-28 18:29:58,294 - WARNING - RAM por encima del limite critico! (94.4% >= 90.0%)
+2026-10-28 18:29:58,684 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (25.6%), Code.exe (6.1%), Code.exe (3.8%)
+2026-10-28 18:29:58,684 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-28 18:29:58,691 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-28 18:30:01,692 - INFO - RAM tras optimizacion: 94.2%
+2026-10-28 18:30:46,692 - INFO - Uso de RAM actual: 93.6%
+2026-10-28 18:30:46,693 - WARNING - RAM por encima del limite critico! (93.6% >= 90.0%)
+2026-10-28 18:30:47,017 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (25.6%), Code.exe (5.4%), Code.exe (3.8%)
+2026-10-28 18:30:47,017 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-28 18:30:47,030 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-28 18:30:50,032 - INFO - RAM tras optimizacion: 91.7%
+2026-10-28 18:31:35,032 - INFO - Uso de RAM actual: 96.4%
+2026-10-28 18:31:35,032 - WARNING - RAM por encima del limite critico! (96.4% >= 90.0%)
+2026-10-28 18:31:35,679 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.4%), Code.exe (5.5%), Code.exe (3.8%)
+2026-10-28 18:31:35,679 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-28 18:31:35,687 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-28 18:31:38,688 - INFO - RAM tras optimizacion: 96.6%
+2026-10-28 18:32:23,689 - INFO - Uso de RAM actual: 96.9%
+2026-10-28 18:32:23,689 - WARNING - RAM por encima del limite critico! (96.9% >= 90.0%)
+2026-10-28 18:32:24,061 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.8%), Code.exe (5.6%), Code.exe (3.8%)
+2026-10-28 18:32:24,062 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-28 18:32:24,068 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-28 18:32:27,069 - INFO - RAM tras optimizacion: 97.0%
+2026-10-28 18:33:12,070 - INFO - Uso de RAM actual: 97.3%
+2026-10-28 18:33:12,070 - WARNING - RAM por encima del limite critico! (97.3% >= 90.0%)
+2026-10-28 18:33:12,502 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.3%), Code.exe (5.7%), Code.exe (3.8%)
+2026-10-28 18:33:12,502 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-28 18:33:12,510 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-28 18:33:15,511 - INFO - RAM tras optimizacion: 97.1%
+2026-10-28 18:34:00,512 - INFO - Uso de RAM actual: 97.1%
+2026-10-28 18:34:00,512 - WARNING - RAM por encima del limite critico! (97.1% >= 90.0%)
+2026-10-28 18:34:01,011 - WARNING - Top 3 procesos consumiendo RAM: llama-server.exe (28.3%), Code.exe (5.6%), Code.exe (3.8%)
+2026-10-28 18:34:01,011 - INFO - Ejecutando rutina nativa de limpieza de memoria...
+2026-10-28 18:34:01,018 - INFO - Rutina nativa de limpieza finalizada con Ã©xito.
+2026-10-28 18:34:04,019 - INFO - RAM tras optimizacion: 97.3%
+2026-10-28 18:34:49,020 - INFO - Uso de RAM actual: 35.4%
+2026-10-28 18:35:34,023 - INFO - Uso de RAM actual: 37.1%
+2026-10-28 18:36:19,024 - INFO - Uso de RAM actual: 37.9%
+2026-10-28 18:37:04,025 - INFO - Uso de RAM actual: 38.4%
+2026-10-28 18:37:49,027 - INFO - Uso de RAM actual: 42.9%
+2026-10-28 18:38:34,028 - INFO - Uso de RAM actual: 46.7%
+2026-10-28 18:39:19,029 - INFO - Uso de RAM actual: 49.0%
+2026-10-28 18:40:04,030 - INFO - Uso de RAM actual: 49.8%
+2026-10-28 18:40:49,030 - INFO - Uso de RAM actual: 48.4%
+2026-10-28 18:41:34,031 - INFO - Uso de RAM actual: 48.1%
+2026-10-28 18:42:19,032 - INFO - Uso de RAM actual: 48.4%
+2026-10-28 18:43:04,033 - INFO - Uso de RAM actual: 47.6%
+2026-10-28 18:43:49,034 - INFO - Uso de RAM actual: 47.6%
+2026-10-28 18:44:34,035 - INFO - Uso de RAM actual: 49.0%
+2026-10-28 18:45:19,036 - INFO - Uso de RAM actual: 49.7%
+2026-10-28 18:46:04,036 - INFO - Uso de RAM actual: 52.9%
+2026-10-28 18:46:49,038 - INFO - Uso de RAM actual: 54.0%
+2026-10-28 18:47:34,038 - INFO - Uso de RAM actual: 54.4%
+2026-10-28 18:48:19,040 - INFO - Uso de RAM actual: 57.7%
+2026-10-28 18:49:04,041 - INFO - Uso de RAM actual: 58.2%
+2026-10-28 18:49:49,042 - INFO - Uso de RAM actual: 58.3%
+2026-10-28 18:50:34,043 - INFO - Uso de RAM actual: 58.1%
+2026-10-28 18:51:19,043 - INFO - Uso de RAM actual: 58.1%
+2026-10-28 18:52:04,044 - INFO - Uso de RAM actual: 58.6%
+2026-10-28 18:52:49,045 - INFO - Uso de RAM actual: 59.3%
+2026-10-28 18:53:34,046 - INFO - Uso de RAM actual: 59.2%
+2026-10-28 18:54:19,047 - INFO - Uso de RAM actual: 59.7%
+2026-10-28 18:55:04,047 - INFO - Uso de RAM actual: 55.5%
+2026-10-28 18:55:49,048 - INFO - Uso de RAM actual: 55.3%
+2026-10-28 18:56:34,049 - INFO - Uso de RAM actual: 55.3%
+2026-10-28 18:57:19,051 - INFO - Uso de RAM actual: 54.6%
+2026-10-28 18:58:04,052 - INFO - Uso de RAM actual: 35.2%
+2026-10-28 18:58:49,055 - INFO - Uso de RAM actual: 39.7%
+2026-10-28 18:59:34,056 - INFO - Uso de RAM actual: 44.7%
+2026-10-28 19:00:19,058 - INFO - Uso de RAM actual: 38.7%
+2026-10-28 19:01:04,059 - INFO - Uso de RAM actual: 42.8%
+2026-10-28 19:01:49,060 - INFO - Uso de RAM actual: 43.5%
+2026-10-28 19:02:34,060 - INFO - Uso de RAM actual: 47.2%
+2026-10-28 19:03:19,061 - INFO - Uso de RAM actual: 47.9%
+2026-10-28 19:04:04,062 - INFO - Uso de RAM actual: 50.4%
+2026-10-28 19:04:49,063 - INFO - Uso de RAM actual: 53.2%
+2026-10-28 19:05:34,064 - INFO - Uso de RAM actual: 54.9%
+2026-10-28 19:06:19,065 - INFO - Uso de RAM actual: 55.9%
+2026-10-28 19:07:04,066 - INFO - Uso de RAM actual: 56.4%
+2026-10-28 19:07:49,066 - INFO - Uso de RAM actual: 55.4%
+2026-10-28 19:08:34,067 - INFO - Uso de RAM actual: 55.5%
+2026-10-28 19:09:19,068 - INFO - Uso de RAM actual: 58.0%
+2026-10-28 19:10:04,069 - INFO - Uso de RAM actual: 59.6%
+2026-10-28 19:10:49,069 - INFO - Uso de RAM actual: 59.7%
+2026-10-28 19:11:34,071 - INFO - Uso de RAM actual: 59.9%
+2026-10-28 19:12:19,072 - INFO - Uso de RAM actual: 59.7%
+2026-10-28 19:13:04,073 - INFO - Uso de RAM actual: 59.7%
+2026-10-28 19:13:49,074 - INFO - Uso de RAM actual: 59.9%
+2026-10-28 19:14:34,075 - INFO - Uso de RAM actual: 58.4%
+2026-10-28 19:15:19,077 - INFO - Uso de RAM actual: 56.4%
+2026-10-28 19:16:04,078 - INFO - Uso de RAM actual: 56.6%
+2026-10-28 19:16:49,079 - INFO - Uso de RAM actual: 56.5%
+2026-10-28 19:17:34,081 - INFO - Uso de RAM actual: 56.8%
+2026-10-28 19:18:19,081 - INFO - Uso de RAM actual: 39.1%
+2026-10-28 19:19:04,082 - INFO - Uso de RAM actual: 43.9%
+2026-10-28 19:19:49,083 - INFO - Uso de RAM actual: 41.5%
+2026-10-28 19:40:08,235 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-28 19:40:08,235 - INFO - Uso de RAM actual: 44.6%
+2026-10-28 19:40:53,245 - INFO - Uso de RAM actual: 72.7%
+2026-10-28 19:41:38,245 - INFO - Uso de RAM actual: 73.7%
+2026-10-28 19:42:23,246 - INFO - Uso de RAM actual: 82.0%
+2026-10-28 19:43:08,247 - INFO - Uso de RAM actual: 82.7%
+2026-10-28 19:43:53,248 - INFO - Uso de RAM actual: 34.5%
+2026-10-28 19:44:38,251 - INFO - Uso de RAM actual: 43.6%
+2026-10-28 19:45:23,252 - INFO - Uso de RAM actual: 44.0%
+2026-10-28 19:46:08,253 - INFO - Uso de RAM actual: 44.7%
+2026-10-28 19:46:53,254 - INFO - Uso de RAM actual: 46.0%
+2026-10-28 19:47:38,255 - INFO - Uso de RAM actual: 46.9%
+2026-10-28 19:48:23,256 - INFO - Uso de RAM actual: 50.3%
+2026-10-28 19:49:08,256 - INFO - Uso de RAM actual: 51.3%
+2026-10-28 19:49:53,257 - INFO - Uso de RAM actual: 51.7%
+2026-10-28 19:50:38,258 - INFO - Uso de RAM actual: 51.8%
+2026-10-28 19:51:23,259 - INFO - Uso de RAM actual: 51.8%
+2026-10-28 19:52:08,260 - INFO - Uso de RAM actual: 53.0%
+2026-10-28 19:52:53,261 - INFO - Uso de RAM actual: 50.0%
+2026-10-28 19:53:38,261 - INFO - Uso de RAM actual: 51.1%
+2026-10-28 19:54:23,262 - INFO - Uso de RAM actual: 52.6%
+2026-10-28 19:55:08,263 - INFO - Uso de RAM actual: 48.1%
+2026-10-28 19:55:53,264 - INFO - Uso de RAM actual: 56.0%
+2026-10-28 19:56:38,265 - INFO - Uso de RAM actual: 56.5%
+2026-10-28 19:57:23,266 - INFO - Uso de RAM actual: 56.9%
+2026-10-28 19:58:08,267 - INFO - Uso de RAM actual: 56.4%
+2026-10-28 19:58:53,268 - INFO - Uso de RAM actual: 56.4%
+2026-10-28 19:59:38,269 - INFO - Uso de RAM actual: 55.8%
+2026-10-28 20:00:23,270 - INFO - Uso de RAM actual: 55.7%
+2026-10-28 20:01:08,271 - INFO - Uso de RAM actual: 55.8%
+2026-10-28 20:01:53,272 - INFO - Uso de RAM actual: 56.0%
+2026-10-28 20:02:38,273 - INFO - Uso de RAM actual: 52.6%
+2026-10-28 20:03:23,274 - INFO - Uso de RAM actual: 53.2%
+2026-10-28 20:04:08,275 - INFO - Uso de RAM actual: 55.5%
+2026-10-28 20:04:53,276 - INFO - Uso de RAM actual: 56.5%
+2026-10-28 20:05:38,277 - INFO - Uso de RAM actual: 58.0%
+2026-10-28 20:06:23,278 - INFO - Uso de RAM actual: 59.9%
+2026-10-28 20:07:08,279 - INFO - Uso de RAM actual: 60.6%
+2026-10-28 20:07:53,280 - INFO - Uso de RAM actual: 60.4%
+2026-10-28 20:08:38,281 - INFO - Uso de RAM actual: 61.2%
+2026-10-28 20:09:23,281 - INFO - Uso de RAM actual: 61.5%
+2026-10-28 20:10:08,282 - INFO - Uso de RAM actual: 61.9%
+2026-10-28 20:10:53,283 - INFO - Uso de RAM actual: 62.3%
+2026-10-28 20:11:38,284 - INFO - Uso de RAM actual: 66.2%
+2026-10-28 20:12:23,285 - INFO - Uso de RAM actual: 66.5%
+2026-10-28 20:13:08,286 - INFO - Uso de RAM actual: 66.6%
+2026-10-28 20:13:53,287 - INFO - Uso de RAM actual: 70.7%
+2026-10-28 20:14:38,288 - INFO - Uso de RAM actual: 70.3%
+2026-10-28 20:15:23,289 - INFO - Uso de RAM actual: 72.8%
+2026-10-28 20:16:08,290 - INFO - Uso de RAM actual: 74.2%
+2026-10-28 20:16:53,291 - INFO - Uso de RAM actual: 74.1%
+2026-10-28 20:17:38,292 - INFO - Uso de RAM actual: 75.2%
+2026-10-28 20:18:23,293 - INFO - Uso de RAM actual: 78.0%
+2026-10-28 20:19:08,294 - INFO - Uso de RAM actual: 78.2%
+2026-10-28 20:19:53,295 - INFO - Uso de RAM actual: 82.1%
+2026-10-28 20:20:38,295 - INFO - Uso de RAM actual: 81.6%
+2026-10-28 20:21:23,296 - INFO - Uso de RAM actual: 58.1%
+2026-10-28 20:22:08,297 - INFO - Uso de RAM actual: 59.6%
+2026-10-28 20:22:53,298 - INFO - Uso de RAM actual: 60.0%
+2026-10-28 20:23:38,299 - INFO - Uso de RAM actual: 64.9%
+2026-10-28 20:24:23,300 - INFO - Uso de RAM actual: 64.7%
+2026-10-28 20:25:08,301 - INFO - Uso de RAM actual: 64.4%
+2026-10-28 20:25:53,302 - INFO - Uso de RAM actual: 72.1%
+2026-10-28 20:26:38,303 - INFO - Uso de RAM actual: 71.2%
+2026-10-28 20:27:23,304 - INFO - Uso de RAM actual: 79.2%
+2026-10-28 20:28:08,306 - INFO - Uso de RAM actual: 78.5%
+2026-10-28 20:28:53,307 - INFO - Uso de RAM actual: 78.0%
+2026-10-28 20:29:38,308 - INFO - Uso de RAM actual: 82.2%
+2026-10-28 20:30:23,309 - INFO - Uso de RAM actual: 50.8%
+2026-10-28 20:31:08,311 - INFO - Uso de RAM actual: 49.6%
+2026-10-28 20:31:53,312 - INFO - Uso de RAM actual: 54.1%
+2026-10-28 20:32:38,313 - INFO - Uso de RAM actual: 57.1%
+2026-10-28 20:33:23,314 - INFO - Uso de RAM actual: 60.2%
+2026-10-28 20:34:08,315 - INFO - Uso de RAM actual: 59.9%
+2026-10-28 20:34:53,315 - INFO - Uso de RAM actual: 58.2%
+2026-10-28 20:35:38,316 - INFO - Uso de RAM actual: 68.1%
+2026-10-28 20:36:23,318 - INFO - Uso de RAM actual: 67.8%
+2026-10-28 20:37:08,319 - INFO - Uso de RAM actual: 68.7%
+2026-10-28 20:37:53,320 - INFO - Uso de RAM actual: 70.9%
+2026-10-28 20:38:38,320 - INFO - Uso de RAM actual: 74.9%
+2026-10-28 20:39:23,321 - INFO - Uso de RAM actual: 75.0%
+2026-10-28 20:40:08,322 - INFO - Uso de RAM actual: 72.9%
+2026-10-28 20:40:53,323 - INFO - Uso de RAM actual: 72.8%
+2026-10-28 20:41:38,324 - INFO - Uso de RAM actual: 74.7%
+2026-10-28 20:42:23,318 - INFO - Uso de RAM actual: 73.5%
+2026-10-28 20:43:08,310 - INFO - Uso de RAM actual: 74.1%
+2026-10-28 20:43:53,302 - INFO - Uso de RAM actual: 72.9%
+2026-10-28 20:44:38,295 - INFO - Uso de RAM actual: 73.3%
+2026-10-28 20:45:23,287 - INFO - Uso de RAM actual: 73.0%
+2026-10-28 20:46:08,279 - INFO - Uso de RAM actual: 73.0%
+2026-10-28 20:46:53,271 - INFO - Uso de RAM actual: 72.3%
+2026-10-28 20:47:38,263 - INFO - Uso de RAM actual: 72.7%
+2026-10-28 20:48:23,255 - INFO - Uso de RAM actual: 72.5%
+2026-10-28 20:49:08,247 - INFO - Uso de RAM actual: 74.2%
+2026-10-28 20:49:53,239 - INFO - Uso de RAM actual: 77.4%
+2026-10-28 20:50:38,232 - INFO - Uso de RAM actual: 77.4%
+2026-10-28 20:51:23,224 - INFO - Uso de RAM actual: 76.0%
+2026-10-28 20:52:08,218 - INFO - Uso de RAM actual: 76.3%
+2026-10-28 20:52:53,210 - INFO - Uso de RAM actual: 75.6%
+2026-10-28 20:53:38,203 - INFO - Uso de RAM actual: 75.9%
+2026-10-28 20:54:23,195 - INFO - Uso de RAM actual: 76.1%
+2026-10-28 20:55:08,187 - INFO - Uso de RAM actual: 75.9%
+2026-10-28 20:55:53,179 - INFO - Uso de RAM actual: 76.5%
+2026-10-28 20:56:38,171 - INFO - Uso de RAM actual: 76.6%
+2026-10-28 20:57:23,163 - INFO - Uso de RAM actual: 77.9%
+2026-10-28 20:58:08,155 - INFO - Uso de RAM actual: 78.1%
+2026-10-28 20:58:53,147 - INFO - Uso de RAM actual: 78.8%
+2026-10-28 20:59:38,142 - INFO - Uso de RAM actual: 78.7%
+2026-10-28 21:00:23,137 - INFO - Uso de RAM actual: 78.6%
+2026-10-28 21:01:08,132 - INFO - Uso de RAM actual: 78.4%
+2026-10-28 21:01:53,126 - INFO - Uso de RAM actual: 78.3%
+2026-10-28 21:02:38,121 - INFO - Uso de RAM actual: 78.6%
+2026-10-28 21:03:23,116 - INFO - Uso de RAM actual: 78.7%
+2026-10-28 21:04:08,111 - INFO - Uso de RAM actual: 79.3%
+2026-10-28 21:04:53,106 - INFO - Uso de RAM actual: 79.0%
+2026-10-28 21:05:38,101 - INFO - Uso de RAM actual: 79.4%
+2026-10-28 21:06:23,096 - INFO - Uso de RAM actual: 79.2%
+2026-10-28 21:07:08,090 - INFO - Uso de RAM actual: 79.1%
+2026-10-28 21:07:53,085 - INFO - Uso de RAM actual: 79.2%
+2026-10-28 21:08:38,080 - INFO - Uso de RAM actual: 79.1%
+2026-10-28 21:09:23,074 - INFO - Uso de RAM actual: 79.3%
+2026-10-28 21:10:08,069 - INFO - Uso de RAM actual: 65.8%
+2026-10-29 01:40:39,677 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-29 01:40:39,693 - INFO - Uso de RAM actual: 39.0%
+2026-10-29 01:41:24,694 - INFO - Uso de RAM actual: 53.5%
+2026-10-29 01:42:09,696 - INFO - Uso de RAM actual: 54.5%
+2026-10-29 01:42:54,698 - INFO - Uso de RAM actual: 57.0%
+2026-10-29 01:43:39,699 - INFO - Uso de RAM actual: 56.9%
+2026-10-29 01:44:24,700 - INFO - Uso de RAM actual: 57.0%
+2026-10-29 01:45:09,701 - INFO - Uso de RAM actual: 56.2%
+2026-10-29 01:45:54,701 - INFO - Uso de RAM actual: 56.4%
+2026-10-29 01:46:39,703 - INFO - Uso de RAM actual: 56.5%
+2026-10-29 01:47:24,703 - INFO - Uso de RAM actual: 56.6%
+2026-10-29 01:48:09,704 - INFO - Uso de RAM actual: 57.9%
+2026-10-29 01:48:54,705 - INFO - Uso de RAM actual: 56.8%
+2026-10-29 01:49:39,706 - INFO - Uso de RAM actual: 57.3%
+2026-10-29 01:50:24,707 - INFO - Uso de RAM actual: 59.0%
+2026-10-29 01:51:09,709 - INFO - Uso de RAM actual: 58.9%
+2026-10-29 01:51:54,710 - INFO - Uso de RAM actual: 58.0%
+2026-10-29 01:52:39,710 - INFO - Uso de RAM actual: 66.2%
+2026-10-29 01:53:24,711 - INFO - Uso de RAM actual: 65.2%
+2026-10-29 01:54:09,712 - INFO - Uso de RAM actual: 67.4%
+2026-10-29 01:54:54,713 - INFO - Uso de RAM actual: 68.5%
+2026-10-29 01:55:39,714 - INFO - Uso de RAM actual: 71.5%
+2026-10-29 01:56:24,715 - INFO - Uso de RAM actual: 69.7%
+2026-10-29 01:57:09,716 - INFO - Uso de RAM actual: 69.7%
+2026-10-29 01:57:54,717 - INFO - Uso de RAM actual: 70.8%
+2026-10-29 01:58:39,718 - INFO - Uso de RAM actual: 64.7%
+2026-10-29 01:59:24,720 - INFO - Uso de RAM actual: 49.4%
+2026-10-29 02:00:09,721 - INFO - Uso de RAM actual: 50.2%
+2026-10-29 02:00:54,722 - INFO - Uso de RAM actual: 55.6%
+2026-10-29 02:01:39,723 - INFO - Uso de RAM actual: 56.9%
+2026-10-29 02:02:24,724 - INFO - Uso de RAM actual: 57.7%
+2026-10-29 02:03:09,725 - INFO - Uso de RAM actual: 65.1%
+2026-10-29 02:03:54,727 - INFO - Uso de RAM actual: 65.4%
+2026-10-29 02:04:39,728 - INFO - Uso de RAM actual: 64.6%
+2026-10-29 02:05:24,729 - INFO - Uso de RAM actual: 67.6%
+2026-10-29 02:06:09,730 - INFO - Uso de RAM actual: 70.7%
+2026-10-29 02:06:54,731 - INFO - Uso de RAM actual: 68.8%
+2026-10-29 02:07:39,732 - INFO - Uso de RAM actual: 65.6%
+2026-10-29 02:08:24,735 - INFO - Uso de RAM actual: 67.6%
+2026-10-29 02:09:09,736 - INFO - Uso de RAM actual: 67.7%
+2026-10-29 02:09:54,738 - INFO - Uso de RAM actual: 68.6%
+2026-10-29 02:10:39,739 - INFO - Uso de RAM actual: 68.3%
+2026-10-29 02:11:24,739 - INFO - Uso de RAM actual: 70.3%
+2026-10-29 02:12:09,740 - INFO - Uso de RAM actual: 73.1%
+2026-10-29 02:12:54,741 - INFO - Uso de RAM actual: 73.1%
+2026-10-29 02:13:39,745 - INFO - Uso de RAM actual: 72.7%
+2026-10-29 02:14:24,746 - INFO - Uso de RAM actual: 72.6%
+2026-10-29 02:15:09,747 - INFO - Uso de RAM actual: 76.1%
+2026-10-29 02:15:54,748 - INFO - Uso de RAM actual: 77.8%
+2026-10-29 02:16:39,749 - INFO - Uso de RAM actual: 77.5%
+2026-10-29 02:17:24,750 - INFO - Uso de RAM actual: 77.1%
+2026-10-29 02:18:09,752 - INFO - Uso de RAM actual: 76.7%
+2026-10-29 02:18:54,753 - INFO - Uso de RAM actual: 78.1%
+2026-10-29 02:19:39,754 - INFO - Uso de RAM actual: 80.6%
+2026-10-29 02:20:24,755 - INFO - Uso de RAM actual: 80.5%
+2026-10-29 02:21:09,756 - INFO - Uso de RAM actual: 80.4%
+2026-10-29 02:21:54,758 - INFO - Uso de RAM actual: 80.3%
+2026-10-29 02:22:39,760 - INFO - Uso de RAM actual: 83.3%
+2026-10-29 02:23:24,761 - INFO - Uso de RAM actual: 34.4%
+2026-10-29 02:24:09,765 - INFO - Uso de RAM actual: 48.7%
+2026-10-29 02:24:54,766 - INFO - Uso de RAM actual: 55.5%
+2026-10-29 02:25:39,767 - INFO - Uso de RAM actual: 55.7%
+2026-10-29 02:26:24,769 - INFO - Uso de RAM actual: 57.8%
+2026-10-29 02:27:09,771 - INFO - Uso de RAM actual: 62.7%
+2026-10-29 02:27:54,772 - INFO - Uso de RAM actual: 63.1%
+2026-10-29 02:28:39,776 - INFO - Uso de RAM actual: 63.1%
+2026-10-29 02:29:24,777 - INFO - Uso de RAM actual: 63.4%
+2026-10-29 02:30:09,778 - INFO - Uso de RAM actual: 62.8%
+2026-10-29 02:30:54,779 - INFO - Uso de RAM actual: 63.0%
+2026-10-29 02:31:39,780 - INFO - Uso de RAM actual: 63.3%
+2026-10-29 02:32:24,782 - INFO - Uso de RAM actual: 66.1%
+2026-10-29 02:33:09,782 - INFO - Uso de RAM actual: 69.2%
+2026-10-29 02:33:54,783 - INFO - Uso de RAM actual: 70.1%
+2026-10-29 02:34:39,785 - INFO - Uso de RAM actual: 70.3%
+2026-10-29 02:35:24,786 - INFO - Uso de RAM actual: 69.5%
+2026-10-29 02:36:09,787 - INFO - Uso de RAM actual: 69.1%
+2026-10-29 02:36:54,788 - INFO - Uso de RAM actual: 69.0%
+2026-10-29 02:37:39,790 - INFO - Uso de RAM actual: 71.9%
+2026-10-29 02:38:24,791 - INFO - Uso de RAM actual: 72.6%
+2026-10-29 02:39:09,792 - INFO - Uso de RAM actual: 85.0%
+2026-10-29 02:39:54,793 - INFO - Uso de RAM actual: 54.6%
+2026-10-29 02:40:39,794 - INFO - Uso de RAM actual: 56.6%
+2026-10-29 02:41:24,795 - INFO - Uso de RAM actual: 58.2%
+2026-10-29 02:42:09,796 - INFO - Uso de RAM actual: 68.3%
+2026-10-29 02:42:54,798 - INFO - Uso de RAM actual: 70.2%
+2026-10-29 02:43:39,799 - INFO - Uso de RAM actual: 70.2%
+2026-10-29 02:44:24,800 - INFO - Uso de RAM actual: 69.3%
+2026-10-29 02:45:09,801 - INFO - Uso de RAM actual: 71.6%
+2026-10-29 02:45:54,802 - INFO - Uso de RAM actual: 73.4%
+2026-10-29 02:46:39,802 - INFO - Uso de RAM actual: 73.2%
+2026-10-29 02:47:24,803 - INFO - Uso de RAM actual: 73.1%
+2026-10-29 02:48:09,805 - INFO - Uso de RAM actual: 72.9%
+2026-10-29 02:48:54,806 - INFO - Uso de RAM actual: 74.5%
+2026-10-29 02:49:39,807 - INFO - Uso de RAM actual: 75.0%
+2026-10-29 02:50:24,808 - INFO - Uso de RAM actual: 76.2%
+2026-10-29 02:51:09,809 - INFO - Uso de RAM actual: 78.1%
+2026-10-29 02:51:54,810 - INFO - Uso de RAM actual: 79.9%
+2026-10-29 02:52:39,811 - INFO - Uso de RAM actual: 35.2%
+2026-10-29 02:53:24,813 - INFO - Uso de RAM actual: 53.6%
+2026-10-29 02:54:09,814 - INFO - Uso de RAM actual: 59.0%
+2026-10-29 02:54:54,817 - INFO - Uso de RAM actual: 56.9%
+2026-10-29 02:55:39,817 - INFO - Uso de RAM actual: 57.5%
+2026-10-29 02:56:24,818 - INFO - Uso de RAM actual: 57.3%
+2026-10-29 02:57:09,820 - INFO - Uso de RAM actual: 56.1%
+2026-10-29 02:57:54,821 - INFO - Uso de RAM actual: 56.3%
+2026-10-29 02:58:39,821 - INFO - Uso de RAM actual: 65.1%
+2026-10-29 02:59:24,822 - INFO - Uso de RAM actual: 67.6%
+2026-10-29 03:00:09,824 - INFO - Uso de RAM actual: 67.5%
+2026-10-29 03:00:54,825 - INFO - Uso de RAM actual: 68.1%
+2026-10-29 03:01:39,826 - INFO - Uso de RAM actual: 68.2%
+2026-10-29 03:02:24,827 - INFO - Uso de RAM actual: 68.2%
+2026-10-29 03:03:09,828 - INFO - Uso de RAM actual: 70.5%
+2026-10-29 03:03:54,829 - INFO - Uso de RAM actual: 71.0%
+2026-10-29 03:04:39,830 - INFO - Uso de RAM actual: 70.6%
+2026-10-29 03:05:24,832 - INFO - Uso de RAM actual: 69.1%
+2026-10-29 03:06:09,833 - INFO - Uso de RAM actual: 75.1%
+2026-10-29 03:06:54,834 - INFO - Uso de RAM actual: 74.6%
+2026-10-29 03:07:39,835 - INFO - Uso de RAM actual: 77.0%
+2026-10-29 03:08:24,837 - INFO - Uso de RAM actual: 76.1%
+2026-10-29 03:09:09,838 - INFO - Uso de RAM actual: 76.6%
+2026-10-29 03:09:54,839 - INFO - Uso de RAM actual: 78.1%
+2026-10-29 03:10:39,840 - INFO - Uso de RAM actual: 77.3%
+2026-10-29 03:11:24,841 - INFO - Uso de RAM actual: 78.5%
+2026-10-29 03:12:09,842 - INFO - Uso de RAM actual: 77.5%
+2026-10-29 03:12:54,851 - INFO - Uso de RAM actual: 78.4%
+2026-10-29 03:13:39,851 - INFO - Uso de RAM actual: 82.7%
+2026-10-29 03:14:24,862 - INFO - Uso de RAM actual: 48.7%
+2026-10-29 03:15:09,865 - INFO - Uso de RAM actual: 51.9%
+2026-10-29 03:15:54,866 - INFO - Uso de RAM actual: 52.2%
+2026-10-29 03:16:39,867 - INFO - Uso de RAM actual: 56.7%
+2026-10-29 03:17:24,869 - INFO - Uso de RAM actual: 55.7%
+2026-10-29 03:18:09,870 - INFO - Uso de RAM actual: 55.5%
+2026-10-29 03:18:54,871 - INFO - Uso de RAM actual: 58.5%
+2026-10-29 03:19:39,872 - INFO - Uso de RAM actual: 60.5%
+2026-10-29 03:20:24,874 - INFO - Uso de RAM actual: 61.0%
+2026-10-29 03:21:09,875 - INFO - Uso de RAM actual: 62.5%
+2026-10-29 03:21:54,877 - INFO - Uso de RAM actual: 61.7%
+2026-10-29 03:22:39,878 - INFO - Uso de RAM actual: 61.8%
+2026-10-29 03:23:24,879 - INFO - Uso de RAM actual: 61.4%
+2026-10-29 03:24:09,880 - INFO - Uso de RAM actual: 70.9%
+2026-10-29 03:24:54,881 - INFO - Uso de RAM actual: 72.0%
+2026-10-29 03:25:39,882 - INFO - Uso de RAM actual: 72.8%
+2026-10-29 03:26:24,883 - INFO - Uso de RAM actual: 73.0%
+2026-10-29 03:27:09,884 - INFO - Uso de RAM actual: 73.1%
+2026-10-29 03:27:54,885 - INFO - Uso de RAM actual: 76.6%
+2026-10-29 03:28:39,887 - INFO - Uso de RAM actual: 76.9%
+2026-10-29 03:29:24,888 - INFO - Uso de RAM actual: 78.5%
+2026-10-29 03:30:09,890 - INFO - Uso de RAM actual: 80.6%
+2026-10-29 03:30:54,890 - INFO - Uso de RAM actual: 81.7%
+2026-10-29 03:31:39,892 - INFO - Uso de RAM actual: 83.3%
+2026-10-29 03:32:24,893 - INFO - Uso de RAM actual: 79.8%
+2026-10-29 03:33:09,895 - INFO - Uso de RAM actual: 84.2%
+2026-10-29 03:33:54,896 - INFO - Uso de RAM actual: 84.2%
+2026-10-29 03:34:39,897 - INFO - Uso de RAM actual: 52.1%
+2026-10-29 03:35:24,899 - INFO - Uso de RAM actual: 58.2%
+2026-10-29 03:36:09,900 - INFO - Uso de RAM actual: 57.7%
+2026-10-29 03:36:54,901 - INFO - Uso de RAM actual: 60.9%
+2026-10-29 03:37:39,902 - INFO - Uso de RAM actual: 61.0%
+2026-10-29 03:38:24,903 - INFO - Uso de RAM actual: 62.3%
+2026-10-29 03:39:09,904 - INFO - Uso de RAM actual: 61.0%
+2026-10-29 03:39:54,905 - INFO - Uso de RAM actual: 65.7%
+2026-10-29 03:40:39,906 - INFO - Uso de RAM actual: 66.2%
+2026-10-29 03:41:24,907 - INFO - Uso de RAM actual: 69.4%
+2026-10-29 03:42:09,909 - INFO - Uso de RAM actual: 69.5%
+2026-10-29 03:42:54,910 - INFO - Uso de RAM actual: 72.3%
+2026-10-29 03:43:39,911 - INFO - Uso de RAM actual: 70.6%
+2026-10-29 03:44:24,912 - INFO - Uso de RAM actual: 74.7%
+2026-10-29 03:45:09,913 - INFO - Uso de RAM actual: 75.3%
+2026-10-29 03:45:54,914 - INFO - Uso de RAM actual: 77.0%
+2026-10-29 03:46:39,916 - INFO - Uso de RAM actual: 75.8%
+2026-10-29 03:47:24,917 - INFO - Uso de RAM actual: 76.6%
+2026-10-29 03:48:09,918 - INFO - Uso de RAM actual: 75.6%
+2026-10-29 03:48:54,919 - INFO - Uso de RAM actual: 74.6%
+2026-10-29 03:49:39,920 - INFO - Uso de RAM actual: 77.3%
+2026-10-29 03:50:24,921 - INFO - Uso de RAM actual: 77.8%
+2026-10-29 03:51:09,921 - INFO - Uso de RAM actual: 84.2%
+2026-10-29 03:51:54,923 - INFO - Uso de RAM actual: 81.1%
+2026-10-29 03:52:39,923 - INFO - Uso de RAM actual: 79.0%
+2026-10-29 03:53:24,925 - INFO - Uso de RAM actual: 80.7%
+2026-10-29 03:54:09,926 - INFO - Uso de RAM actual: 80.2%
+2026-10-29 03:54:54,927 - INFO - Uso de RAM actual: 84.3%
+2026-10-29 03:55:39,930 - INFO - Uso de RAM actual: 53.6%
+2026-10-29 03:56:24,933 - INFO - Uso de RAM actual: 56.1%
+2026-10-29 03:57:09,936 - INFO - Uso de RAM actual: 58.5%
+2026-10-29 03:57:54,938 - INFO - Uso de RAM actual: 61.4%
+2026-10-29 03:58:39,939 - INFO - Uso de RAM actual: 62.7%
+2026-10-29 03:59:24,941 - INFO - Uso de RAM actual: 63.3%
+2026-10-29 04:00:09,942 - INFO - Uso de RAM actual: 65.5%
+2026-10-29 04:00:54,943 - INFO - Uso de RAM actual: 64.9%
+2026-10-29 04:01:39,944 - INFO - Uso de RAM actual: 66.2%
+2026-10-29 04:02:24,945 - INFO - Uso de RAM actual: 65.9%
+2026-10-29 04:03:09,946 - INFO - Uso de RAM actual: 66.2%
+2026-10-29 04:03:54,947 - INFO - Uso de RAM actual: 66.5%
+2026-10-29 04:04:39,948 - INFO - Uso de RAM actual: 65.4%
+2026-10-29 04:05:24,949 - INFO - Uso de RAM actual: 66.0%
+2026-10-29 04:06:09,950 - INFO - Uso de RAM actual: 65.8%
+2026-10-29 04:06:54,951 - INFO - Uso de RAM actual: 65.0%
+2026-10-29 04:07:39,952 - INFO - Uso de RAM actual: 68.5%
+2026-10-29 04:08:24,953 - INFO - Uso de RAM actual: 67.1%
+2026-10-29 04:09:09,954 - INFO - Uso de RAM actual: 66.1%
+2026-10-29 04:09:54,955 - INFO - Uso de RAM actual: 66.2%
+2026-10-29 04:10:39,956 - INFO - Uso de RAM actual: 65.1%
+2026-10-29 04:11:24,958 - INFO - Uso de RAM actual: 65.7%
+2026-10-29 04:12:09,958 - INFO - Uso de RAM actual: 65.9%
+2026-10-29 04:12:54,961 - INFO - Uso de RAM actual: 65.6%
+2026-10-29 04:13:39,962 - INFO - Uso de RAM actual: 65.8%
+2026-10-29 04:14:24,963 - INFO - Uso de RAM actual: 65.9%
+2026-10-29 04:15:09,964 - INFO - Uso de RAM actual: 66.0%
+2026-10-29 04:15:54,965 - INFO - Uso de RAM actual: 66.0%
+2026-10-29 04:16:39,966 - INFO - Uso de RAM actual: 66.5%
+2026-10-29 04:17:24,967 - INFO - Uso de RAM actual: 66.6%
+2026-10-29 04:18:09,968 - INFO - Uso de RAM actual: 66.4%
+2026-10-29 04:18:54,969 - INFO - Uso de RAM actual: 67.0%
+2026-10-29 12:39:54,277 - INFO - Servicio de monitoreo de RAM inteligente iniciado.
+2026-10-29 12:39:54,277 - INFO - Uso de RAM actual: 56.5%
+2026-10-29 12:40:39,278 - INFO - Uso de RAM actual: 43.7%
+2026-10-29 12:41:24,280 - INFO - Uso de RAM actual: 48.0%
+2026-10-29 12:42:09,281 - INFO - Uso de RAM actual: 52.2%
+2026-10-29 12:42:54,282 - INFO - Uso de RAM actual: 52.8%
+2026-10-29 12:43:39,283 - INFO - Uso de RAM actual: 53.1%
+2026-10-29 12:44:24,284 - INFO - Uso de RAM actual: 53.5%

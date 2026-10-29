@@ -41,20 +41,32 @@ class BusinessScraper:
         return clean_name if clean_name else "Empresa Desconocida"
 
     def scrape(self, url: str) -> dict:
+        """
+        Extrae información de contacto de una empresa desde su sitio web.
+        Devuelve un diccionario con company_name, contact_email, phone.
+        """
         domain = urlparse(url).netloc.lower()
         
         # Comprobar si el dominio está en la lista negra
         if any(blacked in domain for blacked in BLACKLIST_DOMAINS):
             logger.info(f"🚫 Dominio en lista negra ignorado: {domain}")
-            return {"company_name": "Empresa Ignorada", "contact_email": None, "phone": None}
+            return {
+                "company_name": "Empresa Ignorada",
+                "contact_email": None,
+                "phone": None
+            }
 
         try:
-            response = requests.get(url, headers=self.headers, timeout=8)
-            # Forzar codificación UTF-8 para evitar caracteres raros en tildes y eñes
+            response = requests.get(url, headers=self.headers, timeout=10)
             response.encoding = 'utf-8'
 
             if response.status_code != 200:
-                return {"company_name": "Empresa Desconocida", "contact_email": None, "phone": None}
+                logger.warning(f"Estado HTTP {response.status_code} para {url}")
+                return {
+                    "company_name": "Empresa Desconocida",
+                    "contact_email": None,
+                    "phone": None
+                }
 
             soup = BeautifulSoup(response.text, "html.parser")
 
@@ -78,4 +90,8 @@ class BusinessScraper:
 
         except Exception as e:
             logger.error(f"❌ Error escaneando {url}: {e}")
-            return {"company_name": "Empresa Desconocida", "contact_email": None, "phone": None}
+            return {
+                "company_name": "Empresa Desconocida",
+                "contact_email": None,
+                "phone": None
+            }
